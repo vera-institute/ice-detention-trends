@@ -61,8 +61,8 @@ Facility-level population statistics for each day between October 1, 2008-March 
 | ----------------------- | ----------- | ------------------------------------------------------------------------------ |
 | detention_facility_code | `string`    | The unique identifier used in the ICE detention data for each facility    |
 | date                    | `date` | The day each count is reported for (`yyyy-mm-dd` format)                       |
-| daily_pop                 | `numeric`   | 24-hour population: the number of unique people detained on the given day                          |
-| midnight_pop                     | `numeric`   | Midnight population: the number of unique people detained over midnight (i.e. measured at 11:59pm)  |
+| daily_pop                 | `numeric`   | 24-hour population: the number of people detained at any point during a given day, including those booked out before midnight                          |
+| midnight_pop                     | `numeric`   | Midnight population: the number of people detained at 11:59pm on a given day  |
 
 ## `metadata/`
 ### `facilities.csv`
