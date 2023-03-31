@@ -1,44 +1,31 @@
 ![](https://www.vera.org/dist/img/logo_full.svg)
 
-# ICE Detention Trends Dataset
-Data showing daily facility level populations across all known ICE detention facilities
-from October 1, 2008 to March 30, 2020. The underlying data were acquired through FOIA
-requests with IDs 2017-ICFO-34275 and 2019-ICFO-10844 and were both made available to
-Vera by David Hausman. Further processing of this underlying data enables
-aggregating the number of unique people detained by ICE to the daily level.
+# ICE Detention Trends Data
+Vera's ICE Detention Trends dashboard<!-- TODO: Link here --> reveals an unprecedented level of detail about ICE detention populations - nationally and in the 1,089 facilities in which ICE detained people - on each day between October 1, 2008 and March 30, 2020 (FY2009 - mid-FY2020). This repository includes the aggregated data visualized in the dashboard, including information on:
 
-This dataset also includes facility information produced by aggregating data from The
-Marshall Project, The National Immigrant Justice Center, datasets acquired though FOIA
-that have been made publicly available, the ICE detention stats spreadsheet on the web,
-the ICE dedicated/non-dedicated facilities spreadsheet and web-scraped public data.
+* Midnight population: the daily number of people detained at midnight (nationally and by facility).
 
-For more details on how we counted the number of people detained by ICE and
-aggregated facility metadata, please see the accompanying ICE Detention Trends
-Technical Appendix: <!-- TODO: Link here -->.
+* 24-hour population: the number of people detained for any part of a given day, including those whom ICE transferred or booked-out of custody before midnight (nationally and by facility). While ICE relies solely on midnight populations in its reporting, Vera includes both types of daily populations - midnight and 24-hour - as the two can differ drastically.
 
-Additionally, this work relies on the creation of a `detention_stay_id` to
-enable us to count the number of unique people detained over a given timeframe
-(i.e. each day). For more details on this work, please see the accompanying
-whitepaper: <!-- TODO: Link person_id whitepaper -->.
+* Book-ins: the daily number of people ICE booked into custody (nationally).
 
-Vera's dashboard visualizing this data is available here: <!-- TODO: Fill in link -->.
+* Book-outs: the daily number of people ICE booked out of custody (nationally).
+
+* Facility names, locations, and types (as coded by ICE in other datasets).
+
+## About the Data
+The dashboard primarily draws from ICE detention datasets released through a Freedom of Information Act (FOIA) request, shared with Vera by David Hausman, assistant professor of law, University of California, Berkeley. To overcome limitations of the original data, Vera developed a novel algorithm to construct individual detention histories, from a person's initial book-in to their final-book out, inclusive of any transfers. Doing so allowed Vera to account for duplicated data and compute detention populations. Vera drew from additional ICE datasets for information on facility locations and facility types. Otherwise, Vera chose to present the ICE detention data "as is" to the greatest extent possible, including any inconsistencies or errors that may be present in the data compiled and shared by ICE. For more information about the data and Vera's methodology, see the accompanying technical appendix<!-- TODO: Link here -->.
 
 # Data Dictionaries
-In this dataset, we include information on:
-1. The number of unique people detained each day and over midnight by ICE at a daily facility level
-1. The number of unique people detained each day and over midnight by ICE at a daily national level
-1. The number of national book-in and book-out events daily
-1. Name, location and type information for facilities used by ICE to detain people
+The directory tree below outlines the organization of this repository, followed by data dictionaries for each data file <!-- TODO: Fill in link -->.
 
-The directory tree below outlines the organization, followed by data dictionaries for
-each data file:
 
 ```
 ice-detention-trends/
     |-- README.md
     |-- License.md
     |-- national.csv
-    |-- faciltiy/
+    |-- facility/
     |   |-- FY2009.csv
     |   |-- FY2010.csv
     |   |-- FY2011.csv
@@ -57,48 +44,41 @@ ice-detention-trends/
 
 
 ## `national.csv`
-National counts which includes the number of people detained each day as well as the
-number of book-in and book-outs.
+National population statistics for each day between October 1, 2008-March 30, 2020, including midnight population, 24-hour population, book-ins, and book-outs.
 | Variable                | Type        | Description                                                                              |
 | ----------------------- | ----------- | --------------------------------------------------------------------- |
-| date                    | `timestamp` | The day each count is reported for (`yyyy-mm-dd` format)              |
-| pop_24h                 | `numeric`   | The number of unique people detained on each day of the month         |
-| pop                     | `numeric`   | The number of unique people detained over each midnight of the month  |
-| book_in                 | `numeric`   | The number of people booked into ICE's detention network              |
-| book_out                | `numeric`   | The number of people booked out of ICE's detention network            |
+| date                    | `date` | The date for which each metric is reported (`yyyy-mm-dd` format)              |
+| daily_pop                 | `numeric`   | 24-hour population: the number of people detained at any point during a given day, including those booked out before midnight         |
+| midnight_pop            | `numeric`   | Midnight population: the number of people detained at 11:59pm on a given day  |
+| book_in                 | `numeric`   | Book-ins: the number of people booked into ICE custody              |
+| book_out                | `numeric`   | Book-outs: the number of people booked out of ICE custody            |
 
 
-## `faciltiy/`
+## `facility/`
 ### `FY20XX.csv`
-Daily population counts at the facility level:
+Facility-level population statistics for each day between October 1, 2008-March 30, 2020, including midnight population and 24-hour population.  To make file sizes more manageable, Vera split the data into separate .csv files by fiscal year (October 1 of the previous year through September 30 of a given year). FY2020 is a partial fiscal year covering October 1, 2019 - March 30, 2020.
 | Variable                | Type        | Description                                                                    |
 | ----------------------- | ----------- | ------------------------------------------------------------------------------ |
-| detention_facility_code | `string`    | ICE facility level unique identifier, i.e. Detention Location Code (detloc)    |
-| date                    | `timestamp` | The day each count is reported for (`yyyy-mm-dd` format)                       |
-| pop_24h                 | `numeric`   | The number of unique people detained on the given day                          |
-| pop                     | `numeric`   | The number of unique people detained over midnight (i.e. measured at 11:59pm)  |
-
-Note that the first 30 days have Null values for the 30-day moving average counts
-because not enough time has passed to compute the average.
-
+| detention_facility_code | `string`    | The unique identifier used in the ICE detention data for each facility    |
+| date                    | `date` | The day each count is reported for (`yyyy-mm-dd` format)                       |
+| daily_pop                 | `numeric`   | 24-hour population: the number of unique people detained on the given day                          |
+| midnight_pop                     | `numeric`   | Midnight population: the number of unique people detained over midnight (i.e. measured at 11:59pm)  |
 
 ## `metadata/`
 ### `facilities.csv`
-A lookup table mapping each Detention Location Code to information about the facility:
+A lookup table mapping each detention_facility_code to information about the facility, drawing from supplemental ICE data sources. (See technical appendix for more detail.)
 
 | Variable                | Type      | Description                                                                                |
 | ----------------------- | --------- | ------------------------------------------------------------------------------------------ |
-| detention_facility_code | `string`  | ICE facility level unique identifier, i.e. Detention Location Code (detloc)                |
-| type_detailed           | `string`  | ICE provided facility type. For more details on mapping, see <!-- TODO: link mapping -->   |
-| latitude                | `numeric` | The physical location of the facility                                                      |
-| longitude               | `numeric` | The physical location of the facility                                                      |
-| state                   | `string`  | The census state code, this includes codes for US teritories (e.g. "PR" for "Puerto Rico") |
-| detention_facility_name | `string`  | The name of the facility as seen in FOIA 2017-ICFO-34275 and FOIA 2019-ICFO-10844          |
-
+| detention_facility_code | `string`  | The unique identifier used in the ICE detention data for each facility                |
+| detention_facility_name | `string`  | The facility name associated with the detention_facility_code in the ICE detention data          |
+| type_detailed           | `string`  | The facility type as coded by ICE in supplemental data sources   |
+| latitude                | `numeric` | The latitude coordinate of the facility location.                                 |
+| longitude               | `numeric` | The longitude coordinate of the facility location.        |
+| city                   | `string`  | The city in which the facility is located. |
+| state                   | `string`  | The state abbreviation code. This includes codes for U.S. teritories (e.g. "PR" for "Puerto Rico") |
 
 # License
 By downloading the data, you hereby agree to all the terms specified in this license: [License.md](License.md).
 
-
-# Contributors
-<!-- TODO -->
+# Contact/Credits/Acknowledgements (TK)
