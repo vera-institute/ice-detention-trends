@@ -1,24 +1,42 @@
 ![](https://www.vera.org/dist/img/logo_full.svg)
 
 # ICE Detention Trends Data
-Vera's ICE Detention Trends dashboard<!-- TODO: Link here --> reveals an unprecedented level of detail about ICE detention populations - nationally and in the 1,089 facilities in which ICE detained people - on each day between October 1, 2008 and March 30, 2020 (FY2009 - mid-FY2020). This repository includes the aggregated data visualized in the dashboard, including information on:
+Vera's ICE Detention Trends dashboard<!-- TODO: Link here --> reveals an
+unprecedented level of detail about ICE detention populations - nationally and
+in the 1,089 facilities in which ICE detained people - on each day between
+October 1, 2008 and March 30, 2020 (FY2009 - mid-FY2020). This repository
+includes the aggregated data visualized in the dashboard, including information
+on:
 
-* Midnight population: the daily number of people detained at midnight (nationally and by facility).
-
-* 24-hour population: the number of people detained for any part of a given day, including those whom ICE transferred or booked-out of custody before midnight (nationally and by facility). While ICE relies solely on midnight populations in its reporting, Vera includes both types of daily populations - midnight and 24-hour - as the two can differ drastically.
-
-* Book-ins: the daily number of people ICE booked into custody (nationally).
-
-* Book-outs: the daily number of people ICE booked out of custody (nationally).
-
-* Facility names, locations, and types (as coded by ICE in other datasets).
+- Midnight population: the daily number of people detained at midnight
+(nationally and by facility).
+- 24-hour population: the number of people detained for any part of a given day,
+including those whom ICE transferred or booked-out of custody before midnight
+(nationally and by facility). While ICE relies solely on midnight populations in
+its reporting, Vera includes both types of daily populations - midnight and
+24-hour - as the two can differ drastically.
+- Book-ins: the daily number of people ICE booked into custody (nationally).
+- Book-outs: the daily number of people ICE booked out of custody (nationally).
+- Facility names, locations, and types (as coded by ICE in other datasets).
 
 ## About the Data
-The dashboard primarily draws from ICE detention datasets released through a Freedom of Information Act (FOIA) request, shared with Vera by David Hausman, assistant professor of law, University of California, Berkeley. To overcome limitations of the original data, Vera developed a novel algorithm to construct individual detention histories, from a person's initial book-in to their final-book out, inclusive of any transfers. Doing so allowed Vera to account for duplicated data and compute detention populations. Vera drew from additional ICE datasets for information on facility locations and facility types. Otherwise, Vera chose to present the ICE detention data "as is" to the greatest extent possible, including any inconsistencies or errors that may be present in the data compiled and shared by ICE. For more information about the data and Vera's methodology, see the accompanying technical appendix<!-- TODO: Link here -->.
+The dashboard primarily draws from ICE detention datasets released through a
+Freedom of Information Act (FOIA) request, shared with Vera by David Hausman,
+assistant professor of law, University of California, Berkeley. To overcome
+limitations of the original data, Vera developed a novel algorithm to construct
+individual detention histories, from a person's initial book-in to their
+final-book out, inclusive of any transfers. Doing so allowed Vera to account for
+duplicated data and compute detention populations. Vera drew from additional ICE
+datasets for information on facility locations and facility types. Otherwise,
+Vera chose to present the ICE detention data "as is" to the greatest extent
+possible, including any inconsistencies or errors that may be present in the
+data compiled and shared by ICE. For more information about the data and Vera's
+methodology, see the accompanying technical appendix <!-- TODO: Link here -->.
+
 
 # Data Dictionaries
-The directory tree below outlines the organization of this repository, followed by data dictionaries for each data file <!-- TODO: Fill in link -->.
-
+The directory tree below outlines the organization of this repository, followed
+by data dictionaries for each data file <!-- TODO: Fill in link -->.
 
 ```
 ice-detention-trends/
@@ -42,43 +60,53 @@ ice-detention-trends/
         `-- facilities.csv
 ```
 
-
 ## `national.csv`
-National population statistics for each day between October 1, 2008-March 30, 2020, including midnight population, 24-hour population, book-ins, and book-outs.
-| Variable                | Type        | Description                                                                              |
-| ----------------------- | ----------- | --------------------------------------------------------------------- |
-| date                    | `date` | The date for which each metric is reported (`yyyy-mm-dd` format)              |
-| daily_pop                 | `numeric`   | 24-hour population: the number of people detained at any point during a given day, including those booked out before midnight         |
-| midnight_pop            | `numeric`   | Midnight population: the number of people detained at 11:59pm on a given day  |
-| book_in                 | `numeric`   | Book-ins: the number of people booked into ICE custody              |
-| book_out                | `numeric`   | Book-outs: the number of people booked out of ICE custody            |
+National population statistics for each day between October 1, 2008-March 30,
+2020, including midnight population, 24-hour population, book-ins, and
+book-outs.
+
+| Variable     | Type      | Description                                                                                                                   |
+| ------------ | --------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| date         | `date`    | The date for which each metric is reported (`yyyy-mm-dd` format)                                                              |
+| daily_pop    | `numeric` | 24-hour population: the number of people detained at any point during a given day, including those booked out before midnight |
+| midnight_pop | `numeric` | Midnight population: the number of people detained at 11:59pm on a given day                                                  |
+| book_in      | `numeric` | Book-ins: the number of people booked into ICE custody                                                                        |
+| book_out     | `numeric` | Book-outs: the number of people booked out of ICE custody                                                                     |
 
 
 ## `facility/`
 ### `FY20XX.csv`
-Facility-level population statistics for each day between October 1, 2008-March 30, 2020, including midnight population and 24-hour population.  To make file sizes more manageable, Vera split the data into separate .csv files by fiscal year (October 1 of the previous year through September 30 of a given year). FY2020 is a partial fiscal year covering October 1, 2019 - March 30, 2020.
-| Variable                | Type        | Description                                                                    |
-| ----------------------- | ----------- | ------------------------------------------------------------------------------ |
-| detention_facility_code | `string`    | The unique identifier used in the ICE detention data for each facility    |
-| date                    | `date` | The day each count is reported for (`yyyy-mm-dd` format)                       |
-| daily_pop                 | `numeric`   | 24-hour population: the number of people detained at any point during a given day, including those booked out before midnight                          |
-| midnight_pop                     | `numeric`   | Midnight population: the number of people detained at 11:59pm on a given day  |
+Facility-level population statistics for each day between October 1, 2008-March
+30, 2020, including midnight population and 24-hour population.  To make file
+sizes more manageable, Vera split the data into separate .csv files by fiscal
+year (October 1 of the previous year through September 30 of a given year).
+FY2020 is a partial fiscal year covering October 1, 2019 - March 30, 2020.
+
+| Variable                | Type      | Description                                                                                                                   |
+| ----------------------- | --------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| detention_facility_code | `string`  | The unique identifier used in the ICE detention data for each facility                                                        |
+| date                    | `date`    | The day each count is reported for (`yyyy-mm-dd` format)                                                                      |
+| daily_pop               | `numeric` | 24-hour population: the number of people detained at any point during a given day, including those booked out before midnight |
+| midnight_pop            | `numeric` | Midnight population: the number of people detained at 11:59pm on a given day                                                  |
 
 ## `metadata/`
 ### `facilities.csv`
-A lookup table mapping each detention_facility_code to information about the facility, drawing from supplemental ICE data sources. (See technical appendix for more detail.)
+A lookup table mapping each detention_facility_code to information about the
+facility, drawing from supplemental ICE data and other sources. (See technical
+appendix for more detail.)
 
-| Variable                | Type      | Description                                                                                |
-| ----------------------- | --------- | ------------------------------------------------------------------------------------------ |
-| detention_facility_code | `string`  | The unique identifier used in the ICE detention data for each facility                |
-| detention_facility_name | `string`  | The facility name associated with the detention_facility_code in the ICE detention data          |
-| type_detailed           | `string`  | The facility type as coded by ICE in supplemental data sources   |
-| latitude                | `numeric` | The latitude coordinate of the facility location.                                 |
-| longitude               | `numeric` | The longitude coordinate of the facility location.        |
-| city                   | `string`  | The city in which the facility is located. |
+| Variable                | Type      | Description                                                                                        |
+| ----------------------- | --------- | -------------------------------------------------------------------------------------------------- |
+| detention_facility_code | `string`  | The unique identifier used in the ICE detention data for each facility                             |
+| detention_facility_name | `string`  | The facility name associated with the detention_facility_code in the ICE detention data            |
+| type_detailed           | `string`  | The facility type as coded by ICE in supplemental data sources                                     |
+| latitude                | `numeric` | The latitude coordinate of the facility location                                                   |
+| longitude               | `numeric` | The longitude coordinate of the facility location                                                  |
+| city                    | `string`  | The city in which the facility is located                                                          |
 | state                   | `string`  | The state abbreviation code. This includes codes for U.S. teritories (e.g. "PR" for "Puerto Rico") |
 
 # License
-By downloading the data, you hereby agree to all the terms specified in this license: [License.md](License.md).
+By downloading the data, you hereby agree to all the terms specified in this
+license: [License.md](License.md).
 
 # Contact/Credits/Acknowledgements (TK)
