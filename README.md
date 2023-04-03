@@ -103,7 +103,7 @@ appendix for more detail.)
 | latitude                | `numeric` | The latitude coordinate of the facility location                                                   |
 | longitude               | `numeric` | The longitude coordinate of the facility location                                                  |
 | city                    | `string`  | The city in which the facility is located                                                          |
-| state                   | `string`  | The state abbreviation code. This includes codes for U.S. teritories (e.g. "PR" for "Puerto Rico") |
+| state                   | `string`  | The state abbreviation code. This includes codes for U.S. territories (e.g. "PR" for "Puerto Rico") |
 
 # License
 By downloading the data, you hereby agree to all the terms specified in this
