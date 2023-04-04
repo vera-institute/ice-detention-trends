@@ -36,7 +36,7 @@ methodology, see the accompanying technical appendix <!-- TODO: Link here -->.
 
 # Data Dictionaries
 The directory tree below outlines the organization of this repository, followed
-by data dictionaries for each data file <!-- TODO: Fill in link -->.
+by data dictionaries for each data file.
 
 ```
 ice-detention-trends/
