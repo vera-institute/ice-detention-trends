@@ -3,7 +3,7 @@
 # ICE Detention Trends Data
 Vera's ICE Detention Trends dashboard<!-- TODO: Link here --> reveals an
 unprecedented level of detail about ICE detention populations - nationally and
-in the 1,089 facilities in which ICE detained people - on each day between
+in the 1,081 facilities in which ICE detained people - on each day between
 October 1, 2008 and March 30, 2020 (FY2009 - mid-FY2020). This repository
 includes the aggregated data visualized in the dashboard, including information
 on:
