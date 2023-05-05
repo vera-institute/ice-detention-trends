@@ -1,10 +1,8 @@
 ![](https://www.vera.org/dist/img/logo_full.svg)
 
 # ICE Detention Trends Data
-Vera's ICE Detention Trends dashboard<!-- TODO: Link here --> reveals an
-unprecedented level of detail about ICE detention populations - nationally and
-in the 1,089 facilities in which ICE detained people - on each day between
-October 1, 2008 and March 30, 2020 (FY2009 - mid-FY2020). This repository
+Vera’s [ICE Detention Trends]([url](http://vera.org/ice-detention-trends)) dashboard reveals an unprecedented level of detail about ICE detention populations, both nationally and in the 1,081 facilities in which ICE detained people, on each day between October 1, 2008, and March 30, 2020—fiscal year (FY) 2009 to mid-FY2020.
+This repository
 includes the aggregated data visualized in the dashboard, including information
 on:
 
@@ -13,8 +11,8 @@ on:
 - 24-hour population: the number of people detained for any part of a given day,
 including those whom ICE transferred or booked-out of custody before midnight
 (nationally and by facility). While ICE relies solely on midnight populations in
-its reporting, Vera includes both types of daily populations - midnight and
-24-hour - as the two can differ drastically.
+its reporting, Vera includes both types of daily populations—midnight and
+24-hour—as the two can differ drastically.
 - Book-ins: the daily number of people ICE booked into custody (nationally).
 - Book-outs: the daily number of people ICE booked out of custody (nationally).
 - Facility names, locations, and types (as coded by ICE in other datasets).
@@ -31,7 +29,7 @@ datasets for information on facility locations and facility types. Otherwise,
 Vera chose to present the ICE detention data "as is" to the greatest extent
 possible, including any inconsistencies or errors that may be present in the
 data compiled and shared by ICE. For more information about the data and Vera's
-methodology, see the accompanying technical appendix <!-- TODO: Link here -->.
+methodology, see the accompanying technical appendix<!-- TODO: Link here -->.
 
 
 # Data Dictionaries
@@ -61,7 +59,7 @@ ice-detention-trends/
 ```
 
 ## `national.csv`
-National population statistics for each day between October 1, 2008-March 30,
+National population statistics for each day bewteen October 1, 2008, and March 30,
 2020, including midnight population, 24-hour population, book-ins, and
 book-outs.
 
@@ -76,11 +74,11 @@ book-outs.
 
 ## `facility/`
 ### `FY20XX.csv`
-Facility-level population statistics for each day between October 1, 2008-March
+Facility-level population statistics for each day between October 1, 2008, and March
 30, 2020, including midnight population and 24-hour population.  To make file
 sizes more manageable, Vera split the data into separate .csv files by fiscal
 year (October 1 of the previous year through September 30 of a given year).
-FY2020 is a partial fiscal year covering October 1, 2019 - March 30, 2020.
+FY2020 is a partial fiscal year covering October 1, 2019, to March 30, 2020.
 
 | Variable                | Type      | Description                                                                                                                   |
 | ----------------------- | --------- | ----------------------------------------------------------------------------------------------------------------------------- |
