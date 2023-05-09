@@ -1,7 +1,7 @@
 ![](https://www.vera.org/dist/img/logo_full.svg)
 
 # ICE Detention Trends Data
-Vera’s [ICE Detention Trends]([url](http://vera.org/ice-detention-trends)) dashboard reveals an unprecedented level of detail about ICE detention populations, both nationally and in the 1,081 facilities in which ICE detained people, on each day between October 1, 2008, and March 30, 2020—fiscal year (FY) 2009 to mid-FY2020.
+Vera’s [ICE Detention Trends](http://vera.org/ice-detention-trends) dashboard reveals an unprecedented level of detail about ICE detention populations, both nationally and in the 1,081 facilities in which ICE detained people, on each day between October 1, 2008, and March 30, 2020—fiscal year (FY) 2009 to mid-FY2020.
 This repository
 includes the aggregated data visualized in the dashboard, including information
 on:
