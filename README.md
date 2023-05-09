@@ -59,7 +59,7 @@ ice-detention-trends/
 ```
 
 ## `national.csv`
-National population statistics for each day bewteen October 1, 2008, and March 30,
+National population statistics for each day between October 1, 2008, and March 30,
 2020, including midnight population, 24-hour population, book-ins, and
 book-outs.
 
