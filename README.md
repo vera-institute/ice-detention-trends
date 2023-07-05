@@ -107,4 +107,29 @@ appendix for more detail.)
 By downloading the data, you hereby agree to all the terms specified in this
 license: [License.md](License.md).
 
-# Contact/Credits/Acknowledgements (TK)
+# Credits
+Data analysis: Noelle Smart and Zachary Lawrence
+Data engineering: Zachary Lawrence
+Design and development: Jill Hubley
+Writing: Noelle Smart
+Editing: Léon Digard
+
+# Acknowledgements
+Vera thanks [David Hausman](https://www.david-hausman.com/), assistant professor
+of law, University of California, Berkeley, for providing the
+detention-stint-level ICE detention datasets acquired through FOIA requests
+which are visualized in this dashboard. Vera also thanks the following
+organizations for making available supplemental ICE datasets Vera used to
+process the data and geocode facilities: Human Rights Watch, Transactional
+Records Access Clearinghouse, National Immigrant Justice Center, Immigrant Legal
+Resource Center, and the Marshall Project.
+
+Vera would like to thank the following colleagues for their support in providing
+editing, design, and guidance: Nina Siulc, Chris Henrichson, Jasmine Heiss,
+Jacob Kang-Brown, Kica Matos, Will Snowden, and Lizzie Allen. The authors wish
+to acknowledge the work of Dennis Kuo, who contributed to the development of the
+Detention Stay ID algorithm as a former Senior Data Scientist at Vera.
+
+# Contact
+For more information, contact Noelle Smart, principal research associate, at
+nsmart@vera.org.
