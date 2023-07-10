@@ -29,7 +29,8 @@ datasets for information on facility locations and facility types. Otherwise,
 Vera chose to present the ICE detention data "as is" to the greatest extent
 possible, including any inconsistencies or errors that may be present in the
 data compiled and shared by ICE. For more information about the data and Vera's
-methodology, see the accompanying technical appendix<!-- TODO: Link here -->.
+methodology, see the accompanying [technical
+appendix](https://vera.org/ice-detention-trends/files/dashboard_appendix.pdf?).
 
 
 # Data Dictionaries
