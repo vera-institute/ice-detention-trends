@@ -1,0 +1,1398 @@
+detention_facility_code,detention_facility_name,latitude,longitude,city,state,type_detailed,type_grouped
+AAORDMD,Ordnance Road Correctional Center,39.19969535,-76.59393033,Glen Burnie,MD,IGSA,Non-Dedicated
+ABQHOLD,Albuquerque Hold Room,35.0526543,-106.6292985,Albuquerque,NM,Hold,Hold/Staging
+ABRXSPA,Abraxas Academy Detention Center,40.19177,-75.91592,Morgantown,PA,Juvenile,Family/Youth
+ABTHOLD,Abilene Hold Room,32.56212771,-99.63538265,Abilene,TX,Hold,Hold/Staging
+ADACOID,Ada County Jail,43.60675502,-116.269811,Boise,ID,IGSA,Non-Dedicated
+ADAIRKY,Adair County Regional Jail,37.103848,-85.3066339,Columbia,KY,Other,Other/Unknown
+ADAMSCO,Adams County Jail,39.986877,-104.799156,Brighton,CO,IGSA,Non-Dedicated
+ADAMSMS,Adams County Det Center,31.56917545,-91.23046875,Natchez,MS,DIGSA,Dedicated
+ADAMSWA,Adams County,47.12747,-118.38267,Ritzville,WA,IGSA,Non-Dedicated
+ADDCOVT,Addison County Jail,44.0115189,-73.16354529,Middlebury,VT,IGSA,Non-Dedicated
+ADLNTCA,Adelanto ICE Processing Center,34.55772948,-117.4418648,Adelanto,CA,CDF,Dedicated
+AFRC,Artesia Family Residential Center,32.8571484,-104.4153316,Artesia,NM,Family,Family/Youth
+AGAHOLD,Agana INS,13.476607,144.747679,Hagatna,GU,Hold,Hold/Staging
+AGC,Aguadilla SPC,18.49428,-67.14213,Aguadilla,PR,Hold,Hold/Staging
+AGMDCCA,Anaheim Global Medical Center,33.8205041,-117.9096302,Anaheim,CA,Hospital,Medical
+AIRHOPR,"Airport Hotel, Saj.",18.439917,-66.004817,Isla Verde,PR,Hotel,Hotel
+AKCOOKI,"Cook Inlet Pretrial, Anch",61.2185447,-149.8710002,Anchorage,AK,IGSA,Non-Dedicated
+AKFAIRB,Fairbanks Corr Ctr,64.83457376,-147.7607932,Fairbanks,AK,IGSA,Non-Dedicated
+AKHIGHL,Highland Mtn Cor Ctr,61.3039289,-149.5801753,Eagle River,AK,USMS IGA,Federal
+AKKETCH,Ketchikan Regional CC,55.348401,-131.649562,Ketchikan,AK,IGSA,Non-Dedicated
+AKLEMON,"Lemon Creek, Juneau,AK",58.36119563,-134.4876484,Juneau,AK,USMS IGA,Federal
+AKMATSU,"Matsu Pretrial, Palmer AK",61.6013708,-149.1186543,Palmer,AK,IGSA,Non-Dedicated
+AKMCYOU,McLaughlin Youth Center,61.18796856,-149.8318704,Anchorage,AK,Juvenile,Family/Youth
+AKPALMC,Palmer Correctional Cente,61.5876053,-149.1269534,Palmer,AK,IGSA,Non-Dedicated
+AKPSYNJ,Anne Klein Phsychiatric Institute,40.2566566,-74.8159709,W. Trenton,NJ,Hospital,Medical
+AKWILCC,Wildwood State Corr. Ctr.,60.58307999,-151.3001342,Kenai,AK,IGSA,Non-Dedicated
+AKWILPT,Wildwood Pre-Trial Fac.,60.58308555,-151.3001341,Kenai,AK,IGSA,Non-Dedicated
+ALAMCNC,Alamance Co. Det. Facility,36.0685551,-79.402463,Graham,NC,IGSA,Non-Dedicated
+ALAMOCO,Alamosa County Jail,37.4553309,-105.8760499,Alamosa,CO,Unknown,Other/Unknown
+ALAMOTX,Alamo Police Dept.,26.1815023,-98.1191146,Alamo,TX,Unknown,Other/Unknown
+ALBCONY,Albany County Jail,42.75141,-73.81536,Albany,NY,USMS IGA,Federal
+ALBEMVA,Albemarle-Charlottesville,38.006074,-78.494559,Charlottesville,VA,IGSA,Non-Dedicated
+ALBHOLD,Albany Holdroom,42.7533809,-73.769379,Latham,NY,Hold,Hold/Staging
+ALEXAAL,Alexandria City Jail,38.7981298,-77.0646677,Alexandria,VA,Unknown,Other/Unknown
+ALEXAVA,Alexandria City Jail,38.79861232,-77.06731218,Alexandria,VA,USMS IGA,Federal
+ALHAMCA,Alhambra City Jail,34.09197,-118.12666,Alhambra,CA,USMS IGA,Federal
+ALLEGNY,Allegany County Jail,42.21245,-78.01715,Belmont,NY,IGSA,Non-Dedicated
+ALLEGPA,Allegheny Co. Jail,40.43458225,-79.99369316,Pittsburgh,PA,USMS IGA,Federal
+ALLENIN,Allen County Jail,41.0832873,-85.1399087,Ft. Wayne,IN,USMS IGA,Federal
+ALMHOLD,Alamosa Holdroom,37.487897,-105.8597891,Alamosa,CO,Hold,Hold/Staging
+AMTHOLD,Amarillo Hold Room,35.22253615,-101.7488485,Amarillo,TX,Hold,Hold/Staging
+ANCHOAK,Anchorage Jail,61.2183804,-149.857649,Anchorage,AK,USMS IGA,Federal
+ANDRWTX,Andrews Sherrif's Office Co Jail,32.3201333,-102.5476407,Andrews,TX,Other,Other/Unknown
+ANJUVMN,Anoka Co. Juvenile Center,45.18104431,-93.12241419,Lino Lakes,MN,Juvenile,Family/Youth
+APACHAZ,Apache Co. Jail,34.50160957,-109.3644879,St Johns,AZ,USMS IGA,Federal
+APIBHCA,Alvarado Parkway Institute,32.774357,-117.0440893,La Mesa,CA,Hospital,Medical
+APPSCLA,Allen Parish Public Safety Complex,30.620368,-92.756652,Oberlin,LA,IGSA,Non-Dedicated
+ARAPACO,Arapahoe County Jail,39.614347,-105.0127466,Littleton,CO,IGSA,Non-Dedicated
+ARLCOVA,Arlington Co Jail,38.89054,-77.08335,Arlington,VA,USMS IGA,Federal
+AROOSME,Aroostook County Jail,46.12455726,-67.83821384,Houlton,ME,USMS IGA,Federal
+ARRMCCA,Arrowhead Regional Med Center,34.076434,-117.352826,Colton,CA,Hospital,Medical
+ARTESNM,Artesia City Jail,32.844515,-104.4050109,Artesia,NM,Other,Other/Unknown
+ARTSINM,Artesia Law Enforcement Center,32.8596391,-104.4130594,Artesia,NM,Unknown,Other/Unknown
+ASHECNC,Ashe County Jail,36.4188113,-81.4603207,Jefferson,NC,Unknown,Other/Unknown
+ASHRSFL,Atlantic Shores Hospital,26.122524,-80.137358,Fort Lauderdale,FL,Hospital,Medical
+ATLANGA,Atlanta Pretrial Detn Ctr,33.7473132,-84.39539066,Atlanta,GA,USMS IGA,Federal
+ATLHOLD,Atlanta Dist. Hold Rm,33.7531639,-84.3931588,Atlanta,GA,Hold,Hold/Staging
+ATTHOLD,"Athens, TX Hold Room",32.20444798,-95.85398128,Athens,TX,Hold,Hold/Staging
+AURORCO,Aurora City Jail,39.709542,-104.789661,Aurora,CO,IGSA,Non-Dedicated
+AUSHOLD,Austin DRO Hold Room,30.269638,-97.738978,Austin,TX,Hold,Hold/Staging
+AVPARLA,Avoyelles Parish Prison,31.11579343,-92.06695499,Marksville,LA,IGSA,Non-Dedicated
+AZDCTUC,AZ Dpt Corrections Tucson,32.06606205,-110.858774,Tucson,AZ,IGSA,Non-Dedicated
+AZSPFLO,Arizona State Prison Comp,33.0285986,-111.3730459,Florence,AZ,Unknown,Other/Unknown
+AZSPPER,Perryville State Prison,33.4632924,-112.4442216,Goodyear,AZ,IGSA,Non-Dedicated
+AZSVCPC,Arizona Service Prison Complex,33.4529634,-112.0259794,Phoenix,AZ,Unknown,Other/Unknown
+BAILECA,George Bailey Detent Faci,32.590244,-116.921241,San Diego,CA,IGSA,Non-Dedicated
+BAKERFL,Baker County Sheriff Dept.,30.29596,-82.12172,Macclenny,FL,IGSA,Non-Dedicated
+BALDWAL,Baldwin County Cor. Center,30.88454,-87.774769,Bay Minette,AL,IGSA,Non-Dedicated
+BALHOLD,Bal D D & P,39.2554234,-76.680689,Baltimore,MD,Hold,Hold/Staging
+BANNOID,Bannock County Jail,42.8389531,-112.4095475,Pocatello,ID,USMS IGA,Federal
+BARNSMA,Barnstable County,41.69936,-70.30434,Barnstable,MA,IGSA,Non-Dedicated
+BARRECA,Barrett Honor Camp,32.73011,-116.69462,Alpine,CA,Juvenile,Family/Youth
+BASILLA,Basile Detention Center,30.48657659,-92.58336608,Basile,LA,DIGSA,Dedicated
+BAYAMPR,Bayamon Hospital,18.36813,-66.1545,Bayamon,PR,Hospital,Medical
+BEAVRPA,Beaver County Jail,40.629013,-80.239052,Aliquippa,PA,USMS IGA,Federal
+BEDCITX,Bedford City Jail,32.84109036,-97.13309243,Bedford,TX,IGSA,Non-Dedicated
+BEDFOOH,Bedford Heights City,41.4089587,-81.4969259,Bedford Heights,OH,IGSA,Non-Dedicated
+BEDFOPA,Bedford County Jail,40.008089,-78.504786,Bedford,PA,IGSA,Non-Dedicated
+BEFAMPA,Berks County Family Shelter,40.379575,-76.019543,Leesport,PA,Family,Family/Youth
+BEHOSNY,"Bellevue Hospital, Manhat",40.7395563,-73.976083,New York,NY,Hospital,Medical
+BEJUVPA,Berks Co. Juvenile,40.382666,-76.017389,Leesport,PA,Juvenile,Family/Youth
+BENTOWA,Benton County,46.22145003,-119.220502,Kennewick,WA,IGSA,Non-Dedicated
+BERGENJ,Bergen County Jail,40.87387305,-74.03904223,Hackensack,NJ,USMS IGA,Federal
+BERKSPA,"Berks County Jail, PA",40.38278,-76.017484,Leesport,PA,USMS IGA,Federal
+BERNANM,Bernalillo County Det Ctr,35.08934329,-106.6514373,Albuquerque,NM,DIGSA,Dedicated
+BESECPA,Berks County Secured Juvenile,40.382683,-76.017367,Leesport,PA,Juvenile,Family/Youth
+BFGHITX,"Byrd's Foster Group Home, Inc",29.81131222,-95.35255014,Houston,TX,Juvenile,Family/Youth
+BHCALCA,Alhambra BHC Hospital,34.0773593,-118.0730467,Rosemead,CA,Hospital,Medical
+BHFLDMI,Bronson Hospital Fieldstone Center,42.329924,-85.19158,Battle Creek,MI,Hospital,Medical
+BHMHOLD,Birmingham Hold Room,33.479539,-86.79116,Homewood,AL,Hold,Hold/Staging
+BIGHOMT,"Big Horn County Jail, MT",45.732727,-107.608745,Hardin,MT,IGSA,Non-Dedicated
+BIGHOWY,"Big Horn County Jail, WY",44.382788,-108.040123,Basin,WY,IGSA,Non-Dedicated
+BILHOLD,Billings Hold Room,45.783884,-108.509563,Billings,MT,Hold,Hold/Staging
+BKLHOLD,Bakerfield Hold,35.37372,-119.01121,Bakersfield,CA,Hold,Hold/Staging
+BLBNATX,Bluebonnet Det Fclty,32.77803799,-99.90966797,Anson,TX,IGSA,Non-Dedicated
+BLHHOLD,Bellingham BPS ERO Holdroom,48.82248594,-122.5611793,Ferndale,WA,Hold,Hold/Staging
+BLOUNTN,Blount County Justice Ctr,35.74951168,-83.99067637,Maryville,TN,IGSA,Non-Dedicated
+BOEHOLD,Elp Boeing Dr Holdroom,31.79183661,-106.4025598,El Paso,TX,Hold,Hold/Staging
+BOIHOLD,Boise Hold Room,43.5927664,-116.2860691,Boise,ID,Hold,Hold/Staging
+BONNEID,Bonneville Co. Jail,43.4949879,-112.040574,Idaho Falls,ID,IGSA,Non-Dedicated
+BOONEKY,Boone County Jail,39.03732571,-84.72366686,Burlington,KY,USMS IGA,Federal
+BOPALM,Allenwood (Med) FCI,41.127767,-76.921971,White Deer,PA,BOP,Federal
+BOPBRO,Brooklyn MDC,40.6597866,-74.00295819,Brooklyn,NY,BOP,Federal
+BOPBUT,Butner Fed.Corr.Inst.,36.187179,-78.740535,Butner,NC,BOP,Federal
+BOPCAA,USP Canaan,41.564966,-75.420385,Waymart,PA,BOP,Federal
+BOPCNV,Nashville Comm. Corr.,36.226218,-86.626766,Nashville,TN,BOP,Federal
+BOPCUM,Cumberland FCI,39.597282,-78.754297,Cumberland,MD,BOP,Federal
+BOPDAL,Dalby Correctional Institute,33.20052812,-101.3716697,Post,TX,BOP,Federal
+BOPFAI,Fairton FCI,39.3899307,-75.1568634,Fairton,NJ,BOP,Federal
+BOPGIL,FCI Gilmer,38.915634,-80.784546,Glenville,WV,BOP,Federal
+BOPGUA,Guaynabo MDC (San Juan),18.423156,-66.112209,San Juan,PR,BOP,Federal
+BOPHON,Honolulu Federal Detention Center,21.33349976,-157.9288689,Honolulu,HI,BOP,Federal
+BOPLEX,Lexinton Fed.Med Center,38.104157,-84.560091,Lexington,KY,BOP,Federal
+BOPLOF,Lompoc FCI,34.6768725,-120.4998162,Lompoc,CA,BOP,Federal
+BOPLOM,Lompoc USP,34.6792884,-120.5052356,Lompoc,CA,BOP,Federal
+BOPLOS,Los Angeles Met.Det.Ctr.,34.053536,-118.238159,Los Angeles,CA,BOP,Federal
+BOPLTL,"La Tuna Federal Sattelite, Low",31.86822782,-106.3696289,Anthony,TX,BOP,Federal
+BOPMAR,Marion USP,37.663196,-88.98415,Marion,IL,BOP,Federal
+BOPMCR,Mccreary USP,36.688211,-84.388482,Pine Knot,KY,BOP,Federal
+BOPMEM,Memphis Fed.Corr.Inst.,35.1556605,-89.86708702,Memphis,TN,BOP,Federal
+BOPMIA,Miami FCI (Former MCC),25.810125,-80.311667,Miami,FL,BOP,Federal
+BOPMIM,Miami Fed.Det.Center,25.778491,-80.193199,Miami,FL,BOP,Federal
+BOPMRG,Morgantown Fed.Corr.Inst.,39.6056186,-79.9507815,Morgantown,WV,Other,Other/Unknown
+BOPNEO,Northeast Ohio Correctional Center,41.1289599,-80.6268298,Youngstown,OH,Unknown,Other/Unknown
+BOPOAD,Oakdale Fed.Det.Center,30.8207012,-92.64069075,Oakdale,LA,BOP,Federal
+BOPPHX,Phoenix Fed.Corr.Inst.,33.832026,-112.168389,Phoenix,AZ,BOP,Federal
+BOPPOL,Pollock USP,31.462992,-92.440056,Pollock,LA,BOP,Federal
+BOPRAE,"McRae Correctional Facility, CCA",32.051673,-82.874059,Mcrae,GA,BOP,Federal
+BOPRBK,Ray Brook Fed.Corr.Inst.,44.290535,-74.092607,Ray Brook,NY,BOP,Federal
+BOPRCH,Rochester Fed.Med.Center,44.023339,-92.439526,Rochester,MN,BOP,Federal
+BOPSDC,San Diego MCC,32.713924,-117.166037,San Diego,CA,BOP,Federal
+BOPSET,Seatac Fed.Det.Center,47.4220167,-122.3016329,Seattle,WA,BOP,Federal
+BOPSHE,Sheridan Fed.Corr.Inst.,45.084062,-123.381636,Sheridan,OR,BOP,Federal
+BOPSPG,Springfield Fed.Med.Cntr,37.177542,-93.323273,Springfield,MO,BOP,Federal
+BOPTCN,Tucson Fed.Corr.Inst.,32.1896869,-110.8578214,Tucson,AZ,BOP,Federal
+BOPTCP,US Penitentiary Tucson,32.08037954,-110.858058,Tucson,AZ,BOP,Federal
+BOPTHA,Terre Haute USP,39.416285,-87.450698,Terre Haute,IN,BOP,Federal
+BOPTRV,Three Rivers FCI,28.481633,-98.15741,"Three Rivers,",TX,BOP,Federal
+BOPVIM,FCI Victorville,34.572116,-117.38012,Victorville,CA,BOP,Federal
+BOSHOLD,Boston Holdroom,42.482884,-71.208937,Burlington,MA,Hold,Hold/Staging
+BOSSRLA,Bossier Parish Cor. Center,32.84267363,-93.75732422,Plain Dealing,LA,USMS IGA,Federal
+BOTTIND,Bottineau Co. ND Jail,48.828305,-100.449892,Bottineau,ND,IGSA,Non-Dedicated
+BOWCOTX,Bowie County Jail,33.421222,-94.042983,Texarkana,AR,IGSA,Non-Dedicated
+BPC,Boston SPC,42.365668,-71.05154,Boston,MA,Other,Other/Unknown
+BRADEFL,Bradenton Detention Center,27.49528043,-82.57259586,Bradenton,FL,IGSA,Non-Dedicated
+BRANCMI,"Branch Co, Coldwater, MI",41.9398077,-85.0003605,Coldwater,MI,Unknown,Other/Unknown
+BRCHOLD,Brush Holdroom,40.27162844,-103.6247735,Brush,CO,Hold,Hold/Staging
+BREMEIA,"Bremer Co Jail, Iowa",42.72675406,-92.465757,Waverly,IA,USMS IGA,Federal
+BRGMCFL,Broward General Medical Center,26.1027303,-80.1411669,Ft. Lauderdale,FL,Hospital,Medical
+BRINDMA,Bristol Cnty Ndartmouth,41.6653329,-70.9957847,North Dartmouth,MA,IGSA,Non-Dedicated
+BRKHOLD,Berks Hold Room,40.383025,-76.013834,Leesport,PA,Hold,Hold/Staging
+BROADMT,Broadwater County Jail,46.32107595,-111.5158088,Townsend,MT,IGSA,Non-Dedicated
+BROCRFL,Broward Correctional,26.121044,-80.142951,Pembroke Pines,FL,IGSA,Non-Dedicated
+BROJAFL,Broward County Jail,26.11517307,-80.14276948,Ft.Lauderdale,FL,IGSA,Non-Dedicated
+BROKSTX,Brooks County Jail (Contract),27.2482748,-98.12584681,Falfurrias,TX,USMS IGA,Federal
+BROMMNY,Broome County Jail,42.130839,-75.913339,Binghampton,NY,IGSA,Non-Dedicated
+BROWNSD,Brown County Jail,45.46485,-98.486351,Aberdeen,SD,IGSA,Non-Dedicated
+BROWNWI,Brown County Jail,44.5223855,-87.9307227,Green Bay,WI,Unknown,Other/Unknown
+BRWNSTX,Brownsville Police Dept.,25.9077859,-97.4984148,Brownsville,TX,Other,Other/Unknown
+BSAHOLD,Broadview Service Staging,41.86852212,-87.86562002,Broadview,IL,Staging,Hold/Staging
+BSCDRTX,BSCC Cedar Hill Unit,32.22127671,-101.5072273,Big Spring,TX,BOP,Federal
+BSCHOLD,Big Spring Hold Room,32.225131,-101.514653,Big Spring,TX,Hold,Hold/Staging
+BSCORTX,BSCC Airpark Unit,32.2225778,-101.5060047,Big Spring,TX,BOP,Federal
+BSFLTTX,BSCC Flightline Unit,32.227461,-101.527998,Big Spring,TX,BOP,Federal
+BSGDFTX,BSCC Giles Darby Facility,33.20052812,-101.3716697,Post,TX,BOP,Federal
+BSNTRTX,BSCC Interstate Unit,32.26184668,-101.4973281,Big Spring,TX,BOP,Federal
+BSQUETX,Bosque County Sheriff's Dept.,31.9232085,-97.6566894,Meridian,TX,Unknown,Other/Unknown
+BTV,Buffalo SPC,43.020404,-78.202694,Batavia,NY,SPC,Dedicated
+BUFHOLD,Buffalo Hold Room,42.88819085,-78.87810095,Buffalo,NY,Hold,Hold/Staging
+BURLEND,"Burleigh Co. Jail, ND",46.794465,-100.69387,Bismarck,ND,IGSA,Non-Dedicated
+BURNETX,Burnet County Jail,30.741522,-98.253048,Burnet,TX,USMS IGA,Federal
+BUTLEKS,Butler County Jail,37.8138603,-96.8300321,El Dorado,KS,USMS IGA,Federal
+BUTLEOH,Butler County Jail,39.38975,-84.5531833,Hamilton,OH,IGSA,Non-Dedicated
+BWDGICA,Best Western Dragon Gate Inn,34.0632755,-118.2390046,Los Angeles,CA,Hotel,Hotel
+BWMARCA,Best Western Marina,32.6589322,-117.1099656,National City,CA,Hotel,Hotel
+BXCHSNY,Bronxcare Health System,40.8434675,-73.9110798,Bronx,NY,Hospital,Medical
+CACCJAM,SCC/Jamestown,37.893474,-120.537864,Jamestown,CA,Other,Other/Unknown
+CACFBAK,Baker CCF,35.27852933,-116.0551281,Baker,CA,IGSA,Non-Dedicated
+CACFDON,RJ Donovan Correc Fac,32.5846197,-116.9334155,San Diego,CA,Other,Other/Unknown
+CACFLEO,CCF/Leo Chesney,39.268461,-121.664381,Live Oak,CA,Other,Other/Unknown
+CACFMCF,Mcfarland CCF,35.6697373,-119.2278105,Mcfarland,CA,IGSA,Non-Dedicated
+CACFMES,Mesa Verde ICE Processing Center,35.3930327,-119.0274821,Bakersfield,CA,CDF,Dedicated
+CACHEUT,Cache Co. Jail,41.73515501,-111.836168,Logan,UT,USMS IGA,Federal
+CACTYCA,California City Corections Center,35.15567,-117.861876,California City,CA,USMS IGA,Federal
+CADCCAL,CDC Calipatria IHP,33.16643595,-115.4846143,Calipatria,CA,IGSA,Non-Dedicated
+CADESVI,Desert View,34.5588215,-117.4372847,Adelanto,CA,CDF,Dedicated
+CAIRONW,Ironwood State Prison,33.606632,-114.9016493,Blythe,CA,Unknown,Other/Unknown
+CAJUVMN,Carver Co. Juvy Detention,44.789279,-93.593311,Chaska,MN,Juvenile,Family/Youth
+CALDWMO,Caldwell County Jail,39.642596,-94.046895,Kingston,MO,IGSA,Non-Dedicated
+CALHOMI,"Calhoun Co., Battle Cr,MI",42.3166739,-85.1758915,Battle Creek,MI,IGSA,Non-Dedicated
+CAMBRPA,"Cambria County Jail, PA",40.4843966,-78.70123165,Ebensburg,PA,USMS IGA,Federal
+CAMCOWY,Campbell County Jail,44.277316,-105.509858,Gillette,WY,IGSA,Non-Dedicated
+CAMEDAZ,Central Arizona Medical,33.0173057,-111.4226795,Florence,AZ,Hospital,Medical
+CAMENCE,"Calif. Men Colony, East",35.3217,-120.696,San Luis Obispo,CA,Other,Other/Unknown
+CAMENCW,"Calif. Men Colony, West",35.3217,-120.696,San Luis Obispo,CA,Other,Other/Unknown
+CAMERTX,Cameron County Jail,25.9045066,-97.4909986,Brownsville,TX,IGSA,Non-Dedicated
+CARBOPA,Carbon County Correctionl,40.8787347,-75.7848305,Nesquehoning,PA,IGSA,Non-Dedicated
+CARBOWY,Carbon County Jail,41.796028,-107.224224,Rawlins,WY,IGSA,Non-Dedicated
+CARDFVA,Caroline Detention Facility,38.11727166,-77.27783203,Bowling Green,VA,DIGSA,Dedicated
+CARJAMN,Carver County Jail,44.787264,-93.592872,Chaska,MN,IGSA,Non-Dedicated
+CARROMD,Carroll County Detention Center,39.572886,-76.986107,Westminster,MD,IGSA,Non-Dedicated
+CASCAMT,"Cascade County Jail, MT",47.46636197,-111.3804339,Great Falls,MT,USMS IGA,Federal
+CASPCAL,Calipatria State Prison,33.16643595,-115.4846143,Calipatria,CA,Other,Other/Unknown
+CASPSAC,Csp-Sacramento,38.69362,-121.152411,Represa,CA,IGSA,Non-Dedicated
+CASSCND,Cass County Jail,46.869841,-96.83308,Fargo,ND,IGSA,Non-Dedicated
+CASSCNE,Cass County Jail,41.01108421,-95.88334479,Plattsmouth,NE,USMS IGA,Federal
+CASSJCA,Casa San Juan,32.7499651,-117.1448826,San Diego,CA,Juvenile,Family/Youth
+CATAHLA,Catahoula Correctional Center,31.860451,-91.962215,Harrisonburg,LA,IGSA,Non-Dedicated
+CATTANY,Cattaraugus County Jail,42.251454,-78.800353,Little Valley,NY,IGSA,Non-Dedicated
+CAWVALL,West Valley,34.0813161,-117.5288544,Rancho Cucamonga,CA,Unknown,Other/Unknown
+CAYUGNY,Cayuga County Jail,42.979977,-76.54352,Auburn,NY,IGSA,Non-Dedicated
+CBENDTX,Coastal Bend Det. Facility,27.736829,-97.754606,Robstown,TX,USMS IGA,Federal
+CBRRSNC,Cabarrus County Jail,35.4093208,-80.5780352,Concord,NC,IGSA,Non-Dedicated
+CCADCAZ,CCA Cent.AZ.Det.Ctr.,33.0643662,-111.378808,Florence,AZ,USMS IGA,Federal
+CCAFLAZ,"CCA, Florence Correctional Center",33.0438338,-111.371793,Florence,AZ,USMS IGA,Federal
+CCAHUTX,T Don Hutto Residential Center,30.5649047,-97.41975246,Taylor,TX,DIGSA,Dedicated
+CCANOOH,CCA Northeast OH Corrects,41.12885834,-80.62678376,Youngstown,OH,CDF,Dedicated
+CCASDCA,Otay Mesa Detention Center,32.57652475,-116.9154777,San Diego,CA,CDF,Dedicated
+CCHHSIL,Cook County Hospital-JHS,41.8729343,-87.67380235,Chicago,IL,Hospital,Medical
+CEMEDFL,Cedars Medical Center,25.78841925,-80.2163433,Miami,FL,Hospital,Medical
+CENTRWV,Central Regional Jail,38.6965246,-80.6581991,Sutton,WV,IGSA,Non-Dedicated
+CFREDVA,Clarke Fred'k Winch.,39.19850623,-78.14630154,Winchester,VA,IGSA,Non-Dedicated
+CGRMCAZ,Casa Grande Reg. Med. Center,32.880542,-111.708726,Casa Grande,AZ,Hospital,Medical
+CHACONY,Chautauqua County Jail,42.25486946,-79.50413017,Mayville,NY,IGSA,Non-Dedicated
+CHAHOLD,Charlotte Amalie Holdroom,18.3223,-64.9637,St. Thomas,VI,Hold,Hold/Staging
+CHARLSC,Charleston County Correct,32.8586313,-80.0087951,North Charleston,SC,USMS IGA,Federal
+CHASEKS,Chase County Jail,38.3754174,-96.5389847,Cottonwood Falls,KS,IGSA,Non-Dedicated
+CHATHGA,Chatham Co Jail,32.066971,-81.167923,Savannah,GA,IGSA,Non-Dedicated
+CHAVENM,Chavez Det Crt,33.352159,-104.505543,Roswell,NM,IGSA,Non-Dedicated
+CHELAWA,Chelan Co. Regional Jail,47.422551,-120.315434,Wenatchee,WA,USMS IGA,Federal
+CHEMUNY,Chemung County Jail,42.09146515,-76.80107004,Elmira,NY,IGSA,Non-Dedicated
+CHENANY,Chenango County Jail,42.5072663,-75.538678,Norwich,NY,Unknown,Other/Unknown
+CHEROOK,Cherokee County Jail,35.91374921,-94.97255868,Tahlequah,OK,Other,Other/Unknown
+CHIHOLD,Chicago Hold Room,41.974839,-87.890021,Chicago,IL,Hold,Hold/Staging
+CHIPPMI,"Chippewa Co., SSM",46.49749031,-84.34616045,Sault Sainte Marie,MI,IGSA,Non-Dedicated
+CHLHOLD,"Charleston, SC Hold Room",32.846752,-80.019771,Charleston,SC,Hold,Hold/Staging
+CHMCINY,Courthouse USM Cntl Islip,40.759299,-73.1906491,Central Islip,NY,Other,Other/Unknown
+CHMHOLD,Champlain Hold Room,45.0065266,-73.4528293,Champlain,NY,Hold,Hold/Staging
+CHRISMO,Christian Co Sheriff Dept,37.01986859,-93.20555586,Ozark,MO,IGSA,Non-Dedicated
+CHRLTFL,Charlotte County Jail,26.9171174,-82.0434353,Punta Gorda,FL,IGSA,Non-Dedicated
+CHYHOLD,Cheyenne Holdroom,41.1368002,-104.8198995,Cheyenne,WY,Hold,Hold/Staging
+CIBOCNM,Cibola County Correctional Center,35.17978331,-107.9076486,Milan,NM,IGSA,Non-Dedicated
+CIBOLNM,Cibola County Det Ctr,35.17978331,-107.9076486,Grants,NM,IGSA,Non-Dedicated
+CINHOLD,Cincinnati Holdroom,39.2383221,-84.3803246,Cincinnati,OH,Hold,Hold/Staging
+CIPHOLD,Central Islip Hold Room,40.759299,-73.1906491,Central Islip,NY,Hold,Hold/Staging
+CITRUFL,Citrus County Jail,28.846057,-82.47752657,Lecanto,FL,IGSA,Non-Dedicated
+CKHOSFL,Columbia Kendal Hospital,25.73070145,-80.38559965,Miami,FL,Hospital,Medical
+CLARIPA,Clarion  County Corrections,41.237619,-79.423483,Shippenville,PA,IGSA,Non-Dedicated
+CLARKWA,Clark County Jail,45.631025,-122.6782239,Vancouver,WA,IGSA,Non-Dedicated
+CLAYCIN,Clay County Justice Center,39.52383377,-87.12009947,Brazil,IN,USMS IGA,Federal
+CLEHOLD,Cleveland Hold Room,41.504901,-81.691781,Cleveland,OH,Hold,Hold/Staging
+CLICONY,Clinton County Jail,44.71959274,-73.46803505,Plattsburgh,NY,USMS IGA,Federal
+CLINTPA,Clinton County Corr. Fac.,41.154871,-77.336887,Mcelhattan,PA,USMS IGA,Federal
+CLMHOLD,Columbus Holdroom,39.9623335,-83.00217974,Columbus,OH,Hold,Hold/Staging
+CLTHOLD,Charlotte Hold Room,35.222886,-80.837843,Charlotte,NC,Hold,Hold/Staging
+CMEDHPR,Centro Medico Hospital,18.4105,-66.0605,San Juan,PR,Hospital,Medical
+CMPJVNY,Compass House Shelter,42.91287469,-78.86773702,Buffalo,NY,Juvenile,Family/Youth
+CNGHOLD,Chattanooga Hold Room,35.106032,-85.297818,Chattanooga,TN,Hold,Hold/Staging
+CNTGRIL,Centegra Hospital,42.2760802,-88.40139588,Woodstock,IL,Hospital,Medical
+COAHOLD,"Columbia, SC Holdroom",34.009224,-81.038982,Columbia,SC,Hold,Hold/Staging
+COBBJGA,Cobb County Jail,33.908688,-84.58092,Marietta,GA,IGSA,Non-Dedicated
+COCHIAZ,Cochise Co Jail Bisbee AZ,31.43325215,-109.8708224,Bisbee,AZ,IGSA,Non-Dedicated
+COCONAZ,Coconino Co Detention Facility,35.188274,-111.640415,Flagstaff,AZ,USMS IGA,Federal
+COLCASC,Columbia Care Center,34.0757437,-80.97972426,Columbia,SC,Hospital,Medical
+COLLIFL,Collier County Sheriff,26.12627336,-81.76572362,Naples,FL,IGSA,Non-Dedicated
+COLOMNY,Colombia County Jail,42.249608,-73.756327,Hudson,NY,IGSA,Non-Dedicated
+COLUMOR,Columbia County Jail,45.8486573,-122.8188631,Saint Helens,OR,USMS IGA,Federal
+COLUMPA,Columbia County Jail,40.99816304,-76.45051929,Bloomsburg,PA,USMS IGA,Federal
+COMFTFL,Comfort Suites Hotel,25.7331817,-80.382618,Miami,FL,Hotel,Hotel
+CONCOCA,Contra Costa Co. Jail,38.01833,-122.132897,Martinez,CA,USMS IGA,Federal
+CONCOLA,Concordia Parish C C,31.585628,-91.557231,Ferriday,LA,IGSA,Non-Dedicated
+CONEJCO,Conejos County Jail,37.08625,-106.005302,Antonito,CO,IGSA,Non-Dedicated
+CONVEWY,Converse County Jail,42.75971053,-105.381135,Douglas,WY,IGSA,Non-Dedicated
+CONWECA,Contra Costa Co Jail/West,37.99426889,-122.3521434,Richmond,CA,USMS IGA,Federal
+COOCONH,Coos County Jail,44.9896057,-71.5322149,West Stewartstown,NH,USMS IGA,Federal
+COOSCOR,Coos Co. Jail,43.176795,-124.186364,Coquille,OR,IGSA,Non-Dedicated
+COSTACA,Costa Mesa College Hosp,33.6521001,-117.9119556,Costa Mesa,CA,Hospital,Medical
+COWJVWA,Cowlitz Co. Juv. Det.,46.14140306,-122.9177984,Longview,WA,Juvenile,Family/Youth
+CRGHOLD,Craig Holdroom,40.51362644,-107.5449635,Craig,CO,Hold,Hold/Staging
+CRIHOLD,Cedar Rapids Hold Room,41.9752949,-91.6700847,Cedar Rapids,IA,Hold,Hold/Staging
+CROWGMN,Crow Wing County Jail,46.355872,-94.20591294,Brainerd,MN,IGSA,Non-Dedicated
+CRTOSCA,Cerritos  College Hosp,33.88516992,-118.102257,Cerritos,CA,Hospital,Medical
+CRYCCTX,Crystal City Corr. Center,28.63467,-99.829797,Crystal City,TX,USMS IGA,Federal
+CSCNWWA,NW ICE Processing Ctr,47.25020974,-122.4226634,Tacoma,WA,CDF,Dedicated
+CSDHOLD,Colo Springs Den HSI Hold,38.8334702,-104.8175095,Colorado Springs,CO,Hold,Hold/Staging
+CSPHOLD,Casper Holdroom,42.85207208,-106.3248983,Casper,WY,Hold,Hold/Staging
+CSYJVNY,Casey House Shelter,43.097027,-79.053898,Buffalo,NY,Juvenile,Family/Youth
+CTLAFSL,Laffayette Sheriff's Lock,41.7606224,-72.68348587,Hartford,CT,Hold,Hold/Staging
+CTYORCI,York Corr Inst,41.322975,-72.237209,Niantic,CT,IGSA,Non-Dedicated
+CULBETX,Culberson County Sheriff's,31.043198,-104.831083,Van Horn,TX,IGSA,Non-Dedicated
+CULPEVA,Culpeper Co. Adult Det. Center,38.474087,-77.996688,Culpeper,VA,IGSA,Non-Dedicated
+CUMBEME,Cumberland County Jail,43.65086235,-70.28161965,Portland,ME,USMS IGA,Federal
+CURRYNM,Curry County Det Fac,34.405859,-103.206547,Clovis,NM,IGSA,Non-Dedicated
+CUSTEMT,Custer County Jail,46.4049613,-105.8541145,Miles City,MT,IGSA,Non-Dedicated
+CVREGVA,Central VA Regional Jail,38.22283587,-78.1237059,Orange County,VA,IGSA,Non-Dedicated
+DAKOTNE,Dakota County Jail,42.41501017,-96.41887394,Dakota City,NE,USMS IGA,Federal
+DALCOTX,Dallas County Jail-Lew Sterrett,32.77629869,-96.81560135,Dallas,TX,USMS IGA,Federal
+DALHOLD,Dallas F.O. Hold,32.82362225,-96.87215575,Dallas,TX,Hold,Hold/Staging
+DAUPHPA,"Dauphin Cnty Jail, PA",40.253563,-76.833391,Harrisburg,PA,Other,Other/Unknown
+DAVIDTN,Davidson Co. Sheriff Dept,36.1862325,-86.7850215,Nashville,TN,IGSA,Non-Dedicated
+DAWSOMT,Dawson County Jail,47.105157,-104.715447,Glendive,MT,IGSA,Non-Dedicated
+DCDOCDC,DC Dept Of Corrections,38.91614,-77.0254583,Washington,DC,USMS IGA,Federal
+DEAPDMI,Dearborn Police Dept.,42.3231468,-83.1725916,Dearborn,MI,IGSA,Non-Dedicated
+DECCSMY,Delaware Correction Center,39.3326906,-75.5987118,Smyrna,DE,Unknown,Other/Unknown
+DEKALAL,Dekalb County Detention Center,34.428756,-85.760138,Fort Payne,AL,USMS IGA,Federal
+DEKALGA,Dekalb Co Jail,33.747312,-84.311811,Decatur,GA,Other,Other/Unknown
+DELAWPA,Delaware Co Jail,39.905218,-75.512939,Thornton,PA,USMS IGA,Federal
+DELTACO,Delta County Jail,38.74310731,-108.0635233,Delta,CO,IGSA,Non-Dedicated
+DENCICO,Denver Justice Center,39.73739606,-104.9915437,Denver,CO,IGSA,Non-Dedicated
+DENHOLD,Denver Hold Room,39.78360657,-104.8487767,Denver,CO,Hold,Hold/Staging
+DENICDF,Denver Contract Det. Fac.,39.76632526,-104.864502,Aurora,CO,CDF,Dedicated
+DENIICO,Denver CDF II,39.739387,-104.8621,Aurora,CO,CDF,Dedicated
+DENVECO,Denver County Jail,39.7674294,-104.8642515,Denver,CO,USMS IGA,Federal
+DEPCOGU,Department Of Corrections,13.448146,144.785942,Mangilao,GU,IGSA,Non-Dedicated
+DEPYOGU,Department Of Youth Affairs,13.382306,144.661975,Barrigada,GU,Juvenile,Family/Youth
+DETHOLD,"U.S. Immigration, Detroit",42.4088147,-83.0379983,Detroit,MI,Hold,Hold/Staging
+DHDFNJ,Delaney Hall Detention Facility,40.717437,-74.127789,Newark,NJ,IGSA,Non-Dedicated
+DIIHBMD,Days Inn Inner Harbor Baltimore,39.2873038,-76.6180752,Baltimore,MD,Hotel,Hotel
+DLAMOCA,Del Amo Psychiatric Hospital,33.810303,-118.344168,Torrance,CA,Hospital,Medical
+DLRHOLD,Del Rio DRO Hold Room,29.393471,-100.899841,Del Rio,TX,Hold,Hold/Staging
+DNHMCCO,Denver Health Medical Center,39.72731935,-104.9911984,Denver,CO,Hospital,Medical
+DOCORNE,Douglas County Correction,41.25338965,-95.93899606,Omaha,NE,IGSA,Non-Dedicated
+DODGEWI,"Dodge County Jail, Juneau",43.407113,-88.706195,Juneau,WI,USMS IGA,Federal
+DONAANM,Dona Ana County Detention Facility,32.30290445,-106.8074711,Las Cruces,NM,IGSA,Non-Dedicated
+DORCHMD,Dorchester Co Det Cntr,38.54829109,-76.0614035,Cambridge,MD,IGSA,Non-Dedicated
+DOUGLCO,Douglas County Detention Center,39.37282932,-104.860137,Castle Rock,CO,IGSA,Non-Dedicated
+DOUGLOR,Douglas Co. Jail,43.211979,-123.346009,Roseburg,OR,IGSA,Non-Dedicated
+DOUGLWI,Douglas Co. Wisconsin,46.72174494,-92.09799847,Superior,WI,IGSA,Non-Dedicated
+DRURYCO,Drury Inn,39.77648754,-104.84692,Denver,CO,Hotel,Hotel
+DSMCNTX,DSMC - Del Sol Medical Center,31.756534,-106.3495064,El Paso,TX,Hospital,Medical
+DSMHOLD,Des Moines Hold Room,41.5854892,-93.6232534,Des Moines,IA,Hold,Hold/Staging
+DSRTVCA,Desert Valley Hospital,34.47175035,-117.297825,Victorville,CA,Hospital,Medical
+DULHOLD,Duluth Hold Room,46.8343328,-92.1561005,Duluth,MN,Hold,Hold/Staging
+DUPAGIL,Dupage County Jail,41.871908,-88.145275,Wheaton,IL,IGSA,Non-Dedicated
+DURHOLD,Durango Holdroom,37.237142,-107.874147,Durango,CO,Hold,Hold/Staging
+DUTCHAK,Dutch Harbor City Jail,53.87130458,-166.5411784,Unalaska,AK,IGSA,Non-Dedicated
+DUVALFL,Duval/Jacksonville Jail,30.326018,-81.649954,Jacksonville,FL,IGSA,Non-Dedicated
+DVDHOLD,Dover Holdroom,39.15450667,-75.48795118,Dover,DE,Hold,Hold/Staging
+EAGLECO,Eagle County Jail,39.662719,-106.819803,Eagle,CO,IGSA,Non-Dedicated
+EAZ,Eloy Federal Contract Fac,32.8176772,-111.5192701,Eloy,AZ,DIGSA,Dedicated
+ECC,El Centro SPC,32.8029622,-115.5697682,El Centro,CA,SPC,Dedicated
+ECLECTX,Ector County L.E.C.,31.8210765,-102.3595082,Odessa,TX,Other,Other/Unknown
+ECMCBNY,Erie County Medical Center,42.92631005,-78.83216629,Buffalo,NY,Hospital,Medical
+ECOLOWA,Econolodge Motel,47.47867886,-122.2840559,Tukwila,WA,Hotel,Hotel
+ECTORTX,Ector County Correction Center,31.773866,-102.36659,Odessa,TX,IGSA,Non-Dedicated
+EDCHOLD,Eden Hold Room,31.216752,-99.833807,Eden,TX,Hold,Hold/Staging
+EDDCONM,Eddy County Jail,32.421607,-104.226482,Carlsbad,NM,IGSA,Non-Dedicated
+EDENDTX,Eden Det Center,31.216752,-99.833807,Eden,TX,BOP,Federal
+EDNBGTX,Edinburg Police Dept.,26.2856121,-98.1645731,Edinburg,TX,Unknown,Other/Unknown
+EDNDCTX,Eden Detention Ctr,31.2170099,-99.8335066,Eden,TX,Unknown,Other/Unknown
+EDNHOLD,Eden Det Ctr Hold Room,31.2168691,-99.8334881,Eden,TX,Hold,Hold/Staging
+EHDLGTX,East Hidalgo Detention Center,26.30326424,-97.93212891,La Villa,TX,USMS IGA,Federal
+EIRHONY,Erie Co Holding Center,42.88714992,-78.87802902,Buffalo,NY,Hold,Hold/Staging
+ELBERCO,Elbert County Jail,39.3422995,-104.4640612,Kiowa,CO,IGSA,Non-Dedicated
+ELGPDIL,Elgin Police Dept. Jail,42.039683,-88.283887,Elgin,IL,IGSA,Non-Dedicated
+ELKHAIN,Elkhart County Jail,41.6241444,-85.9785822,Elkhart,IN,Other,Other/Unknown
+ELMORID,Elmore County Jail,43.137034,-115.672984,Mountain Home,ID,USMS IGA,Federal
+ELPASCO,El Paso County Jail (CO),38.788166,-104.77912,Colorado Springs,CO,IGSA,Non-Dedicated
+ELPCOTX,El Paso County Jail (TX),31.8102902,-106.2531937,El Paso,TX,IGSA,Non-Dedicated
+ELVDFTX,El Valle Detention Facility,26.48040716,-97.76733398,Raymondville,TX,IGSA,Non-Dedicated
+ELZICDF,Elizabeth Contract D.F.,40.66615695,-74.18969352,Elizabeth,NJ,CDF,Dedicated
+EMBCRNC,Embassy Suites By Hilton,35.8330944,-78.7717465,Cary,NC,Hotel,Hotel
+EMBSYCO,Embassy Suites Hotel,39.77833073,-104.8656473,Denver,CO,Hotel,Hotel
+EMESACA,East Mesa Detent Facility,32.590096,-116.922136,San Diego,CA,IGSA,Non-Dedicated
+EPBHSTX,El Paso Behavioral Health System,31.7806264,-106.4760183,El Paso,TX,Hospital,Medical
+EPC,El Paso SPC,31.79644735,-106.3696513,El Paso,TX,SPC,Dedicated
+EPCJUVI,El Paso SPC Juvenile,31.79644735,-106.3696513,El Paso,TX,Hold,Hold/Staging
+EPLTATX,El Paso LTAC Hospital,31.783763,-106.4742236,El Paso,TX,Hospital,Medical
+ERICONY,Erie County Holding Center,42.88714992,-78.87802902,Buffalo,NY,Hold,Hold/Staging
+ERICOPA,"Erie County Jail, PA",42.12477524,-80.06589689,Erie,PA,USMS IGA,Federal
+ESSEXMA,"Essex Co. Jail, Middleton",42.5974072,-70.986788,Middleton,MA,IGSA,Non-Dedicated
+ESSEXNJ,Essex County Jail,40.73060848,-74.13574219,Newark,NJ,IGSA,Non-Dedicated
+ESSEXNY,Essex County Jail,44.28226567,-73.53923527,Lewis,NY,IGSA,Non-Dedicated
+ETOWAAL,Etowah County Jail (AL),34.01573709,-86.01193283,Gadsden,AL,USMS IGA,Federal
+ETWHOLD,Etowah ERO Hold Room,34.0165078,-86.0123965,Gadsden,AL,Hold,Hold/Staging
+EUGHOLD,Eugene Holdroom,44.052201,-123.0893848,Eugene,OR,Hold,Hold/Staging
+EULESTX,Euless City Jail,32.8316632,-97.0944679,Euless,TX,IGSA,Non-Dedicated
+FAICOVA,Fairfax Co Jail,38.843436,-77.308527,Fairfax,VA,USMS IGA,Federal
+FAULKAR,Faulkner County Jail,35.088787,-92.442618,Conway,AR,IGSA,Non-Dedicated
+FAULKSD,Faulk County Jail,45.0334399,-99.12613971,Faulkton,SD,IGSA,Non-Dedicated
+FAYETKY,Fayette County Detention Center,38.066097,-84.544851,Lexington,KY,USMS IGA,Federal
+FAYHOLD,Fayetteville Hold Room,36.10463,-94.178449,Fayetteville,AR,Hold,Hold/Staging
+FCLT8CA,Facility 8 Detention Facility,32.5917985,-116.9239845,San Diego,CA,Unknown,Other/Unknown
+FCOHOLD,Frederick Holdroom,40.08366084,-104.9842897,Frederick,CO,Hold,Hold/Staging
+FERRYWA,Ferry County Jail,48.649394,-118.733792,Republic,WA,IGSA,Non-Dedicated
+FIPCAGA,Annex Folkston IPC,30.88336932,-81.9909668,Folkston,GA,DIGSA,Dedicated
+FLATHMT,Flathead County Jail,48.190659,-114.310815,Kalispell,MT,IGSA,Non-Dedicated
+FLBAKCI,Baker C. I.,30.2148082,-82.3723247,Sanderson,FL,Unknown,Other/Unknown
+FLBHCFL,Ft Lauderdale Behavor Hlth Ctr,26.1974707,-80.1332629,Oakland Park,FL,Hospital,Medical
+FLDADCI,Dade Correctional Inst,25.4171678,-80.5020883,Florida City,FL,Unknown,Other/Unknown
+FLHOSFL,Fort Lauderdale Hospital,26.1196813,-80.1267773,Fort Lauderdale,FL,Hospital,Medical
+FLMARIC,Marion Correctional Inst.,29.3044006,-82.1795764,Ocala,FL,Other,Other/Unknown
+FLO,Florence SPC,33.0649605,-111.3785048,Florence,AZ,SPC,Dedicated
+FLOYDGA,Floyd County Jail,34.2799192,-85.1416163,Rome,GA,USMS IGA,Federal
+FLSPSTA,"Florida St. Pris.,Starke",30.0580043,-82.182601,Raiford,FL,Unknown,Other/Unknown
+FMYHOLD,Fort Myers ERO Holdroom,26.5489061,-81.8083647,Fort Myers,FL,Hold,Hold/Staging
+FORSYNC,Forsyth County Jail,36.09651,-80.242718,Winston-Salem,NC,USMS IGA,Federal
+FRACOVT,"Franklin County Jail, VT",44.81129087,-73.08035913,Saint Albans,VT,IGSA,Non-Dedicated
+FRANKWA,Franklin County,46.213756,-119.042518,Pasco,WA,IGSA,Non-Dedicated
+FRDHOLD,Frederick Holdroom,40.08366084,-104.9842897,Frederick,CO,Hold,Hold/Staging
+FRECOCA,Fresno County Jail,36.7291884,-119.8017545,Fresno,CA,IGSA,Non-Dedicated
+FREDEMD,Frederick County Det. Cen,39.36508045,-77.41508036,Frederick,MD,IGSA,Non-Dedicated
+FREEBMN,"Freeborn County Jail, MN",43.6462546,-93.3677806,Albert Lea,MN,IGSA,Non-Dedicated
+FREHOLD,Fresno Holdroom,36.73267589,-119.7852956,Fresno,CA,Hold,Hold/Staging
+FREMOCO,"Fremont County Jail, CO",38.446849,-105.18313,Canon City,CO,IGSA,Non-Dedicated
+FREMOWY,"Fremont County Jail, WY",42.83628181,-108.7275751,Lander,WY,IGSA,Non-Dedicated
+FRFLDWY,Fairfield Inn & Suites,41.1252087,-104.8352015,Cheyenne,WY,Hotel,Hotel
+FRIOCTX,Frio County Jail,28.8879483,-99.0916754,Pearsall,TX,IGSA,Non-Dedicated
+FRMVLVA,ICA - Farmville,37.319501,-78.438276,Farmville,VA,DIGSA,Dedicated
+FSAHOLD,Fort Smith Holdroom,35.3328677,-94.3878247,Fort Smith,AR,Hold,Hold/Staging
+FSF,Florence Staging Facility,33.0649605,-111.3785048,Florence,AZ,Staging,Hold/Staging
+FXADCVA,Fairfax Co. Adult Detention Center,38.84363394,-77.31119537,Fairfax,VA,IGSA,Non-Dedicated
+GADRYJM,D. Ray James Prison,30.8739805,-81.9794748,Folkston,GA,BOP,Federal
+GALLAMT,Gallatin County Jail,45.673753,-111.059585,Bozeman,MT,IGSA,Non-Dedicated
+GARVIOK,Garvin County Jail,34.740003,-97.222229,Pauls Valley,OK,IGSA,Non-Dedicated
+GASTNNC,Gaston County Jail,35.2675,-81.182088,Gastonia,NC,IGSA,Non-Dedicated
+GCLECOK,Grady County Law Enforcement Ctr,35.05698043,-97.94311523,Chickasha,OK,Unknown,Other/Unknown
+GEAUGOH,Geauga County Jail,41.504557,-81.19155,Chardon,OH,USMS IGA,Federal
+GENESNY,Genesee County Jail,42.998731,-78.188095,Batavia,NY,USMS IGA,Federal
+GFCORND,Grand Forks County Correc,47.935792,-97.055851,Grand Forks,ND,IGSA,Non-Dedicated
+GFJUVND,Grand Forks Co. Juvenile,47.935792,-97.055851,Grand Forks,ND,Juvenile,Family/Youth
+GIJUVAZ,Gila County Juvenile Det Center,33.40038,-110.7688274,Globe,AZ,Juvenile,Family/Youth
+GJCHOLD,Grand Junction Holdroom,39.08742921,-108.5855331,Grand Junction,CO,Hold,Hold/Staging
+GLADEFL,Glades County Detention Center,26.838714,-81.124018,Moore Haven,FL,IGSA,Non-Dedicated
+GLEPDCA,Glendale Police Dept,34.1472553,-118.2492154,Glendale,CA,IGSA,Non-Dedicated
+GLOUCNJ,Gloucester County Jail,39.83890746,-75.1491954,Woodbury,NJ,IGSA,Non-Dedicated
+GOSHEWY,Goshen County Jail,42.065322,-104.1820187,Torrington,WY,IGSA,Non-Dedicated
+GPCHOLD,Great Plains CI Holdroom,35.446946,-98.367623,Hinton,OK,Hold,Hold/Staging
+GRANTOR,Grant County Jail,44.387071,-118.950498,Canyon City,OR,IGSA,Non-Dedicated
+GRANTWA,Grant County,47.3215395,-119.5529628,Ephrata,WA,IGSA,Non-Dedicated
+GRAYSKY,Grayson County Detention Center,37.49107275,-86.2578805,Leitchfield,KY,USMS IGA,Federal
+GREENMA,Franklin House of Corrections,42.5964024,-72.6124595,Greenfield,MA,USMS IGA,Federal
+GREENMO,Greene County Jail,37.21775884,-93.29106785,Springfield,MO,IGSA,Non-Dedicated
+GRFHOLD,Grand Forks Hold Room,47.92382012,-97.03497765,Grand Forks,ND,Hold,Hold/Staging
+GRIHOLD,Grand Island Hold Room,40.924152,-98.343144,Grand Island,NE,Hold,Hold/Staging
+GRMHOLD,Grand Rapids Holdroom,42.97268389,-85.67005197,Grand Rapids,MI,Hold,Hold/Staging
+GRRHOLD,Greer Hold Room,34.9371548,-82.2418822,Greer,SC,Hold,Hold/Staging
+GRYDCKY,Grayson County Det Center (Female),37.49107275,-86.2578805,Leitchfield,KY,USMS IGA,Federal
+GSCHOLD,Glenwood Springs Holdroom,39.5150507,-107.3234023,Glenwood Springs,CO,Hold,Hold/Staging
+GUADATX,Guadalupe Cty Jail,29.6037661,-97.970028,Seguin,TX,IGSA,Non-Dedicated
+GUDOCHG,Dept Of Corrections-Hagatna,13.475742,144.750595,Hagatna,GU,USMS IGA,Federal
+GWINNGA,Gwinnett County Jail,33.9821822,-83.9772641,Lawrenceville,GA,IGSA,Non-Dedicated
+HAILEID,Haile Det. Center,43.66480214,-116.6816823,Caldwell,ID,IGSA,Non-Dedicated
+HALLJGA,Hall Co Jail,34.242651,-83.815583,Gainesville,GA,USMS IGA,Federal
+HAMPDMA,Hampden Co.House Of Corr.,42.2046085,-72.5105724,Ludlow,MA,IGSA,Non-Dedicated
+HARDEFL,Hardee County Jail,27.5432449,-81.8018537,Wauchula,FL,Unknown,Other/Unknown
+HARDJIA,Hardin Co Jail,42.35984492,-93.09737106,Eldora,IA,IGSA,Non-Dedicated
+HARFOCT,Hartford Corr Center,41.79329603,-72.66005815,Hartford,CT,IGSA,Non-Dedicated
+HARHOLD,Hartford Office,41.65125491,-72.60366603,Hartford,CT,Hold,Hold/Staging
+HARRIGA,Harris County Jail,32.764412,-84.866192,Hamilton,GA,IGSA,Non-Dedicated
+HASHENE,Hall County Sheriff,40.926919,-98.328077,Grand Island,NE,IGSA,Non-Dedicated
+HASKLTX,Rolling Plains Detention Center,33.1762715,-99.72178917,Haskell,TX,USMS IGA,Federal
+HBGHOLD,Harrisonburg Hold Room,38.4267988,-78.8483885,Harrisonburg,VA,Hold,Hold/Staging
+HCPSYTX,Harris County Psychiatric Center,29.71215455,-95.37452665,Houston,TX,Hospital,Medical
+HDLGOTX,Hidalgo Police Dept.,26.1002465,-98.2602573,Hidalgo,TX,Unknown,Other/Unknown
+HELHOLD,Hel District Custody,46.59349986,-111.9741765,Helena,MT,Hold,Hold/Staging
+HENDENC,Henderson County Det. Fac.,35.31488406,-82.45637937,Hendersonville,NC,IGSA,Non-Dedicated
+HENDENV,Henderson Detention,36.0332158,-114.9746293,Henderson,NV,USMS IGA,Federal
+HENDETX,Henderson County Jail,32.21280107,-95.85571289,Athens,TX,IGSA,Non-Dedicated
+HENDRFL,Hendry County Jail,26.7604715,-81.43664617,Labelle,FL,IGSA,Non-Dedicated
+HENHOLD,Hendersonville Hold Room,35.31880745,-82.46808227,Hendersonville,NC,Hold,Hold/Staging
+HERNAFL,Hernando County Jail,28.483619,-82.451205,Brooksville,FL,IGSA,Non-Dedicated
+HHWHOLD,INS District Office,21.299633,-157.8631238,Honolulu,HI,Hold,Hold/Staging
+HICOJFL,Hillsborough County Jail,27.9582201,-82.37309106,Tampa,FL,IGSA,Non-Dedicated
+HIDALNM,Hidalgo County Detention Center,32.337628,-108.665511,Lordsburg,NM,IGSA,Non-Dedicated
+HIDALTX,Hidalgo County Jail,26.416723,-98.127738,Edinburg,TX,IGSA,Non-Dedicated
+HILLCMT,Hill County Justice Center,48.55288501,-109.7068314,Havre,MT,USMS IGA,Federal
+HLGHOLD,Harlingen Hold Room,26.178023,-97.71412437,Harlingen,TX,Hold,Hold/Staging
+HLYCHIL,Holy Cross Hospital,41.7693648,-87.6922122,Chicago,IL,Hospital,Medical
+HMCHOTX,Harlingen Medical Center,26.157745,-97.67513,Harlingen,TX,Hospital,Medical
+HNRMCFL,Henry Regional Medical Center,26.7525907,-80.9412498,Clewiston,FL,Hospital,Medical
+HOKLYTX,Hockley County Jail,33.5783128,-102.3788175,Levelland,TX,IGSA,Non-Dedicated
+HOSPSPR,Hospital Pavia-Santurce,18.444251,-66.068992,San Juan,PR,Hospital,Medical
+HOTELMA,Ramada Hotel,42.387526,-71.01766902,East Boston,MA,Hotel,Hotel
+HOUHOLD,Houston FO Holdroom,29.95204543,-95.31115606,Houston,TX,Hold,Hold/Staging
+HOUICDF,Houston Contract Det.Fac.,29.95083585,-95.31218808,Houston,TX,CDF,Dedicated
+HOWARMD,Howard County Det Cntr,39.16941095,-76.78179079,Jessup,MD,IGSA,Non-Dedicated
+HRLGNTX,Harlingen Police Dept.,26.2004927,-97.7056244,Harlingen,TX,Unknown,Other/Unknown
+HRREGVA,Hampton Roads Regional Jail,36.804472,-76.368436,Portsmouth,VA,USMS IGA,Federal
+HSF,Harlingen Staging Facility,26.18120829,-97.68485813,Harlingen,TX,Staging,Hold/Staging
+HUDSONJ,Hudson County Jail,40.72991,-74.103398,Kearny,NJ,IGSA,Non-Dedicated
+HUDSPTX,Hudspeth County Jail,31.1841074,-105.3585878,Sierra Blanca,TX,IGSA,Non-Dedicated
+IAHSFTX,George Bush Intercontinental,29.9839236,-95.33220235,Houston,TX,Staging,Hold/Staging
+IBPSMIA,Miami Border Patrol,25.7739939,-80.1950194,Miami,FL,Unknown,Other/Unknown
+IFIHOLD,Idaho Falls Hold Room,43.51475817,-112.0337537,Idaho Falls,ID,Hold,Hold/Staging
+ILPICKN,Pinckneyville Correctional Center,38.0881687,-89.329431,Pinckneyville,IL,Unknown,Other/Unknown
+IMPCOCA,Imperial County Jail,32.74877157,-115.5630594,El Centro,CA,IGSA,Non-Dedicated
+INDCMIC,In Dept. Of Corrections,39.7679855,-86.1652409,Indianapolis,IN,Unknown,Other/Unknown
+INPHOLD,Indianapolis Hold Room,39.765936,-86.1535844,Indianapolis,IN,Hold,Hold/Staging
+IRADFCA,Imperial Regional Adult Det Fac,32.690811,-115.397861,Calexico,CA,CDF,Dedicated
+IRWINGA,Irwin County Detention Center,31.58099723,-83.25462794,Ocilla,GA,IGSA,Non-Dedicated
+ISHOSNY,"Beth Israel Hospital, Manhattan",40.734669,-73.981017,New York,NY,Hospital,Medical
+IWAHOLD,AZ Rem Op Coord Center (AROCC),33.4180114,-111.8367566,Mesa,AZ,Hold,Hold/Staging
+JACKSOR,Jackson Co Jail,42.321995,-122.8786715,Medford,OR,USMS IGA,Federal
+JAJUVOR,Jackson County Juvenile,42.32086865,-122.8777724,Medford,OR,Juvenile,Family/Youth
+JAKHOLD,Jackson MS Hold Room,32.2879592,-90.0604261,Pearl,MS,Hold,Hold/Staging
+JAMESGA,Main Folkston IPC Drjames,30.872094,-81.98247,Folkston,GA,DIGSA,Dedicated
+JAXHOLD,Jacksonville Sub-Office,30.25553186,-81.59002626,Jacksonville,FL,Hold,Hold/Staging
+JCRLYTX,Joe Corley Processing Ctr,30.34444,-95.46021,Conroe,TX,IGSA,Non-Dedicated
+JEFFECO,Jefferson County Jail,39.7301082,-105.2042608,Golden,CO,IGSA,Non-Dedicated
+JEFFEID,Jefferson County Jail,43.67335753,-111.9108918,Rigby,ID,IGSA,Non-Dedicated
+JEFFEIL,Jefferson County Jail,38.314552,-88.90253478,Mount Vernon,IL,IGSA,Non-Dedicated
+JEFFEKS,Jefferson County Jail,39.20713197,-95.31135339,Oskaloosa,KS,USMS IGA,Federal
+JEFFEMT,Jefferson County Jail,46.23578765,-112.1211429,Boulder,MT,USMS IGA,Federal
+JEFFENY,Jefferson County Jail,43.973502,-75.928291,Watertown,NY,IGSA,Non-Dedicated
+JEFFETX,Jefferson County Jail,30.079492,-94.094305,Beaumont,TX,IGSA,Non-Dedicated
+JENADLA,Lasalle ICE Processing Center,31.70727408,-92.15105963,Jena,LA,DIGSA,Dedicated
+JENATLA,Alexandria Staging Facility,31.31723,-92.5364,Alexandria,LA,Staging,Hold/Staging
+JENNIMO,Jennings City Jail,38.710918,-90.2665596,Jennings,MO,USMS IGA,Federal
+JFKTSNY,JFK International Ap - T7,40.6495623,-73.7827185,Jamaica,NY,Other,Other/Unknown
+JHALLCA,San Diego County Juv.Hall,33.3863791,-117.5633884,San Diego,CA,Juvenile,Family/Youth
+JHMCJNY,Jamaica Hospital Med Ctr,40.7005373,-73.816226,Richmond Hill,NY,Hospital,Medical
+JHRWLTX,Jack Harwell Detention Center,31.5462976,-97.0673467,Waco,TX,USMS IGA,Federal
+JKPCCLA,Jackson Parish Correctional Center,32.22209584,-92.72460938,Jonesboro,LA,DIGSA,Dedicated
+JMHOSFL,Jackson Memorial Hospital,25.8470752,-80.3062799,Miami,FL,Hospital,Medical
+JOHNSTX,Johnson County Jail,32.3749017,-97.38846453,Cleburne,TX,IGSA,Non-Dedicated
+JOSEPOR,Josephine Co. Jail,42.4384778,-123.3194571,Grants Pass,OR,USMS IGA,Federal
+JYCMCNJ,Jersey City Med Ctr,40.7163016,-74.0503916,Jersey City,NJ,Hospital,Medical
+KANDIMN,Kandiyohi Co. Jail,45.1460114,-95.0136881,Willmar,MN,IGSA,Non-Dedicated
+KANECIL,Kane County Jail,41.900152,-88.3555386,St Charles,IL,Unknown,Other/Unknown
+KANHOLD,Kansas City Holdroom,39.268843,-94.675548,Kansas City,MO,Hold,Hold/Staging
+KANKEIL,Kankakee County Jail,41.07573766,-87.85922738,Kankakee,IL,USMS IGA,Federal
+KARNETX,Karnes Cty Corr Ctr,28.88348505,-97.91184814,Karnes City,TX,USMS IGA,Federal
+KCCDCTX,Karnes County Civil Det. Facility,28.884651,-97.915298,Karnes City,TX,Family,Family/Youth
+KCHOSNY,Kings County Hospital,40.6566962,-73.94346584,Brooklyn,NY,Hospital,Medical
+KCOJFOK,Kay Co Justice Facility,36.87962061,-97.07519531,Newkirk,OK,IGSA,Non-Dedicated
+KENOSWI,Kenosha County Jail,42.59321564,-87.9148965,Kenosha,WI,USMS IGA,Federal
+KENTCMI,"Kent Co.,Grand Rapids,MI",42.97624673,-85.62990511,Grand Rapids,MI,IGSA,Non-Dedicated
+KERCOCA,Kern County Jail (Lerdo),35.6530636,-119.1079387,Bakersfield,CA,IGSA,Non-Dedicated
+KINNETX,Kinney County Jail,29.31132878,-100.4180336,Brackettville,TX,IGSA,Non-Dedicated
+KITTIWA,Kittitas County Jail,46.99656649,-120.5498112,Ellensburg,WA,IGSA,Non-Dedicated
+KLAMCOR,Klamath Co Jail,42.22184,-121.748813,Klamath Falls,OR,IGSA,Non-Dedicated
+KNXDFTN,Knox County Detention Facility,36.09349937,-83.84765625,Knoxville,TN,USMS IGA,Federal
+KNXHOLD,Knoxville Hold Room,35.9603026,-83.9167728,Knoxville,TN,Hold,Hold/Staging
+KODIAAK,Kodiak City Jail,57.79098719,-152.4058299,Kodiak,AK,IGSA,Non-Dedicated
+KOOTEID,Kootenai County,47.701751,-116.786279,Coeur D'Alene,ID,IGSA,Non-Dedicated
+KRHUBFL,Krome/Miami Hub,25.75434,-80.48913,Miami,FL,Hold,Hold/Staging
+KRNRCTX,Karnes County Residential Center,28.884651,-97.915298,Karnes City,TX,Family,Family/Youth
+KRO,Krome North SPC,25.76031975,-80.49682617,Miami,FL,SPC,Dedicated
+KROHOLD,Krome Hold Room,25.7581461,-80.3509388,Miami,FL,Hold,Hold/Staging
+LACKAPA,"Lackawana Cnty Jail, PA",41.42234433,-75.64786479,Scranton,PA,USMS IGA,Federal
+LAFERTX,La Feria Police Dept.,26.1589693,-97.8230708,La Feria,TX,Unknown,Other/Unknown
+LAKCOMT,Lake County Jail,47.69222831,-114.1605585,Polson,MT,IGSA,Non-Dedicated
+LAKMCFL,Lakeside Medical Center,26.7253319,-80.6680752,Belle Glade,FL,Hospital,Medical
+LANCACA,Mira Loma Det.Center,34.7016555,-118.233176,Lancaster,CA,DIGSA,Dedicated
+LANECOR,Lane Co Jail,44.0511,-123.0901158,Eugene,OR,IGSA,Non-Dedicated
+LAPAZAZ,La Paz County Adult Det. Fac.,34.14622635,-114.2901887,Parker,AZ,USMS IGA,Federal
+LAPLACO,La Plata County Jail,37.247535,-107.878657,Durango,CO,USMS IGA,Federal
+LARCOWY,Laramie County Jail,41.13475335,-104.8200948,Cheyenne,WY,USMS IGA,Federal
+LARIMCO,Larimer County Jail,40.56382216,-105.0321624,Fort Collins,CO,USMS IGA,Federal
+LASALTX,Lasalle County Jail,28.44470279,-99.2366577,Cotulla,TX,Other,Other/Unknown
+LASANCO,Las Animas County Jail,37.18008478,-104.4856281,Trinidad,CO,IGSA,Non-Dedicated
+LASWOCA,Las Colinas Women Det Fac,32.840379,-116.973663,Santee,CA,IGSA,Non-Dedicated
+LAVACTX,Lavaca County Jail,29.4438528,-96.9410929,Hallettsville,TX,Unknown,Other/Unknown
+LAWINCI,Winn Corr Institute,31.84956533,-92.80151367,Winnfield,LA,DIGSA,Dedicated
+LAWREPA,Lawrence County Jail,40.99906979,-80.33782425,New Castle,PA,USMS IGA,Federal
+LAWRESD,"Lawrence Co. Jail, SD",44.37513576,-103.7293156,Deadwood,SD,IGSA,Non-Dedicated
+LBKHOLD,Lubbock Hold Room,33.58437,-101.845109,Lubbock,TX,Hold,Hold/Staging
+LDFHOLD,Loveland Holdroom,40.39847612,-105.0725195,Loveland,CO,Hold,Hold/Staging
+LEACONM,Lea County Jail,32.93424105,-103.3390551,Lovington,NM,USMS IGA,Federal
+LEHIGPA,"Lehigh County Jail, PA",40.60479398,-75.46572184,Allentown,PA,USMS IGA,Federal
+LEWISMT,Lewis & Clark County Jail,46.58637942,-112.036538,Helena,MT,IGSA,Non-Dedicated
+LEWISNY,Lewis County Jail,43.778601,-75.500889,Lowville,NY,IGSA,Non-Dedicated
+LEXINSC,Lexington County Jail,33.97848075,-81.25083986,Lexington,SC,USMS IGA,Federal
+LFRESTX,Los Fresnos Police Dept.,26.0729528,-97.4783299,Los Fresnos,TX,Unknown,Other/Unknown
+LIMESTX,Limestone Det Center,31.52878353,-96.51234696,Groesbeck,TX,USMS IGA,Federal
+LINCOMO,Lincoln County Sheriff's,38.97101443,-90.96348024,Troy,MO,IGSA,Non-Dedicated
+LINCONE,Lincoln County Jail,41.107277,-100.764118,North Platte,NE,IGSA,Non-Dedicated
+LINNCOR,Linn Co Jail,44.62942952,-123.0978208,Albany,OR,IGSA,Non-Dedicated
+LINNJIA,Linn County Jail,41.97529487,-91.67008471,Cedar Rapids,IA,USMS IGA,Federal
+LIVINNY,Livingston County Jail,42.800297,-77.816272,Geneseo,NY,USMS IGA,Federal
+LKLNDLA,Lakeland Nursing Home,31.3402,-92.39921,Pineville,LA,Hospital,Medical
+LLUMCCA,Loma Linda University Med Center,34.04911185,-117.2634355,Loma Linda,CA,Hospital,Medical
+LONPDAR,Lonoke Police Dept Det.Ctr,34.5416135,-91.7548073,Lonoke,AR,IGSA,Non-Dedicated
+LOSCJCA,Los Angeles County Jail-Twin Tower,34.05905809,-118.2313412,Los Angeles,CA,IGSA,Non-Dedicated
+LOSHOLD,Los Cust Case,34.054044,-118.239721,San Pedro,CA,Hold,Hold/Staging
+LOUCOVA,Loudoun County,39.075238,-77.544925,Leesburg,VA,USMS IGA,Federal
+LOUHOLD,Louisville Hold Room,38.25320155,-85.76107196,Louisville,KY,Hold,Hold/Staging
+LOYMCIL,Loyola Medical Center,41.86058,-87.834527,Maywood,IL,Hospital,Medical
+LPAPSAZ,La Palma Corr Ctr Apso,32.65,-111.59,Eloy,AZ,DIGSA,Dedicated
+LPD77CA,Los Angeles Police PD 77th Div.,33.9702803,-118.2779687,Los Angeles,CA,Unknown,Other/Unknown
+LPLCCAZ,La Palma Correctional Center,32.8242111,-111.5441895,Eloy,AZ,DIGSA,Dedicated
+LRAHOLD,Little Rock Hold Room,34.7237825,-92.3077327,Little Rock,AR,Hold,Hold/Staging
+LRDHOLD,Laredo Detention Center Hold Room,27.529078,-99.44792,Laredo,TX,Hold,Hold/Staging
+LRDICDF,Laredo Processing Center,27.5294764,-99.44777311,Laredo,TX,DIGSA,Dedicated
+LRKBHFL,Larkin Behavioral Health Svcs,26.0211773,-80.1806619,Hollywood,FL,Hospital,Medical
+LRKMCFL,Lower Keys Medical Center,24.5808668,-81.7425506,Key West,FL,Hospital,Medical
+LRKNHFL,Larkin Hospital,25.7062706,-80.29266702,South Miami,FL,Hospital,Medical
+LSFHOLD,Los Fresnos Hold Room,26.0745673,-97.5121806,Los Fresnos,TX,Hold,Hold/Staging
+LSHOSMA,Lemuel Shattuck Hospital,42.2999102,-71.1063401,Jamaica Plain,MA,Hospital,Medical
+LSRDCTX,La Salle Co Regional Det. Center,28.045288,-99.336083,Encinal,TX,USMS IGA,Federal
+LTVHOLD,"Lorton, VA Hold Room",38.8807381,-77.2323425,Fairfax,VA,Hold,Hold/Staging
+LUBBOTX,Lubbock County Jail,33.5854229,-101.8434337,Lubbock,TX,USMS IGA,Federal
+LUFKNTX,Lufkin Police Dept.,31.336934,-94.726863,Lufkin,TX,Other,Other/Unknown
+LUNCONM,Luna County Jail,32.275782,-107.777403,Deming,NM,IGSA,Non-Dedicated
+LVGHOLD,Las Vegas Hold Room,36.0583473,-115.2251266,Las Vegas,NV,Hold,Hold/Staging
+LYOLAIL,Loyola Center For Health,41.86428869,-87.84715661,Maywood,IL,Hospital,Medical
+MABSHOS,Bwater St Hosp Bridgewate,41.9466983,-70.9526157,Bridgewater,MA,Hospital,Medical
+MACCOMI,"Macomb Co.Mt.Clemens,MI.",42.61252834,-82.88227369,Mount Clemens,MI,USMS IGA,Federal
+MADISID,Madison County Jail,43.827089,-111.779306,Rexburg,ID,IGSA,Non-Dedicated
+MADISMS,"Madison Co. Jail, MS.",32.643411,-90.023566,Canton,MS,IGSA,Non-Dedicated
+MADISNY,Madison County Jail,43.080706,-75.707453,Wampsville,NY,USMS IGA,Federal
+MAHONOH,Mahoning County Jail,41.104242,-80.654914,Youngstown,OH,IGSA,Non-Dedicated
+MANHOLD,Manchester Holdroom,42.99851926,-71.46659763,Manchester,NH,Hold,Hold/Staging
+MAPLEOH,Maple Heights City Jail,41.414988,-81.565423,Maple Heights,OH,USMS IGA,Federal
+MARICOR,Marion Co Jail,44.891436,-122.9572791,Salem,OR,IGSA,Non-Dedicated
+MARIOIN,Marion County Jail,39.765936,-86.15358438,Indianapolis,IN,USMS IGA,Federal
+MARSHIA,Marshall County Jail,42.010496,-93.05982,Marshalltown,IA,USMS IGA,Federal
+MARTIFL,Martin County Jail,27.175606,-80.239852,Stuart,FL,IGSA,Non-Dedicated
+MARTNTX,Martin County Jail,32.1311284,-101.7909278,Stanton,TX,Unknown,Other/Unknown
+MATEWKS,Tewksbury State Hospital,42.613319,-71.23592,Tewksbury,MA,Hospital,Medical
+MATSHOS,Taunton State Hospital,41.9009817,-71.0892959,Taunton,MA,Hospital,Medical
+MAVERTX,Maverick County Jail,28.7193239,-100.4599858,Eagle Pass,TX,IGSA,Non-Dedicated
+MCCDCTX,Mcclennan County Detention Center,31.55812353,-97.13398424,Waco,TX,USMS IGA,Federal
+MCCLETX,Mclennan County Jail,31.557534,-97.133016,Waco,TX,IGSA,Non-Dedicated
+MCFAJAZ,Maricopa County Jail,33.4455438,-112.0782984,Phoenix,AZ,USMS IGA,Federal
+MCHENIL,McHenry County Sheriff's,42.3370015,-88.4431677,Woodstock,IL,USMS IGA,Federal
+MCKINNM,Mckinley County Adult Det. Cen.,35.5021729,-108.7332668,Gallup,NM,IGSA,Non-Dedicated
+MCMEDAZ,Maricopa Medical Center,33.446667,-112.059446,Phoenix,AZ,Hospital,Medical
+MEADESD,"Meade Co. Jail, SD",44.41453,-103.515705,Sturgis,SD,IGSA,Non-Dedicated
+MECKLNC,Mecklenburg (NC) Co Jail,35.31491702,-80.84112443,Charlotte,NC,USMS IGA,Federal
+MEDHOLD,Medford Sub-Office,42.32540398,-122.8769674,Medford,OR,Hold,Hold/Staging
+MEMHOLD,Memphis Hold Room,35.15751129,-89.88252957,Memphis,TN,Hold,Hold/Staging
+MEMRHFL,Memorial Regional Hosp.,26.0193875,-80.1800087,Hollywood,FL,Hospital,Medical
+MERCEIL,Mercer County Corrections,41.1996446,-90.7591483,Aledo,IL,Other,Other/Unknown
+MERCYFL,Mercy Hospital,25.7400049,-80.213526,Miami,FL,Hospital,Medical
+MESJACO,Mesa County Jail,39.068602,-108.5740444,Grand Junction,CO,USMS IGA,Federal
+METROFL,Metro Dade Jail,25.7153218,-80.3360369,Miami,FL,IGSA,Non-Dedicated
+MEYTHCT,Maine Youth Center - Long Creek,43.6395847,-70.3089901,South Portland,ME,Juvenile,Family/Youth
+MGAHOLD,Montgomery Hold Room,32.3742945,-86.3051067,Montgomery,AL,Hold,Hold/Staging
+MIAHOLD,Miami (Miramar) Hold Room,25.9199582,-80.15496114,Miami,FL,Hold,Hold/Staging
+MIDBIMA,Middlesex County H.O.C.-Billerica,42.36948,-71.0794,Cambridge,MA,IGSA,Non-Dedicated
+MIDDLNJ,Middlesex County Jail,40.421388,-74.488991,North Brunswick,NJ,IGSA,Non-Dedicated
+MIDLATX,Midland Detention Center,31.993732,-102.076911,Midland,TX,USMS IGA,Federal
+MILHOLD,Milwaukee Holdroom,43.0475026,-87.9078194,Milwaukee,WI,Hold,Hold/Staging
+MILLRAR,Miller County Jail,33.39980132,-94.02270787,Texarkana,AR,USMS IGA,Federal
+MINERMT,Mineral County Jail,47.1918156,-114.8912635,Superior,MT,IGSA,Non-Dedicated
+MINICID,Minicassia Det. Center,42.53528029,-113.7918093,Burley,ID,IGSA,Non-Dedicated
+MINNESD,Minnehaha County Jail,43.5784603,-96.7285574,Sioux Falls,SD,USMS IGA,Federal
+MISCOMO,Mississippi County Detention Cente,36.923458,-89.351767,Charleston,MO,IGSA,Non-Dedicated
+MISSOMT,Missoula County,46.8827745,-114.0271291,Missoula,MT,IGSA,Non-Dedicated
+MIWPRPH,Walter Reuther Psychiatric Center,42.29655473,-83.34578967,Westland,MI,Hospital,Medical
+MLDHOLD,"Midland, TX ERO Holdroom",31.994252,-102.074372,Midland,TX,Hold,Hold/Staging
+MLJHOLD,Mount Laurel Hold Room,39.9328803,-74.9575004,Mount Laurel,NJ,Hold,Hold/Staging
+MNCOAKC,"Minn.C.F, Oak Park Hgts",45.05295206,-92.83115056,Stillwater,MN,IGSA,Non-Dedicated
+MNROEMI,Monroe County Sheriff/Jail-Main,41.914749,-83.398858,Monroe,MI,IGSA,Non-Dedicated
+MNTGMAL,Montgomery City Jail,32.38155571,-86.29825808,Montgomery,AL,IGSA,Non-Dedicated
+MOFFECO,Moffat County Jail,40.50679779,-107.5585057,Craig,CO,IGSA,Non-Dedicated
+MOHAVAZ,Mohave Co Corr Center,35.1923041,-114.051336,Kingman,AZ,IGSA,Non-Dedicated
+MONCJAL,Montgomery City Jail,32.37877969,-86.30762302,Montgomery,AL,USMS IGA,Federal
+MONMONJ,Monmouth County Jail,40.2678971,-74.28696232,Freehold,NJ,IGSA,Non-Dedicated
+MONROFL,Monroe County Jail,24.57218474,-81.74893038,Key West,FL,IGSA,Non-Dedicated
+MONROMI,Monroe County Detention-Dorm,41.893515,-83.394064,Monroe,MI,IGSA,Non-Dedicated
+MONRONY,Monroe County Jail,43.152392,-77.614157,Rochester,NY,IGSA,Non-Dedicated
+MONTGAL,Montgomery Co Mac Sim Butler D.F.,32.37429522,-86.30510687,Montgomery,AL,USMS IGA,Federal
+MONTGMO,Montgomery County Jail,38.979586,-91.504377,Montgomery City,MO,IGSA,Non-Dedicated
+MONTGNY,Montgomery County Jail,42.9529841,-74.3740641,Fonda,NY,IGSA,Non-Dedicated
+MONTGPA,"Montgomery Cnty Jail, PA",40.15904,-75.422263,Norristown,PA,USMS IGA,Federal
+MONTGTX,Montgomery County Jail,30.3359939,-95.44819816,Conroe,TX,IGSA,Non-Dedicated
+MORGACO,Morgan County Jail,40.251332,-103.789522,Fort Morgan,CO,IGSA,Non-Dedicated
+MORGNMO,Morgan County Sheriff's Dept,38.43162758,-92.83975127,Versailles,MO,IGSA,Non-Dedicated
+MOROWOH,Morrow Co. Correctional Facility,40.5599306,-82.80671785,Mount Gilead,OH,IGSA,Non-Dedicated
+MOUNTND,"Mountrail Co. Jail, ND",48.320834,-102.390752,Stanley,ND,IGSA,Non-Dedicated
+MPSIPAN,Saipan Department Of Corrections,15.156223,145.703679,Saipan,MP,USMS IGA,Federal
+MRCDSTX,Mercedes Police Dept.,26.1483815,-97.9118976,Mercedes,TX,Unknown,Other/Unknown
+MSF,Miami Staging Facility,25.7784607,-80.1931315,Miami,FL,Hold,Hold/Staging
+MSKGNMI,Muskegon County Jail,43.2350822,-86.2436646,Muskegon,MI,Unknown,Other/Unknown
+MTGHOLD,Montgomery Hold Rm,30.34443559,-95.44921875,Conroe,TX,Hold,Hold/Staging
+MTGPCTX,Montgomery Processing Ctr,30.34444,-95.44922,Conroe,TX,CDF,Dedicated
+MTPPDCA,Monterey Park Police Dept,34.05916,-118.125959,Monterey Park,CA,USMS IGA,Federal
+MULTNOR,Multnomah County Jail,45.5634814,-122.5441087,Portland,OR,IGSA,Non-Dedicated
+MUSCAIA,Muscatine County Jail,41.4243549,-91.0446662,Muscatine,IA,USMS IGA,Federal
+MUSIKCA,James A Musick Facility,33.6630294,-117.7005928,Irvine,CA,IGSA,Non-Dedicated
+MUSSEMT,Musselshell County Jail,46.44966786,-108.5417885,Roundup,MT,IGSA,Non-Dedicated
+NASHUMA,Nashua St. Jail,42.3672235,-71.0661658,Boston,MA,Unknown,Other/Unknown
+NASSAFL,Nassau County Jail,30.610685,-81.631404,Yulee,FL,IGSA,Non-Dedicated
+NASSANY,Nassau Co Correc Center,40.72780699,-73.55616534,East Meadow,NY,IGSA,Non-Dedicated
+NATCHLA,Natchitoches Parish Det. Center,31.73751113,-93.10913086,Natchitoches,LA,USMS IGA,Federal
+NATROWY,Natrona County Jail,42.862257,-106.345052,Casper,WY,USMS IGA,Federal
+NAVSOAZ,Navajo County Sheriff,34.871553,-110.154716,Holbrook,AZ,IGSA,Non-Dedicated
+NBRMCFL,North Broward Medical Center,26.2754093,-80.0986378,Pompano Beach,FL,Hospital,Medical
+NEJUVNE,N.E.Neb.Juvenile Services,41.8445326,-97.4568932,Madison,NE,Juvenile,Family/Youth
+NEWHOLD,New/INS Os Hold Room,40.73036437,-74.17498616,Newark,NJ,Hold,Hold/Staging
+NFMIGFL,Neighbor-Family Miami Gardens,25.9827212,-80.3395007,Miramar,FL,Unknown,Other/Unknown
+NFSMTGA,"Neighbor-Family, Stone Mountain",33.817835,-84.120592,Stone Mountain,GA,Other,Other/Unknown
+NGDCTGA,North Georgia Detention Center,34.29467486,-83.82416645,Gainesville,GA,IGSA,Non-Dedicated
+NHSPCON,"NH State Prison, Concord",43.2273988,-71.5576108,Concord,NH,IGSA,Non-Dedicated
+NIAGANY,Niagara County Jail,43.180452,-78.735648,Lockport,NY,IGSA,Non-Dedicated
+NIOBRWY,Niobrara County Jail,42.76089174,-104.4509136,Lusk,WY,IGSA,Non-Dedicated
+NIXHCTX,Nix Home Care,29.512179,-98.5398688,San Antonio,TX,Unknown,Other/Unknown
+NNREGVA,Northern Neck Reg. Jail,37.96468,-76.79151,Warsaw,VA,IGSA,Non-Dedicated
+NOBLEMN,Nobles Co. Jail,43.649224,-95.593433,Worthington,MN,IGSA,Non-Dedicated
+NOJUVOR,Northern Oregon Juv.Det.,45.6100519,-121.202763,The Dalles,OR,Juvenile,Family/Youth
+NOLHOLD,Nol D D & P,29.948091,-90.077862,New Orleans,LA,Hold,Hold/Staging
+NOLVGNV,North Las Vegas,36.20230153,-115.1195983,North Las Vegas,NV,USMS IGA,Federal
+NORCOOR,Northern Oregon Corr.Fac.,45.6100519,-121.202763,The Dalles,OR,IGSA,Non-Dedicated
+NORFOMA,Norflk Cnty Dedham,42.2597568,-71.2087651,Dedham,MA,USMS IGA,Federal
+NORFOVA,Norfolk City Jail,36.84600504,-76.28316583,Norfolk,VA,USMS IGA,Federal
+NORHOLD,Norfolk Sub-Office Hold,36.8761636,-76.22287045,Norfolk,VA,Hold,Hold/Staging
+NRPHOLD,North Platte Hold Room,41.135013,-100.759979,North Platte,NE,Hold,Hold/Staging
+NSVHOLD,Nashville Hold Room,36.1677587,-86.779278,Nashville,TN,Hold,Hold/Staging
+NVJDCVA,No. Va. Juvenile Det - ICE,38.812562,-77.137071,Alexandria,VA,Juvenile,Family/Youth
+NVSDCNV,Nevada Southern Detention Center,36.24902657,-115.9827748,Pahrump,NV,USMS IGA,Federal
+NWHNVNC,New Hanover Co Det Center,34.327352,-77.895749,Castle Hayne,NC,IGSA,Non-Dedicated
+NWRCCMN,NW Regional Corrections Center,47.7688316,-96.6285899,Crookston,MN,USMS IGA,Federal
+NWREGVA,Northwest Reg. Adult Det.,39.19850623,-78.14630154,Winchester,VA,IGSA,Non-Dedicated
+NYADIRC,"Adirondack CF, Raybrook",44.2958769,-74.0932125,Ray Brook,NY,Other,Other/Unknown
+NYBUFFC,"Buffalo CF, Alden,Ny",42.93196345,-78.5401029,Alden,NY,IGSA,Non-Dedicated
+NYCHOLD,Nyc Hold Room,40.6404815,-74.17030725,New York,NY,Hold,Hold/Staging
+NYEPANV,Nye County Sheriff-Pahrump,36.219543,-115.982801,Pahrump,NV,IGSA,Non-Dedicated
+NYFISHC,Fishkill C.F. Beacon Ny,41.5220042,-73.950884,Beacon,NY,Other,Other/Unknown
+NYMOHOC,Mohawk Correctional,43.2197956,-75.4494742,Rome,NY,Unknown,Other/Unknown
+NYOGDNC,Ogdensburg Correctional,44.721621,-75.44791,Ogdensburg,NY,IGSA,Non-Dedicated
+NYORLNC,Orleans Correctional,43.244379,-78.220154,Albion,NY,IGSA,Non-Dedicated
+NYULSTC,"Ulster CF, Napanoch",41.74366,-74.355587,Napanoch,NY,Other,Other/Unknown
+OAK,Oakdale Fed. Det. Center,30.8207012,-92.64069075,Oakdale,LA,IGSA,Non-Dedicated
+OAKHOLD,Oakdale Holding Room,30.832183,-92.63684,Oakdale,LA,Hold,Hold/Staging
+OCCWJCA,Orange County Central Women's Jail,33.7487096,-117.8771597,Santa Ana,CA,IGSA,Non-Dedicated
+OCIRCCA,Orange Count Intake Release Fac.,33.7487096,-117.8771597,Santa Ana,CA,IGSA,Non-Dedicated
+ODESSTX,Odessa Detention Center,31.84579331,-102.3678404,Odessa,TX,IGSA,Non-Dedicated
+OGCMCCA,Orange Co Global Medical Center,33.7539445,-117.8330274,Santa Ana,CA,Hospital,Medical
+OGLECIL,Ogle County Jail,42.01315747,-89.32985122,Oregon,IL,USMS IGA,Federal
+OGRMCNY,Orange Regional Med Ctr,41.4419177,-74.3680944,Middletown,NY,Hospital,Medical
+OGUHOLD,Ogden Hold Room,41.220537,-112.018854,Ogden,UT,Hold,Hold/Staging
+OKANOWA,Okanogan Co. Jail,48.36574553,-119.581578,Okanogan,WA,IGSA,Non-Dedicated
+OKCHOLD,Oklahoma City Hold Room.,35.42401994,-97.5967341,Oklahoma City,OK,Hold,Hold/Staging
+OKCOJOK,Oklahoma County Jail,35.46956705,-97.52675523,Oklahoma City,OK,IGSA,Non-Dedicated
+OKMULOK,Okmulgee County Jail,35.62237634,-95.97423614,Okmulgee,OK,IGSA,Non-Dedicated
+OLACCLA,Lasalle Corr Ctr Olla,31.85131,-92.28482,Olla,LA,IGSA,Non-Dedicated
+OLDHAKY,Oldham County Jail,38.4071363,-85.3808399,La Grange,KY,USMS IGA,Federal
+OMAHOLD,Omaha FO Hold,41.2812941,-95.8987635,Omaha,NE,Hold,Hold/Staging
+ONECONY,Oneida County Jail,43.155943,-75.376746,Oriskany,NY,IGSA,Non-Dedicated
+ONONDNY,Onondaga County Jail,43.0461648,-76.14642169,Syracuse,NY,USMS IGA,Federal
+ONTARNY,Ontario County Jail,42.882834,-77.211753,Canandaigua,NY,USMS IGA,Federal
+ORANGFL,Orange County Jail,28.5038122,-81.41640494,Orlando,FL,USMS IGA,Federal
+ORANGNY,Orange County Jail,41.40466912,-74.3574594,Goshen,NY,IGSA,Non-Dedicated
+ORLEANY,Orleans County Jail,43.24546626,-78.19235804,Albion,NY,IGSA,Non-Dedicated
+ORLHOLD,Orlando Hold Room,28.42749625,-81.3338145,Orlando,FL,Hold,Hold/Staging
+ORPARLA,Orleans Parish Sheriff,29.961463,-90.093506,New Orleans,LA,IGSA,Non-Dedicated
+OSAHOKS,Osawatamie State Hospital,38.51033,-94.939831,Osawatamie,KS,Hospital,Medical
+OTEROCO,Otero County Jail,37.986843,-103.539597,Lajunta,CO,USMS IGA,Federal
+OTERONM,Otero County Detention,32.852357,-106.007951,Alamogordo,NM,IGSA,Non-Dedicated
+OTROPNM,Otero County Prison Facility,32.07876,-106.278026,Chaparral,NM,USMS IGA,Federal
+OTRPCNM,Otero Co Processing Center,32.08042,-106.28262,Chaparral,NM,DIGSA,Dedicated
+PALMBFL,Palm Beach County Jail,26.67306236,-80.09224477,West Palm Beach,FL,IGSA,Non-Dedicated
+PAMREVA,Pamunkey Reg Jail,37.75195734,-77.35902542,Hanover,VA,USMS IGA,Federal
+PARKCMT,Park County Det Center,45.663363,-110.555668,Livingston,MT,IGSA,Non-Dedicated
+PARKCWY,Park County Jail,44.53220288,-109.0605911,Cody,WY,IGSA,Non-Dedicated
+PARKJCO,Park County Jail,39.2177087,-105.9799334,Fairplay,CO,IGSA,Non-Dedicated
+PASADCA,Pasadena City Jail,34.149188,-118.144762,Pasadena,CA,IGSA,Non-Dedicated
+PASSANJ,Passaic County Jail,40.913016,-74.174113,Paterson,NJ,IGSA,Non-Dedicated
+PAVHRPR,Pavia Hospital - Hato Rey,18.41936,-66.055968,San Juan,PR,Hospital,Medical
+PCJDCIL,Peoria County Juv Det Center,40.688861,-89.69345275,Peoria,IL,Juvenile,Family/Youth
+PCSHOLD,Pecos Hold Room,31.3981762,-103.5214509,Pecos,TX,Hold,Hold/Staging
+PDNHOLD,Pdn Hold Room,31.74968832,-106.4867865,El Paso,TX,Hold,Hold/Staging
+PECOSTX,Pecos Criminal Justice Center,31.398588,-103.511566,Pecos,TX,IGSA,Non-Dedicated
+PEMBIND,Pembina County Jail,48.79061482,-97.62589,Cavalier,ND,IGSA,Non-Dedicated
+PENDOWA,Pend Orielle Correctional Facility,48.17905691,-117.058017,Newport,WA,IGSA,Non-Dedicated
+PENDRNC,Pender County Jail,34.5523248,-77.9250923,Burgaw,NC,Unknown,Other/Unknown
+PENNISD,Pennington County Jail SD,44.07892823,-103.2210237,Rapid City,SD,USMS IGA,Federal
+PENOBME,Penobscot County Jail,44.80142619,-68.77755554,Bangor,ME,USMS IGA,Federal
+PERRYAL,Perry County Corr. Center,32.634284,-87.316173,Uniontown,AL,IGSA,Non-Dedicated
+PHELPNE,Phelps County Jail,40.43904671,-99.37040143,Holdrege,NE,USMS IGA,Federal
+PHIHOLD,Phi District Office,39.95995,-75.16547,Philadelphia,PA,Hold,Hold/Staging
+PHILLMT,"Phillips County Jail, MT",48.35676886,-107.8775363,Malta,MT,IGSA,Non-Dedicated
+PHOHOLD,Phoenix Dist Office,33.4707851,-112.0730899,Phoenix,AZ,Hold,Hold/Staging
+PIC,Port Isabel SPC,26.155046,-97.33829,Los Fresnos,TX,SPC,Dedicated
+PICKJOH,Pickaway County Jail,39.610607,-82.953115,Circleville,OH,IGSA,Non-Dedicated
+PIERCND,Pierce County Jail,48.3736398,-99.9775761,Rugby,ND,Other,Other/Unknown
+PIKCOPA,Pike County Jail,41.38881,-75.071465,Lords Valley,PA,IGSA,Non-Dedicated
+PIMAJAZ,Pima County Jail,32.2013392,-110.9906302,Tucson,AZ,IGSA,Non-Dedicated
+PINALAZ,Pinal County Jail,33.0412907,-111.3760342,Florence,AZ,IGSA,Non-Dedicated
+PINELFL,Pinellas County Jail,27.901529,-82.706199,Clearwater,FL,USMS IGA,Federal
+PINEPLA,Pine Prairie ICE Processing Center,30.788073,-92.413408,Pine Prairie,LA,DIGSA,Dedicated
+PISCAME,Piscataguis County Jail,45.18308767,-69.22442969,Dover-Foxcroft,ME,USMS IGA,Federal
+PITHOLD,Pittsburgh Holdroom,40.424825,-79.960811,Pittsburgh,PA,Hold,Hold/Staging
+PKEHOLD,Pike County ERO Hold Room,41.388359,-75.072108,Hawley,PA,Hold,Hold/Staging
+PLATTMO,Platte County Jail,39.1903532,-94.6837149,Platte City,MO,IGSA,Non-Dedicated
+PLATTWY,Platte County Jail,42.055382,-104.952706,Wheatland,WY,USMS IGA,Federal
+PLMBHTX,Palms Behavioral Health,26.163359,-97.671657,Harlingen,TX,Hospital,Medical
+PLMVWTX,Palmview Police Dept.,26.2370936,-98.3736871,Palmview,TX,Unknown,Other/Unknown
+PLRMCCA,Palmdale Regional Medical Center,34.5831938,-118.1446251,Palmdale,CA,Hospital,Medical
+PLYMOMA,Plymouth Co Cor Facilty,41.9318079,-70.65129918,Plymouth,MA,IGSA,Non-Dedicated
+PMHOSFL,Palmetto Hospital,25.885214,-80.324795,Hialeah,FL,Hospital,Medical
+PMREGVA,Piedmont Reg Jail,37.32060119,-78.42539229,Farmville,VA,IGSA,Non-Dedicated
+POLKCTX,IAH Secure Adult Det. Facility,30.6981513,-95.00579154,Livingston,TX,IGSA,Non-Dedicated
+POLKJIA,Polk County Jail,41.653605,-93.587813,Des Moines,IA,USMS IGA,Federal
+POMHOLD,"Portland, ME Holdroom",43.63491743,-70.25004189,Portland,ME,Hold,Hold/Staging
+POMONCA,Pomona City Jail,34.05492324,-117.754213,Pomona,CA,USMS IGA,Federal
+PONDEMT,Pondera County Jail,48.16898539,-111.9472006,Conrad,MT,IGSA,Non-Dedicated
+POOHOLD,Portland District Office,45.5150962,-122.6763292,Portland,OR,Hold,Hold/Staging
+POTTAIA,Pottawattamie County Jail,41.281836,-95.867184,Council Bluffs,IA,USMS IGA,Federal
+PRESITX,Presidio County Jail,30.31336567,-104.0212517,Marfa,TX,IGSA,Non-Dedicated
+PRLDCTX,Prairieland Detention Center,32.42078539,-97.19690234,Alvarado,TX,DIGSA,Dedicated
+PRLHOLD,Prairieland Suboffice Hold Room,32.42078539,-97.19690234,Alvarado,TX,Hold,Hold/Staging
+PROHOLD,Providence Holdroom,41.7269728,-71.4571156,Warwick,RI,Hold,Hold/Staging
+PROWECO,Prowers County Jail,38.08617973,-102.618786,Lamar,CO,IGSA,Non-Dedicated
+PRUHOLD,Provo Hold Room,40.148962,-111.659712,Spanish Fork,UT,Hold,Hold/Staging
+PRVEGAL,Vega Alta Det. Facility,18.4109489,-66.3203902,Vega Alta,PR,IGSA,Non-Dedicated
+PRYCOAL,Perry County Jail,32.6340889,-87.3175314,Marion,AL,Unknown,Other/Unknown
+PTISBTX,Port Isabel Police Dept.,26.0740699,-97.2097624,Port Isabel,TX,Unknown,Other/Unknown
+PUEBLCO,Pueblo County Jail,38.2755452,-104.6105561,Pueblo,CO,USMS IGA,Federal
+PUEHOLD,Pueblo Holdroom,38.393003,-105.116869,Florence,CO,Hold,Hold/Staging
+PULASIL,Pulaski County Jail,37.272085,-89.175133,Ullin,IL,IGSA,Non-Dedicated
+PWHOSFL,Palms West Hospital,26.684044,-80.252606,Loxahatchee,FL,Hospital,Medical
+PWILLVA,Prince William,38.75190824,-77.47775919,Manassas,VA,USMS IGA,Federal
+QLTYSCA,Quality Suites,32.556366,-116.942224,Calipatria,CA,Hotel,Hotel
+QUEHONY,Queens House Of Detention,40.71073049,-73.83179187,Kew Gardens,NY,IGSA,Non-Dedicated
+RAADCMN,"Ramsey ADC Annex, SPM",44.955749,-93.089261,St. Paul,MN,USMS IGA,Federal
+RADDFGA,Robert A Deyton Detention Fac,33.44060944,-84.32006836,Lovejoy,GA,USMS CDF,Federal
+RAPPSVA,Rapp Sec Center,38.3184947,-77.4719874,Stafford,VA,USMS IGA,Federal
+RCKISIL,Rock Island Correctional Center,41.509178,-90.580878,Rock Island,IL,USMS IGA,Federal
+RCMHOLD,Richmond Sub-Office Hold,37.542324,-77.433933,Richmond,VA,Hold,Hold/Staging
+RDUHOLD,Raleigh Hold Room,35.7897439,-78.7796076,Cary,NC,Hold,Hold/Staging
+REDETTX,Reeves County Det. Center,31.3961529,-103.5395362,Pecos,TX,IGSA,Non-Dedicated
+REDHOLD,Redding Hold Room,40.5750116,-122.3626391,Redding,CA,Hold,Hold/Staging
+REHOSIL,Riveredge Hospital,41.8649929,-87.8038743,Forest Park,IL,Hospital,Medical
+REJAITX,Reeves County Jail,31.38933574,-103.5266665,Pecos,TX,IGSA,Non-Dedicated
+REJUVTX,Reeves Co. Juv. Det. Ctr.,31.391136,-103.533477,Pecos,TX,IGSA,Non-Dedicated
+RENHOLD,Reno Hold Room,39.5729049,-119.8094503,Reno,NV,Hold,Hold/Staging
+RENSSNY,Rensselaer Co Sheriff,42.7101578,-73.70085814,Troy,NY,USMS IGA,Federal
+RGHOSTX,Rio Grande St.Hospital,26.172737,-97.700713,Harlingen,TX,Hospital,Medical
+RGRNDTX,Rio Grande Detention Center,27.377813,-99.489677,Laredo,TX,USMS CDF,Federal
+RGS,Rio Grande Valley Staging,26.155113,-97.338322,Los Fresnos,TX,Staging,Hold/Staging
+RICECKS,Rice County Det Center,38.347486,-98.223738,Lyons,KS,IGSA,Non-Dedicated
+RICHMVA,Richmond City Jail,37.5491236,-77.4188828,Richmond,VA,IGSA,Non-Dedicated
+RICRANS,"ACI, Cranston RI",41.74722048,-71.46723859,Cranston,RI,IGSA,Non-Dedicated
+RIIHOLD,Rock Island Hold Room,41.50918615,-90.58073053,Rock Island,IL,Hold,Hold/Staging
+RIOCCCA,Rio Cosumnes Corrections-RCCC,38.4031734,-121.4176697,Elk Grove,CA,IGSA,Non-Dedicated
+RIOGRCO,Rio Grande County Jail,37.67659639,-106.3506827,Del Norte,CO,IGSA,Non-Dedicated
+RIVERCA,Riverside County Sheriff,33.97813549,-117.3740521,Riverside,CA,IGSA,Non-Dedicated
+RMKHOLD,Roanoke Sub-Office Hold Room,37.2926,-80.061161,Salem,VA,Hold,Hold/Staging
+RNDLLTX,Randall County Jail,35.116465,-101.866116,Amarillo,TX,USMS IGA,Federal
+ROANOVA,Roanoke County Jail,37.293689,-80.053459,Salem,VA,IGSA,Non-Dedicated
+ROBERSD,"Roberts Co. Jail, SD",45.663878,-97.047077,Sisseton,SD,IGSA,Non-Dedicated
+ROCKIIL,Rock Island County Jail,41.50918615,-90.58073053,Rock Island,IL,USMS IGA,Federal
+ROCKINH,Rockingham County Jail,43.011607,-71.053791,Brentwood,NH,IGSA,Non-Dedicated
+ROCKIVA,Rockingham Co. Jail,38.44956526,-78.87046789,Harrisonburg,VA,USMS IGA,Federal
+RONKEVA,Roanoke City Jail,37.27138849,-79.94723813,Roanoke,VA,USMS IGA,Federal
+ROSEAMN,Roseau County Jail,48.839881,-95.76663,Roseau,MN,IGSA,Non-Dedicated
+ROSEBMT,Rosebud County Jail,46.26639949,-106.673267,Forsyth,MT,IGSA,Non-Dedicated
+ROUTTCO,Routt County Jail,40.50190473,-106.8600344,Steamboat Springs,CO,IGSA,Non-Dedicated
+RPCHOLD,Rapid City Hold Room,44.09919672,-103.2646852,Rapid City,SD,Hold,Hold/Staging
+RRFINWA,Red Roof Inn,47.4511275,-122.2947371,Seatac,WA,Hotel,Hotel
+RRIVRIL,Rock River Health Care,42.316638,-89.071697,Rockford,IL,Hospital,Medical
+RSREGVA,Riverside Reg Jail,37.295038,-77.321437,Hopewell,VA,USMS IGA,Federal
+RSWHOLD,Roswell Hold Room,33.3980846,-104.5248374,Roswell,NM,Hold,Hold/Staging
+RVRCCLA,River Correctional Center,31.60660972,-91.57104492,Ferriday,LA,DIGSA,Dedicated
+RWCCMLA,Richwood Cor Center,32.46342596,-92.08740234,Monroe,LA,DIGSA,Dedicated
+SAAHOLD,Santa Ana DRO Holdroom,33.748562,-117.875155,Santa Ana,CA,Hold,Hold/Staging
+SACHOLD,Sacramento Hold,38.57813929,-121.4995672,Sacramento,CA,Hold,Hold/Staging
+SACITCA,Santa Ana City Jail,33.750177,-117.880487,Santa Ana,CA,IGSA,Non-Dedicated
+SACRACA,Sacramento County Jail,38.582987,-121.49743,Sacramento,CA,USMS IGA,Federal
+SAGHOLD,San Angelo Holdroom,31.42195134,-100.4640316,San Angelo,TX,Hold,Hold/Staging
+SAIHOLD,Saipain Hold,15.156223,145.703679,Saipan,MP,Hold,Hold/Staging
+SAJHOLD,DHS/ICE/DRO,18.406539,-66.106714,Guaynabo,PR,Staging,Hold/Staging
+SALEMNJ,Salem County Correctional Facility,39.614489,-75.356102,Woodstown,NJ,USMS IGA,Federal
+SALHOLD,Salisbury Hold Room,38.4105074,-75.571609,Salisbury,MD,Hold,Hold/Staging
+SALINNE,Saline County Jail,40.4754624,-96.9608035,Wilber,NE,Other,Other/Unknown
+SAMBCMI,Samaritan Behavioral Center,42.390695,-82.982098,Detroit,MI,Hospital,Medical
+SANANCA,Santa Ana County Jail,33.750122,-117.880573,Santa Ana,CA,IGSA,Non-Dedicated
+SANDONM,Sandoval County Det Ctr,35.321519,-106.570305,Bernalillo,NM,IGSA,Non-Dedicated
+SANJAIL,Sangamon County Jail,39.800056,-89.642601,Springfield,IL,USMS IGA,Federal
+SANMINM,San Miguel County Det Ctr,35.557635,-105.2279758,Las Vegas,NM,IGSA,Non-Dedicated
+SANTANM,Santa Fe County Jail,35.63597375,-106.0199822,Santa Fe,NM,IGSA,Non-Dedicated
+SARJUNE,Sarpy County Juvenile,41.141368,-96.03921,Papillion,NE,Juvenile,Family/Youth
+SARPYNE,Sarpy County Jail,41.14318758,-96.04171089,Papillion,NE,IGSA,Non-Dedicated
+SBARBCA,Santa Barbara County Jail,34.444148,-119.776223,Santa Barbra,CA,Other,Other/Unknown
+SBDHOLD,San Bernadino Hold Room,34.10077,-117.297624,San Bernardino,CA,Hold,Hold/Staging
+SBERNCA,San Bernardino Co. Jail,34.10154663,-117.2716512,San Bernardino,CA,USMS IGA,Federal
+SBNTOTX,San Benito Police Dept.,26.1538058,-97.6443425,San Benito,TX,Unknown,Other/Unknown
+SCNORCA,Santa Clara Co Main Jail,37.35195267,-121.9056373,San Jose,CA,USMS IGA,Federal
+SCOTTIA,Scott County Det.Facility,41.5240367,-90.5794301,Davenport,IA,USMS IGA,Federal
+SCOTTMO,Scott County Jail,37.096581,-89.564259,Benton,MO,IGSA,Non-Dedicated
+SCOTTNE,Scotts Bluff Co Jail,41.82607718,-103.6604624,Gering,NE,USMS IGA,Federal
+SCRUZAZ,Santa Cruz Co Jail AZ,31.35537155,-110.9278234,Nogales,AZ,USMS IGA,Federal
+SDHOSCA,San Diego Area Hospital,32.6188528,-117.0230189,Chula Vista,CA,Hospital,Medical
+SDPROCA,S.D. County Probation,32.74985394,-117.1288177,San Diego,CA,Other,Other/Unknown
+SEAHOLD,Seattle Field Office Hold Room,47.490701,-122.291143,Seattle,WA,Hold,Hold/Staging
+SEBASAR,Sebastian County Det Cnt,35.382833,-94.4251108,Fort Smith,AR,USMS IGA,Federal
+SENECNY,Seneca County Jail,42.14993775,-77.0628675,Corning,NY,IGSA,Non-Dedicated
+SENECOH,Seneca County Jail,41.079514,-83.153682,Tiffin,OH,IGSA,Non-Dedicated
+SFCORNM,Santa Fe Cornell Det. Fac.,35.563707,-106.053574,Santa Fe,NM,IGSA,Non-Dedicated
+SFDHOLD,Sioux Falls Hold Room,43.548712,-96.72369,Sioux Falls,SD,Hold,Hold/Staging
+SFRHOLD,SFR Hold Room,37.7963088,-122.4015046,San Francisco,CA,Hold,Hold/Staging
+SGUHOLD,"St. George, UT Holdroom",37.1127071,-113.5798716,Saint George,UT,Hold,Hold/Staging
+SHACOKS,Shawnee County Dept Of Corr.,39.0481007,-95.6718263,Topeka,KS,IGSA,Non-Dedicated
+SHAJUKS,Shawnee County Juv.Det.Ctr,39.047595,-95.670171,Topeka,KS,Juvenile,Family/Youth
+SHECOVA,Shenandoah Co Jail,38.8819702,-78.5057146,Woodstock,VA,IGSA,Non-Dedicated
+SHERBMN,Sherburne County Jail,45.304329,-93.619191,Elk River,MN,IGSA,Non-Dedicated
+SHERIMT,Sheridan County Jail,48.778326,-104.557544,Plentywood,MT,IGSA,Non-Dedicated
+SHERIWY,Sheridan County Jail,44.81608816,-106.9558958,Sheridan,WY,IGSA,Non-Dedicated
+SILBOMT,Butte-Silver Bow County Jail,46.01528006,-112.5387644,Butte,MT,IGSA,Non-Dedicated
+SILERTN,Silverdale/Hamilton County,35.0514851,-85.13669949,Chattanooga,TN,IGSA,Non-Dedicated
+SISAONE,Sleep Inn Suites Airport,41.2819286,-95.9095714,Omaha,NE,Hotel,Hotel
+SITKAAK,"Sitka City Jail, Sitka AK",57.05260155,-135.3336124,Sitka,AK,IGSA,Non-Dedicated
+SJS,San Juan Staging,18.423358,-66.114827,Guaynabo,PR,Staging,Hold/Staging
+SJUANNM,San Juan County Detention Center,36.82580645,-108.0218508,Aztec,NM,USMS IGA,Federal
+SJUANTX,San Juan Police Dept.,26.2178973,-98.1500443,San Juan,TX,Unknown,Other/Unknown
+SJUHOLD,San Juan Airport Hold Room,18.437531,-66.004703,San Juan,PR,Hold,Hold/Staging
+SLCHOLD,Salt Lake City Hold Room,40.6845765,-111.9612484,West Valley City,UT,Hold,Hold/Staging
+SLJUVCA,San Luis Obispo Co. Juven,35.3212684,-120.7185778,San Luis Obispo,CA,Unknown,Other/Unknown
+SLOBICA,San Luis Obispo Co Jail,35.3213217,-120.7252554,San Luis Obispo,CA,Other,Other/Unknown
+SLRDCAZ,San Luis Regional Det Center,32.49847,-114.778342,San Luis,AZ,IGSA,Non-Dedicated
+SLSLCUT,Salt Lake County Jail,40.7262389,-111.9167772,Salt Lake City,UT,USMS IGA,Federal
+SMARYMD,St. Mary's Co Det Cntr,38.30172712,-76.62949526,Leonardtown,MD,IGSA,Non-Dedicated
+SNAHOLD,San Antonio Dro Hold Room,29.52218155,-98.39182655,San Antonio,TX,Hold,Hold/Staging
+SNDCOCA,San Diego County Jail,32.590171,-116.921245,San Diego,CA,IGSA,Non-Dedicated
+SNDHOLD,SND District Staging,32.717307,-117.165183,San Diego,CA,Hold,Hold/Staging
+SNJHOLD,SNJ Hold Room,37.23883,-121.7742945,San Jose,CA,Hold,Hold/Staging
+SOBAYCA,South Bay Detent Facility,32.632657,-117.077746,Chula Vista,CA,IGSA,Non-Dedicated
+SOLONOH,Solon City Jail,41.3906074,-81.4397818,Solon,OH,IGSA,Non-Dedicated
+SOMERME,Somerset County Jail,44.7893856,-69.88266087,Madison,ME,IGSA,Non-Dedicated
+SONMACA,Sonoma Co Main Adult Det,38.4672812,-122.7244896,Santa Rosa,CA,Unknown,Other/Unknown
+SOUTECO,Southern Ute Detention Center,37.132919,-107.633797,Ignacio,CO,IGSA,Non-Dedicated
+SPGHOLD,Springfield Dro Hold,37.2669575,-93.1294134,Strafford,MO,Hold,Hold/Staging
+SPHOSCA,San Pedro Peninsula Hospital,33.7393391,-118.3066854,San Pedro,CA,Hospital,Medical
+SPIPDTX,South Padre Island Police Dept.,26.1182289,-97.1706503,South Padre Island,TX,Unknown,Other/Unknown
+SPMHOLD,US INS/Detention & Deportation,44.860123,-93.230675,Bloomington,MN,Hold,Hold/Staging
+SPRNGOR,Springfield City Jail,44.0475018,-123.0214501,Springfield,OR,IGSA,Non-Dedicated
+SRJDFID,Snake River Juvenile,42.54311355,-114.4337813,Twin Falls,ID,Juvenile,Family/Youth
+SSMHOLD,Sault Sainte Marie Holdroom,46.49755,-84.345642,Sault Ste. Marie,MI,Hold,Hold/Staging
+STAHOLD,Saint Albans Hold Room,44.80115263,-73.07364169,Saint Albans,VT,Hold,Hold/Staging
+STCDFTX,South Texas ICE Processing Center,28.8946514,-99.1219428,Pearsall,TX,CDF,Dedicated
+STCLAMI,St. Clair County Jail,42.94196024,-82.48124175,Port Huron,MI,IGSA,Non-Dedicated
+STCROWI,St. Croix County Jail,44.981443,-92.7231243,Hudson,WI,IGSA,Non-Dedicated
+STDHOLD,South Texas/Pearsall Hold Room,28.895232,-99.121238,Pearsall,TX,Hold,Hold/Staging
+STEUBNY,Steuben County Jail,42.349616,-77.295631,Bath,NY,IGSA,Non-Dedicated
+STEVEWA,Stevens County Jail,48.54252786,-117.9041854,Colville,WA,IGSA,Non-Dedicated
+STFRCTX,South Texas Fam Residential Center,28.658051,-99.200575,Dilley,TX,Family,Family/Youth
+STJOSAZ,St. Joseph's Hospital & Med. Cen.,33.4811191,-112.0793075,Phoenix,AZ,Hospital,Medical
+STJOSCA,St. Joseph's Hospital,33.78213355,-117.8640264,Orange,CA,Hospital,Medical
+STK,Stockton Staging Facility,37.9511281,-121.2899487,Stockton,CA,Staging,Hold/Staging
+STLAWNY,St Lawrence County Jail,44.59820413,-75.16868434,Canton,NY,IGSA,Non-Dedicated
+STLHOLD,St. Louis Holdroom,38.62431814,-90.19991016,St. Louis,MO,Hold,Hold/Staging
+STMARAZ,St Mary's Hospital,32.22744275,-111.0001793,Tucson,AZ,Hospital,Medical
+STMARCA,St Mary Medical Center,34.540401,-117.264687,Apple Valley,CA,Hospital,Medical
+STMRYIL,St. Mary of The Nazareth,41.90309025,-87.68339448,Chicago,IL,Hospital,Medical
+STOPDIL,Stone Park Police Dept.,41.8991876,-87.8836911,Stone Park,IL,IGSA,Non-Dedicated
+STORYIA,Story County Jail,42.009888,-93.44177051,Nevada,IA,USMS IGA,Federal
+STRAFNH,Strafford Co Dept Of Corr,43.2192302,-70.93860828,Dover,NH,IGSA,Non-Dedicated
+STTAMLA,St Tammany Parish Jail,30.48042118,-90.0953793,Covington,LA,IGSA,Non-Dedicated
+STTCJVI,St T Criminal Just Complx,18.340495,-64.927892,Charlotte Amalie,VI,IGSA,Non-Dedicated
+STUHOLD,Stuart Hold Room,27.155589,-80.212243,Stuart,FL,Hold,Hold/Staging
+STUTSND,"Stutsman Co. Jail, ND",46.9032087,-98.70653896,Jamestown,ND,IGSA,Non-Dedicated
+STWRTGA,Stewart Detention Center,32.036676,-84.771746,Lumpkin,GA,DIGSA,Dedicated
+SUFFOMA,Suffolk Hoc Sbay,42.3329215,-71.0709394,Boston,MA,IGSA,Non-Dedicated
+SUFFONY,Suffolk Co.Correc Fac,40.914484,-72.670754,Riverhead,NY,USMS IGA,Federal
+SUMMIUT,Summit County Jail,40.720554,-111.478368,Park City,UT,IGSA,Non-Dedicated
+SUNNYWA,Sunnyside Jail,46.32866171,-120.0231876,Sunnyside,WA,IGSA,Non-Dedicated
+SUSSEDE,"Sussex Co Pris,Geotwn,DE",38.6988197,-75.4006577,Georgetown,DE,IGSA,Non-Dedicated
+SUSSENJ,Sussex County Jail,41.0545668,-74.7669569,Newton,NJ,IGSA,Non-Dedicated
+SWEETWY,Sweetwater County Jail,41.537427,-109.301349,Rock Springs,WY,USMS IGA,Federal
+SXCHOLD,Sioux City Hold Room,42.505131,-96.404939,Sioux City,IA,Hold,Hold/Staging
+TALHOLD,Tallahassee Hold Room,30.471947,-84.354361,Tallahassee,FL,Hold,Hold/Staging
+TALLAMS,Tallahatchie Co Corr Facility,34.015686,-90.39034,Tutwiler,MS,USMS IGA,Federal
+TAMHOLD,Tampa Hold Room,27.959412,-82.372276,Tampa,FL,Hold,Hold/Staging
+TAYLOTX,Taylor County Adult Det.,32.4179209,-99.7679054,Abilene,TX,IGSA,Non-Dedicated
+TELLECO,Teller County Jail,38.94236032,-105.1539447,Divide,CO,IGSA,Non-Dedicated
+TEMPLCA,Temple Medical,34.04851296,-118.2339782,Los Angeles,CA,Hospital,Medical
+TENSALA,Tensas Parish Det. Cntr.,31.808719,-91.397103,Waterproof,LA,IGSA,Non-Dedicated
+TETONWY,Teton County Detention Center,43.4777463,-110.7603554,Jackson,WY,USMS IGA,Federal
+TFALLID,Twin Falls County Jail,42.55835367,-114.4668514,Twin Falls,ID,IGSA,Non-Dedicated
+TFIHOLD,Twin Falls Hold Room,42.5631215,-114.4790992,Twin Falls,ID,Hold,Hold/Staging
+TGREETX,Tom Green Cty Jail,31.46284488,-100.4400894,San Angelo,TX,USMS IGA,Federal
+THPSCTX,Thop Sierra Campus Elp,31.7776439,-106.4808963,El Paso,TX,Other,Other/Unknown
+TIOGANY,Tioga County Jail,42.14256923,-76.26560823,Owego,NY,IGSA,Non-Dedicated
+TITUSTX,Titus County Jail,33.154341,-94.970619,Mt. Pleasant,TX,USMS IGA,Federal
+TLACYCA,Theo Lacy Facility,33.78267075,-117.8886173,Orange,CA,IGSA,Non-Dedicated
+TNWESDF,Western Tennessee Det. Fac.,35.408822,-89.550034,Mason,TN,USMS CDF / USMS IGA,Federal
+TOOELUT,Tooele County Jail,40.53024984,-112.2984163,Tooele,UT,USMS IGA,Federal
+TOOLEMT,Toole County Jail,48.50713249,-111.8561354,Shelby,MT,IGSA,Non-Dedicated
+TOORANM,"Torrance/Estancia, NM",34.767387,-106.018496,Estancia,NM,IGSA,Non-Dedicated
+TORHOLD,Tornillo Adult Hold Room,31.4464325,-106.1233978,Tornillo,TX,Hold,Hold/Staging
+TRAVITX,Travis County Jail,30.273317,-97.746124,Austin,TX,IGSA,Non-Dedicated
+TRICOIL,Tri-County Jail,37.272085,-89.175133,Ullin,IL,IGSA,Non-Dedicated
+TUCHOLD,Tucson INS Hold Room,32.1353209,-110.9260223,Tucson,AZ,Hold,Hold/Staging
+TULCOOK,Tulsa County Jail,36.1572816,-95.99901266,Tulsa,OK,IGSA,Non-Dedicated
+TULHOLD,Tulsa Hold Room,36.139538,-95.864309,Tulsa,OK,Hold,Hold/Staging
+TXAHOLD,Texarkana Holdroom,33.420881,-94.043166,Texarkana,TX,Hold,Hold/Staging
+TXHUNTS,Huntsville State P.,30.721677,-95.5465847,Huntsville,TX,IGSA,Non-Dedicated
+UINTAWY,Uinta County Jail,41.26898,-110.921048,Evanston,WY,USMS IGA,Federal
+UINTCUT,Uintah County Jail,40.4571043,-109.5254718,Vernal,UT,IGSA,Non-Dedicated
+UMATCOR,Umatilla Co Jail,45.674301,-118.84931,Pendleton,OR,IGSA,Non-Dedicated
+UMCEPTX,University Med Center of El Paso,31.7723453,-106.4349492,El Paso,TX,Hospital,Medical
+UMIAHFL,University Of Miami Hospital,25.78841925,-80.2163433,Miami,FL,Hospital,Medical
+UNIONNM,Union County Detention Center,36.448189,-103.190784,Clayton,NM,IGSA,Non-Dedicated
+UNIONSD,Union County Jail,42.685396,-96.682676,Elk Point,SD,USMS IGA,Federal
+UPSTANY,Upstate University Hospital,43.042638,-76.140378,Syracuse,NY,Hospital,Medical
+USMS2TX,US Marshals  SDTX,29.7648768,-95.3578916,Houston,TX,Unknown,Other/Unknown
+USMS3TX,US Marshals  SDTX,26.204134,-98.238362,Mcallen,TX,USMS IGA,Federal
+USMSDFL,"US Marshals,S.Dist.FL",25.778364,-80.194558,Miami,FL,USMS IGA,Federal
+USMSDMS,"US Marshals, S.Dist, MS",32.29535235,-90.18233068,Jackson,MS,USMS IGA,Federal
+USMVT,"US Marshal's, Vermont",44.480721,-73.213906,Burlington,VT,USMS IGA,Federal
+USMWDLA,"US Marshals, W.D. LA.",32.515997,-93.75043,Shreveport,LA,USMS IGA,Federal
+UTAHCUT,Utah County Jail,40.14825555,-111.6569065,Spanish Fork,UT,IGSA,Non-Dedicated
+UVALDTX,Uvalde County Jail,29.2123681,-99.7827867,Uvalde,TX,Unknown,Other/Unknown
+VALJUTX,Val Verde County Juvenile,29.356175,-100.899824,Del Rio,TX,Juvenile,Family/Youth
+VALVETX,Val Verde Detention Center,29.373265,-100.847867,Del Rio,TX,USMS IGA,Federal
+VBHOSTX,Valley Baptist Hospital,26.17524635,-97.67025575,Harlingen,TX,Hospital,Medical
+VENHOLD,Ventura Custody Case,34.206389,-119.077197,Camarrillo,CA,Hold,Hold/Staging
+VENTUCA,Ventura County Jail,34.26755765,-119.2107845,Ventura,CA,USMS IGA,Federal
+VIRBEVA,Virginia Beach,36.753146,-76.060064,Virginia Beach,VA,IGSA,Non-Dedicated
+VISTACA,Vista Detention Facility,33.192194,-117.256901,Vista,CA,IGSA,Non-Dedicated
+VNBRNMI,Van Buren Township PD,42.233207,-83.494673,Belleville,MI,IGSA,Non-Dedicated
+VPREGVA,Virginia Peninsula Reg. Jail,37.22158046,-76.61865234,Williamsburg,VA,USMS IGA,Federal
+VRK,Varick Street SPC,40.72829055,-74.00626961,New York,NY,Hold,Hold/Staging
+VTCHTDN,Chittenden Reg. Cor. Facility,44.44590655,-73.20459247,South Burlington,VT,IGSA,Non-Dedicated
+VTDCORR,VT. Dept. Of Corrections,44.33331582,-72.75174172,Waterbury,VT,IGSA,Non-Dedicated
+VTSTALB,Northwest State Correctional Ctr.,44.850138,-73.132435,Swanton,VT,USMS IGA,Federal
+VVGMCCA,Victor Valley Global Med Center,34.527953,-117.293781,Victorville,CA,Hospital,Medical
+VVSHOLD,Shreveport Hold Room,32.513789,-93.749198,Shreveport,LA,Hold,Hold/Staging
+WACLATX,Central Texas Detention Facility,29.42353235,-98.49698216,San Antonio,TX,USMS IGA,Federal
+WAJAIMN,Washington County Jail,45.03786,-92.801712,Stillwater,MN,USMS IGA,Federal
+WAKECNC,Wake County Sheriff Dept.,35.777722,-78.6402216,Raleigh,NC,IGSA,Non-Dedicated
+WAKULFL,Wakulla County Jail,30.19608881,-84.37692095,Crawfordville,FL,IGSA,Non-Dedicated
+WALSHND,Walsh County Jail,48.41792857,-97.40538384,Grafton,ND,IGSA,Non-Dedicated
+WALWOWI,Walworth County Jail,42.663594,-88.499621,Elkhorn,WI,IGSA,Non-Dedicated
+WARCOTX,"Ward Cty Jail, Monahans",31.592471,-102.889754,Monahans,TX,USMS IGA,Federal
+WARDCND,Ward County Jail,48.232976,-101.287401,Minot,ND,USMS IGA,Federal
+WASATUT,Wasatch County Jail,40.490702,-111.409124,Heber,UT,IGSA,Non-Dedicated
+WASCONY,Washington County Jail,43.282203,-73.58658719,Fort Edward,NY,USMS IGA,Federal
+WASHAWY,Washakie County Jail,44.016954,-107.955651,Worland,WY,IGSA,Non-Dedicated
+WASHCUT,Washington County Jail,37.158273,-113.412336,Hurricane,UT,USMS IGA,Federal
+WASHIAR,Washington County Jail,36.0335036,-94.17710882,Fayetteville,AR,USMS IGA,Federal
+WASHICO,Washington County Jail,40.158087,-103.192253,Akron,CO,USMS IGA,Federal
+WASHIME,Washington County Jail,44.71588969,-67.45938013,Machias,ME,IGSA,Non-Dedicated
+WASHOLD,Washington Field Office,38.8807191,-77.2291803,Fairfax,VA,Hold,Hold/Staging
+WASHONV,Washoe County Jail,39.572885,-119.8106322,Reno,NV,USMS IGA,Federal
+WASHTMI,"Washtenaw Co, An Arbor,MI",42.255773,-83.678579,Ann Arbor,MI,Juvenile,Family/Youth
+WAUKEWI,Waukesha County Jail,43.02452089,-88.23054055,Waukesha,WI,USMS IGA,Federal
+WAYNEMI,"Wayne County, Detroit",42.388288,-83.044576,Detroit,MI,IGSA,Non-Dedicated
+WAYNENY,Wayne County Jail,43.06726931,-77.03098777,Lyons,NY,USMS IGA,Federal
+WBATOLA,West Baton Rouge Det Ctr,30.500795,-91.215863,Port Allen,LA,IGSA,Non-Dedicated
+WCCBXTX,Bexar County Wackenhut Annual Det.,29.42822737,-98.50754839,San Antonio,TX,USMS IGA,Federal
+WCCPBFL,Broward Transitional Center,26.27477215,-80.15197145,Pompano Beach,FL,CDF,Dedicated
+WCCSDCA,Wackenhut Corrections Corp,32.717065,-117.165104,San Diego,CA,IGSA,Non-Dedicated
+WCRDFTX,Willacy Co  Regional Detn Facil,26.47115705,-97.75848478,Raymondville,TX,USMS IGA,Federal
+WCTHOLD,Waco DRO Hold Room,31.553515,-97.133522,Waco,TX,Hold,Hold/Staging
+WEBDCTX,Webb County Detention Center (CCA),27.370089,-99.489808,Laredo,TX,DIGSA,Dedicated
+WEBERUT,Weber County Jail,41.2400904,-111.9932984,Ogden,UT,USMS IGA,Federal
+WESHOLD,Westminster Custody,33.75919,-117.9919216,Westminster,CA,Hold,Hold/Staging
+WHITFGA,Whitfield County Jail,34.7929769,-84.98450303,Dalton,GA,IGSA,Non-Dedicated
+WICHOLD,Wichita Holdroom,37.69151228,-97.33959072,Wichita,KS,Hold,Hold/Staging
+WIDODGE,"Dodge Corr Institute, Wau",43.626618,-88.740012,Waupun,WI,IGSA,Non-Dedicated
+WILLCTX,Willacy County Detention Center,26.469951,-97.762165,Raymondville,TX,DIGSA,Dedicated
+WILLITN,Williamson County Jail,35.89840496,-86.88485855,Franklin,TN,IGSA,Non-Dedicated
+WILLITX,Williamson County Jail,30.63986861,-97.67981763,Georgetown,TX,IGSA,Non-Dedicated
+WINCOTX,Winkler County Jail,31.8485191,-103.0913866,Kermit,TX,IGSA,Non-Dedicated
+WKBHMFL,West Kendall Baptist Hosp,25.6784527,-80.4554698,Miami,FL,Hospital,Medical
+WMHOSCA,White Memorial Hospital,34.051291,-118.217121,Los Angeles,CA,Hospital,Medical
+WMLNDPA,Westmoreland County Jail,40.304747,-79.545188,Greensburg,PA,IGSA,Non-Dedicated
+WOAKSTX,West Oaks Hospital,29.711436,-95.4009096,Houston,TX,Hospital,Medical
+WORCEMD,Worcester Co. Jail,38.170007,-75.375834,Snow Hill,MD,IGSA,Non-Dedicated
+WSTMCCA,Western Medical Center,33.7539445,-117.8330274,Santa Ana,CA,Hospital,Medical
+WTREGVA,Western Tidewater Reg. Jail,36.76265318,-76.58661529,Suffolk,VA,USMS IGA,Federal
+WTXDFTX,West Texas Detention Facility,31.166718,-105.351651,Sierra Blanca,TX,USMS IGA,Federal
+WVEASTR,Eastern Regional Jail,39.437643,-77.96108,Martinsburg,WV,USMS IGA,Federal
+WVNORTH,Northern Regional Jail,39.92285025,-80.73635876,Moundsville,WV,USMS IGA,Federal
+WVREGWV,WV Regional Jail & Corr.,38.35163333,-81.63902639,Charleston,WV,IGSA,Non-Dedicated
+WVSCENT,South Central Regional Jail,38.31210189,-81.71040225,Charleston,WV,USMS IGA,Federal
+WYATTRI,Wyatt Detention Center,41.89281058,-71.38319984,Central Falls,RI,USMS IGA,Federal
+WYMCONY,Wyoming County Jail,42.7430713,-78.1331127,Warsaw,NY,IGSA,Non-Dedicated
+YAKHOLD,Yakima Sub-Office,46.61803443,-120.5579912,Yakima,WA,Hold,Hold/Staging
+YANCOSD,Yankton Co. Jail SD,42.8712602,-97.39367014,Yankton,SD,USMS IGA,Federal
+YATESNY,Yates County Jail,42.665296,-77.056251,Penn Yan,NY,IGSA,Non-Dedicated
+YAVAPAZ,Yavapai County Jail,34.54176633,-112.4661021,Prescott,AZ,IGSA,Non-Dedicated
+YAVCVAZ,Yavapai County Detention Center,34.61063,-111.916596,Camp Verde,AZ,IGSA,Non-Dedicated
+YELLOMT,Yellowstone County Jail,45.7553867,-108.5025368,Billings,MT,USMS IGA,Federal
+YIKIMWA,Yakima County,46.60340058,-120.5081747,Yakima,WA,USMS IGA,Federal
+YORCOPA,"York County Jail, PA",39.9875974,-76.66360293,York,PA,IGSA,Non-Dedicated
+YORCOSC,York County Detention Center,34.98489908,-81.20403402,York,SC,USMS IGA,Federal
+YORKCME,York County Jail,43.454148,-70.71837,Alfred,ME,IGSA,Non-Dedicated
+YUBAJCA,Yuba County Jail,39.14059756,-121.5868946,Marysville,CA,IGSA,Non-Dedicated
+YUMHOLD,Yuma Holdroom,32.65579891,-114.6121807,Yuma,AZ,Hold,Hold/Staging
+ZAVCOTX,Zavala County Jail,28.679507,-99.82698,Crystal City,TX,IGSA,Non-Dedicated
+FIPCMGA,Folkston Main IPC,30.8763803,-81.977941,Folkston,GA,DIGSA,Dedicated
+HESPCAZ,Holiday Inn Express Casa De La Luz,33.308392,-111.9734076,Phoenix,AZ,Family Staging,Family/Youth
+ALESSAZ,Stes On Scottsdale Casa De Alegria,33.5755101,-111.9272959,Scottsdale,AZ,Family Staging,Family/Youth
+MSVPCPA,Moshannon Valley Processing Center,40.9200419,-78.240515,Philipsburg,PA,DIGSA,Dedicated
+HAVACTX,Hotel Ava Casa Do Tranquilidade,27.5221722,-99.5039086,Laredo,TX,Family Staging,Family/Youth
+WINWYAZ,Wingate Wyndham Casa Esperanza,32.695999,-114.6038311,Yuma,AZ,Family Staging,Family/Youth
+BWEPATX,Best Western Casa De Estrella,31.7797922,-106.3932017,El Paso,TX,Family Staging,Family/Youth
+CISEPTX,Comfort Suites Casa Consuelo,31.7952659,-106.402018,El Paso,TX,Family Staging,Family/Youth
+LQWCSTX,La Quinta Wyndham Casa Do Sonho,28.4445968,-99.2450429,Cotulla,TX,Family Staging,Family/Youth
+CSCLQTX,La Quinta Wyndham Casa De Paz,28.8982611,-99.1191856,Pearsall,TX,Family Staging,Family/Youth
+PCKNSAL,Pickens County Det Ctr,33.260415,-88.0959692,Carrollton,AL,IGSA,Non-Dedicated
+MCAHOLD,Mcallen Hold Room,26.2639943,-98.1982091,Edinburg,TX,Other,Other/Unknown
+HCPSCMS,Hancock Co Pub Sfty Cplx,30.3026586,-89.4759845,Bay St. Louis,MS,IGSA,Non-Dedicated
+GLDSACA,Golden State Annex,35.6697644,-119.2278172,Mcfarland,CA,CDF,Dedicated
+BOPMVC,Moshannon Valley Correctional,40.9200419,-78.240515,Philipsburg,PA,DIGSA,Dedicated
+HISMCTX,Hampton Inn & Stes Mcallen,26.188898,-98.2214933,Mcallen,TX,Hotel,Hotel
+YRKHOLD,York Hold Room,39.9856177,-76.7585927,York,PA,Hold,Hold/Staging
+BCORCPA,Berks County Residential Center,40.3793403,-76.0161122,Leesport,PA,DIGSA,Dedicated
+FINNEKS,Finney County Jail,37.9676572,-100.8759294,Garden City,KS,IGSA,Non-Dedicated
+SPOHOLD,Spokane Hold Room,47.66582,-117.4181833,Spokane,WA,Hold,Hold/Staging
+HIEXSTX,Holiday Inn Expr & Stes Pearsall,28.8939707,-99.1176368,Pearsall,TX,Hotel,Hotel
+SUPHDTX,Super 8 By Wyndham,26.121956,-98.2454824,Hidalgo,TX,Hotel,Hotel
+NBGHOLD,Newburgh Holding,41.5157485,-74.1110231,Newburgh,NY,Hold,Hold/Staging
+HIPANAZ,Hampton Inn Pho Airport N,33.4550049,-111.986524,Phoenix,AZ,Hotel,Hotel
+FLORHAZ,Florence Hospital,33.0732497,-111.4854488,Florence,AZ,Hospital,Medical
+SSHBWTX,Surestay Hotel Best West,26.2009687,-98.321398,Mission,TX,Hotel,Hotel
+WVIRGVA,Western Virginia Regional Jail,37.2461454,-80.1760426,Salem,VA,USMS IGA,Federal
+BELCOTX,Bell County Jail,31.0562445,-97.4636471,Belton,TX,IGSA,Non-Dedicated
+BWRGMTX,Best West Rose Grdn I&S,26.1869492,-98.2187774,Mcallen,TX,Hotel,Hotel
+IMPHOLD,Imperial Sub Office Hold Room,32.6789476,-115.4988834,Calexico,CA,Hold,Hold/Staging
+RDHEATX,Radisson Htl Elp Airport,31.79325,-106.3947139,El Paso,TX,Hotel,Hotel
+LQSNATX,La Quinta Inn By Wyndham SNA,29.3510262,-98.4290892,San Antonio,TX,Hotel,Hotel
+HTLPPTX,Hotel Pharr Plaza,26.1580748,-98.1903952,Pharr,TX,Hotel,Hotel
+UVHSATX,University Hospital,29.5084243,-98.5776596,San Antonio,TX,Hospital,Medical
+HISPAAZ,Holiday Inn & Ste Pho Ap,33.4183253,-111.9793918,Phoenix,AZ,Hotel,Hotel
+HCAHCTX,HCA Houston Hc Conroe,30.2849346,-95.4677877,Conroe,TX,Hospital,Medical
+DISPTAZ,Drury Inn Stes Pho Tempe,33.3336359,-111.9703023,Tempe,AZ,Hotel,Hotel
+HISEPTX,Hampton Inn & Stes Elp Ap,31.7806408,-106.3948798,El Paso,TX,Hotel,Hotel
+MHNHHTX,Memorial Hermann NW Hosp,29.811721,-95.430383,Houston,TX,Hospital,Medical
+DISSATX,Drury Inn & Stes SNA Ap,29.5211601,-98.4852326,San Antonio,TX,Hotel,Hotel
+PTISATX,Pear Tree Inn SNA Airport,29.5211608,-98.4827298,San Antonio,TX,Hotel,Hotel
+SLINPAZ,Sleep Inn Phoenix,33.6526724,-112.1162137,Phoenix,AZ,Hotel,Hotel
+TASTDTX,Trusted Adult South Tex Dilley FSC,28.6578745,-99.2003862,Dilley,TX,TAP-ICE,Other/Unknown
+WNTHOLD,Wenatchee Hold Room,46.6183336,-120.5593593,Yakima,WA,Hold,Hold/Staging
+HIELPTX,Holiday Inn Express & Suites,31.7618778,-106.4850217,El Paso,TX,Hotel,Hotel
+SP8WWTX,Super 8 Wyndham Weslaco,26.1689763,-97.9743795,Weslaco,TX,Hotel,Hotel
+CISAETX,Comfort Inn Ste Elp Airp,31.7952659,-106.402018,El Paso,TX,Hotel,Hotel
+PVLYHCA,Paradise Valley Hospital,32.6853667,-117.0820744,National City,CA,Hospital,Medical
+SSPBAAZ,Staybridge Ste Pho  B A ,33.4822282,-112.0380137,Phoenix,AZ,Hotel,Hotel
+FDLHOLD,Ferndale Hold Room,48.8464991,-122.5910056,Ferndale,WA,Hold,Hold/Staging
+CSHEPTX,Chase Ste Hotel Elp,31.7905254,-106.392763,El Paso,TX,Hotel,Hotel
+VWHMCAZ,Valleywise Health Med Ctr,33.4570231,-112.0261834,Phoenix,AZ,Hospital,Medical
+RICHOLD,Richland Hold Room,46.2775135,-119.2760197,Richland,WA,Hold,Hold/Staging
+CPPAPAZ,Crowne Plaza Phoenix Ap,33.4488658,-111.9884664,Phoenix,AZ,Hotel,Hotel
+FRIRHTX,Frio Regional Hospital,28.8881303,-99.1097327,Pearsall,TX,Hospital,Medical
+HIESPAZ,Holiday Inn Exp Phoenix,33.4159575,-112.0072588,Phoenix,AZ,Hotel,Hotel
+LASHOLD,Las Cruces Hold Room,32.3199396,-106.7636538,Las Cruces,NM,Hold,Hold/Staging
+TAKARTX,Trusted Adult Karnes FSC,28.8819255,-97.9374948,San Antonio,TX,TAP-ICE,Other/Unknown
+THHHBTX,Tex Health Huguley Hosp,32.586731,-97.3168944,Burleson,TX,Hospital,Medical
+WOODBIA,Woodbury County Jail,42.4976613,-96.4060535,Sioux City,IA,IGSA,Non-Dedicated
+TVMSATX,Texas Vista Medical Center,29.3527996,-98.5453115,San Antonio,TX,Hospital,Medical
+HNDMCTX,Hendrick Medical Center,32.4718235,-99.7325631,Abilene,TX,Hospital,Medical
+MVMCMAZ,Mountain Vista Med Ctr,33.3910041,-111.6099141,Mesa,AZ,Hospital,Medical
+HIESATX,Holiday Inn Exp San Antonio,29.4021557,-98.3902676,San Antonio,TX,Hotel,Hotel
+BRDFDFL,Bradford County Jail,29.9541876,-82.1087051,Starke,FL,IGSA,Non-Dedicated
+LEVYCFL,Levy County Jail,29.4666743,-82.6411277,Bronson,FL,IGSA,Non-Dedicated
+MSTHSTX,Methodist Specialty Transplant Hos,29.513516,-98.576718,San Antonio,TX,Hospital,Medical
+COLUMFL,Columbia County Jail,30.2206278,-82.6435752,Lake City,FL,Unknown,Other/Unknown
+NRJDCVA,NW Reg Juv Det Ctr,39.1998421,-78.1450776,Winchester,VA,Unknown,Other/Unknown
+CRPHOLD,Corpus Christi EOR Hold Room,27.8005828,-97.396381,Corpus Christi,TX,Hold,Hold/Staging
+HIPDBAZ,Holiday Inn Pho Dwtn Ballpark,33.4550251,-112.0667919,Phoenix,AZ,Hotel,Hotel
+LRDMCTX,Laredo Medical Center,27.5325136,-99.4779827,Laredo,TX,Hospital,Medical
+FPSSAWA,Four Pts Sheraton Sea Ap,47.4002491,-122.2966351,Des Moines,WA,Hotel,Hotel
+CMDHOLD,Batavia Command Center Holdroom,42.9981156,-78.1875167,Batavia,NY,Hold,Hold/Staging
+MHMSATX,Methodist Hospital Metropolitan,29.4415547,-98.4911797,San Antonio,TX,Hospital,Medical
+DORCDSC,Dorchester Co Det Ctr,33.057249,-80.221052,Summerville,SC,USMS IGA,Federal
+LEXFCKY,Lexington Processing @ Fayette Co,38.0661451,-84.5448546,Lexington,KY,USMS IGA,Federal
+ANCHOLD,Anchorage Sub-Office Hold Room,61.212362,-149.8722992,Anchorage,AK,Hold,Hold/Staging
+CHANRAZ,Chandler Reg Med Ctr,33.2972521,-111.8746513,Chandler,AZ,Hospital,Medical
+GCPFCKS,Garden City Processing @ Finney Co,37.9676572,-100.8759294,Garden City,KS,Unknown,Other/Unknown
+MHTSATX,Methodist Hospital Texsan,29.4898283,-98.5475277,San Antonio,TX,Hospital,Medical
+MTHOSTX,Methodist Hospital South,28.9331124,-98.5260352,Jourdanton,TX,Hospital,Medical
+PUTMAFL,Putman County Jail,29.6682055,-81.6627436,Palatka,FL,Unknown,Other/Unknown
+SCVMCCA,Sharp Chula Vista Medical Center,32.6196499,-117.0232636,Chula Vista,CA,Hospital,Medical
+STJONFL,St. John's County Jail,29.9402982,-81.3387994,St. Augustine,FL,Unknown,Other/Unknown
+UCHUHCO,Uchealth Unv Hosp Of Co,39.7424907,-104.8414051,Aurora,CO,Hospital,Medical
+BIDHPMA,Beth Israel Deaconess Hosp,42.3398176,-71.1044652,Boston,MA,Hospital,Medical
+HISDBCA,Holiday Inn SND Bayside,32.7263331,-117.223509,San Diego,CA,Hotel,Hotel
+MHNSATX,Methodist Hospital Northeast,29.552293,-98.3482908,Live Oak,TX,Hospital,Medical
+MHSOSTX,Methodist Hospital Stone Oak,29.6162229,-98.4743864,San Antonio,TX,Hospital,Medical
+BIMDCAZ,Banner Ironwood Med Ctr,33.2149409,-111.5657761,Queen Creek,AZ,Hospital,Medical
+HIRAYTX,Holiday Inn Express & Suites,31.9685988,-99.9018131,,TX,Hotel,Hotel
+LAURITX,Laurel Ridge Treatment Ctr,29.6025352,-98.4376258,San Antonio,TX,Hospital,Medical
+PKCNTPA,Pike County Jail,41.3890147,-75.0713413,Lords Valley,PA,IGSA,Non-Dedicated
+PKLDHTX,Parkland Hospital,32.8122271,-96.8356097,Dallas,TX,Hospital,Medical
+SMRVLTX,Somervell County Sheriff's Dept.,32.2501031,-97.7509648,Glen Rose,TX,Unknown,Other/Unknown
+WMDBHFL,West Miami Dade Bapt Health Emerg,25.6783781,-80.4556371,Miami,FL,Hospital,Medical
+BMCSATX,Baptist Medical Center,29.4333051,-98.4924434,San Antonio,TX,Hospital,Medical
+CISPVLA,County Inn & Ste By Rad,31.3560653,-92.4217977,Pineville,LA,Hotel,Hotel
+CSANOLA,Comfort Suites Alexandria,31.3438264,-92.5174888,Alexandria,LA,Hotel,Hotel
+FNDDUWI,Fond Du Lac County Sheriff/Jail,43.7734357,-88.4496848,Fond Du Lac,WI,Unknown,Other/Unknown
+HOLIETX,Holiday Inn Exp SNA Ap,29.5216846,-98.4856777,San Antonio,TX,Hotel,Hotel
+NEBHSTX,Northeast Baptist Hospital,29.5199802,-98.4287451,San Antonio,TX,Hospital,Medical
+CCHRTTX,Cedar Crest Hosp Treat,30.2931034,-97.7212174,Belton,TX,Hospital,Medical
+DEKABGA,Dekalb County Jail,33.7756919,-84.2448026,Decatur,GA,IGSA,Non-Dedicated
+LIMMCTX,Limeston Medical Center,31.5328173,-96.5312462,Groesbeck,TX,Hospital,Medical
+MIRHPRI,Miriam Hospital,41.8520301,-71.3980063,Providence,RI,Hospital,Medical
+PRSHANM,Presbyterian Hosp Abq,35.0817941,-106.6349329,Albuquerque,NM,Hospital,Medical
+UCSDHCA,Unv California San Diego Hospital,32.7542698,-117.166135,San Diego,CA,Hospital,Medical
+ANSGHTX,Anson General Hospital,32.76788,-99.8951875,Anson,TX,Hospital,Medical
+BNMCTAZ,Banner Medical Ctr Tucson,32.241991,-110.9471709,Tucson,AZ,Hospital,Medical
+BSWRRTX,Baylor Scott White Med RR,30.5634437,-97.6846195,Round Rock,TX,Hospital,Medical
+CHISLTX,Chi St Luke's Health Mem,31.3363231,-94.7421221,Lufkin,TX,Hospital,Medical
+EFMHMFL,Ed Fraser Memorial Hospital,30.2861576,-82.118911,Macclenny,FL,Hospital,Medical
+GMHATGA,Grady Memorial Hospital,33.7514934,-84.3826634,Atlanta,GA,Hospital,Medical
+HDHSPNV,Henderson Hospital,36.0728432,-115.0304734,Henderson,NV,Hospital,Medical
+HHCHKTX,Houston Healthcare Hosp,29.72272,-95.3875428,Houston,TX,Hospital,Medical
+MVPNHPA,Penn Highlands Clearfield,41.0339866,-78.4501047,Clearfield,PA,Hospital,Medical
+NYMARCC,Marcy Correctional,43.1601029,-75.3081881,Marcy,NY,Unknown,Other/Unknown
+RESIDTX,Residence Inn Dallas Ap,32.9268143,-97.0091731,Irving,TX,Hotel,Hotel
+RMWYPAZ,Ramada By Wyndham Pho,33.4879829,-112.0767899,Phoenix,AZ,Hotel,Hotel
+WWDHDNH,Wentworth Douglas Hospital,43.2132323,-70.8742397,Dover,NH,Hospital,Medical
+AKGSCCC,Goose Creek Correctional Center,61.3583091,-150.0061766,Wasilla,AK,Unknown,Other/Unknown
+ASWHRTX,Ascension Seton Williams Hosp,30.5670699,-97.6512507,Round Rock,TX,Hospital,Medical
+BELMOOH,Belmont County Jail,40.0757808,-80.9660143,St Clairsville,OH,Other,Other/Unknown
+BOPPET,Petersburg Fed.Corr.Inst.,37.2982604,-77.3396991,Hopewell,VA,Unknown,Other/Unknown
+DVHSPNV,Desert View Hospital,36.2145801,-116.0248884,Pahrump,NV,Hospital,Medical
+EPCDFTX,El Paso County Detention Facility,31.7585771,-106.4834745,El Paso,TX,Unknown,Other/Unknown
+EXTSAAZ,Extended Stay America,34.0489281,-111.0937311,,AZ,Hotel,Hotel
+HASMHTX,Haskell Memorial Hospital,33.1572563,-99.744781,Haskell,TX,Hospital,Medical
+HCAFMFL,HCA Florida Memorial Hospital,30.28838,-81.6013329,Jacksonville,FL,Hospital,Medical
+LIMCJTX,Limestone County Jail,31.5268364,-96.5148192,Groesbeck,TX,Unknown,Other/Unknown
+MWASHVA,Mary Washington Hospital,38.3109406,-77.4833261,Fredericksburg,VA,Hospital,Medical
+NRVRJVA,New River Valley Reg. Jail,37.0855493,-80.6782162,Dublin,VA,Other,Other/Unknown
+NYEASTC,Eastern C.F. Napanoch,41.738257,-74.360002,Napanoch,NY,Unknown,Other/Unknown
+NYGREAC,Great Meadow C.F.,43.4571231,-73.4327285,Comstock,NY,Unknown,Other/Unknown
+NYGROVC,Groveland C.F. Sonyea,42.6832932,-77.8338077,Sonyea,NY,Unknown,Other/Unknown
+NYMDSTC,Midstate Correctional,43.1674501,-75.3022974,Marcy,NY,Unknown,Other/Unknown
+OKMHKTX,Otto Kaiser Memorial Hospital,28.8507742,-97.8781976,Kenedy,TX,Hospital,Medical
+RVBHHTX,Rio Vista Behv Hlth Hsp,31.8798335,-106.5746087,El Paso,TX,Hospital,Medical
+SHNMCTX,Shannon Medical Center,31.4653418,-100.4349147,San Angelo,TX,Hospital,Medical
+SUWANFL,Suwannee County Jail,30.2951968,-82.9858552,Live Oak,FL,Unknown,Other/Unknown
+TRRMCNJ,Trinitas Regional Med Ctr,40.6585683,-74.2142182,Elizabeth,NJ,Hospital,Medical
+UHGMCOH,Univ Hosp Geauga Med Ctr,41.5081482,-81.1885616,Chardon,OH,Hospital,Medical
+UPMCAPA,UPMC Altoona,40.5218935,-78.3982646,Altoona,PA,Unknown,Other/Unknown
+ABRMCTX,Abilene Regional Med Ctr,32.3598573,-99.743409,Abilene,TX,Hospital,Medical
+ANDERSC,Anderson County Det Center,34.5336181,-82.6831717,Anderson,SC,Other,Other/Unknown
+ANWHMMN,Abbott Northwestern Hosp,44.9541746,-93.2615723,Minneapolis,MN,Hospital,Medical
+BARTOGA,Bartow Co Jail,34.1911781,-84.7774105,Cartersville,GA,Unknown,Other/Unknown
+BSTAYTX,Baylor Scott White Md Ctr,32.7932519,-96.7721525,Dallas,TX,Hospital,Medical
+CCCSSTX,Christus Spohn Hosp CC - South,27.6840682,-97.3771702,Corpus Christi,TX,Hospital,Medical
+CHFLDVA,Chesterfield Co. Jail,37.3789599,-77.507889,Chesterfield,VA,Unknown,Other/Unknown
+CHIHMIA,Chi Health Mercy Council Bluffs,41.2695505,-95.8377533,Council Bluffs,IA,Hospital,Medical
+CRMCFCA,Community Reg Med Center,36.7429513,-119.7842303,Fresno,CA,Hospital,Medical
+DRHCSTX,Dimmit Regional Hospital,28.5193252,-99.8633349,Carrizo Springs,TX,Hospital,Medical
+EMBSATX,Embassy Ste Hltn SNA Ap,29.5305391,-98.4836926,San Antonio,TX,Hotel,Hotel
+ENLMCCA,Enloe Medical Center,39.7430738,-121.8500492,Chico,CA,Hospital,Medical
+ESAPAAZ,Extended Stay America Pho Ap,33.4135297,-112.008015,Phoenix,AZ,Hotel,Hotel
+ESHSATX,Embassy Ste Hltn NW I-10,29.5084387,-98.5488839,San Antonio,TX,Hotel,Hotel
+FLBREVC,Brevard Correctional,28.4440412,-80.7830936,Cocoa,FL,Other,Other/Unknown
+FREESTX,Freestone County Jail,31.7246128,-96.1652481,Fairfield,TX,IGSA,Non-Dedicated
+GOODCID,Gooding County Jail,42.9389907,-114.7122011,Gooding,ID,Unknown,Other/Unknown
+GRAHAAZ,Graham Co Jail Safford AZ,32.855935,-109.712106,Safford,AZ,Unknown,Other/Unknown
+GSAMHCA,Good Samaritan Hospital,37.2531634,-121.9474221,San Jose,CA,Hospital,Medical
+HACMCNJ,Hackensack Med Ctr,40.8838604,-74.0563984,Hackensack,NJ,Hospital,Medical
+HACTCND,Heart Of America Corr,48.3737123,-99.9774987,Rugby,ND,Unknown,Other/Unknown
+HAMILTX,Hamilton County Jail (TX),31.6919921,-98.1287346,Hamilton,TX,Unknown,Other/Unknown
+HAMPITX,Hampton Inn Pearsall,28.8948923,-99.1116378,Pearsall,TX,Family Staging,Family/Youth
+HISAXLA,Hampton Inn & Stes Alexandria,31.3466425,-92.5224853,Alexandria,LA,Hotel,Hotel
+HSELPTX,Hawthorn Stes El Paso Airp,31.7925053,-106.3939331,El Paso,TX,Hotel,Hotel
+INDMPIN,Indianapolis Metropolitan PD,39.8251126,-86.1451439,Indianapolis,IN,Unknown,Other/Unknown
+KERNHCA,Kern Medical Hospital,35.3822723,-118.9699983,Bakersfield,CA,Hospital,Medical
+LCIMCTX,La Copa Inn Hotel,26.0860687,-97.1621906,South Padre Island,TX,Family Staging,Family/Youth
+MEMHOCA,Memorial Hospital Bakersfield,35.3928298,-119.0061819,Bakersfield,CA,Hospital,Medical
+MRREGVA,Middle River Regional Jail,38.1928742,-79.0116186,Staunton,VA,Unknown,Other/Unknown
+NCBHOTX,North Central Baptist Hospital,29.6201627,-98.4906958,San Antonio,TX,Hospital,Medical
+NNVMCNV,Northern Nevada Med Ctr,39.5415566,-119.698078,Sparks,NV,Hospital,Medical
+NYLIVIC,Livingston Correctional,42.683191,-77.8237252,Sonyea,NY,Unknown,Other/Unknown
+PMMCAHI,Pali Momi Medical Center,21.3835987,-157.9382973,Aiea,HI,Hospital,Medical
+RAMEPTX,Ramada By Wyndham El Paso,31.7421837,-106.3311571,El Paso,TX,Hotel,Hotel
+RDRVHTX,Red River Hospital,33.9063056,-98.5013548,Wichita Falls,TX,Hospital,Medical
+SLBHSTX,St Luke's Baptist Hospital,29.5123587,-98.5745483,San Antonio,TX,Hospital,Medical
+THHEBTX,TX Health Meth Hosp Heb,32.8349475,-97.1243867,Bedford,TX,Hospital,Medical
+TRVLIAZ,Traveler's Inn - Phoenix,33.4612965,-112.1703007,Phoenix,AZ,Hotel,Hotel
+UNIVHNJ,University Hospital,40.7419589,-74.1905087,Newark,NJ,Hospital,Medical
+VICTOTX,Victoria County Jail,28.8002906,-97.0086053,Victoria,TX,IGSA,Non-Dedicated
+GTMOACU,JTF Camp Six,21.521757,-77.781167,FPO,CU,DOD,Federal
+GTMODCU,Migrant Ops Center Main Av622,21.521757,-77.781167,FPO,CU,MOC,Federal
+BROHOMI,Bronson Methodist Hospital,42.2856526,-85.5802999,Kalamazoo,MI,Hospital,Medical
+CHSRHTX,Christus Santa Rosa Hospital - Med,32.8698779,-96.9420417,Irving,TX,Hospital,Medical
+BLKREOK,Blackwell Regional Hospital,36.79791,-97.3000499,Blackwell,OK,Hospital,Medical
+CIBOGNM,Cibola General Hospital,35.1624965,-107.8270107,Grants,NM,Hospital,Medical
+CONHOTX,Connally Memorial Medical Center,29.1587323,-98.1747642,Floresville,TX,Hospital,Medical
+CCHAUTX,Cross Creek Hospital,30.3382029,-97.6772882,Austin,TX,Hospital,Medical
+GSMCDPA,Geisinger Medical Center,40.9676873,-76.6045774,Danville,PA,Hospital,Medical
+GRGBVTX,Georgetown Behavioral Hospital,30.6148893,-97.6806285,Georgetown,TX,Hospital,Medical
+HAVMCWA,Harborview Medical Center,47.6039167,-122.323905,Seattle,WA,Hospital,Medical
+LBJHSTX,Harris Health LBJ Hospital,29.8120177,-95.3119688,Houson,TX,Hospital,Medical
+HNYHOMI,Henry Ford Hospital,42.3673845,-83.0853755,Detroit,MI,Hospital,Medical
+KENTHRI,Kent Hospital,41.705411,-71.477898,Warwick,RI,Hospital,Medical
+KNXCHTX,Knox County Hospital,33.4137599,-99.8113319,Knox City,TX,Hospital,Medical
+LPZRHAZ,La Paz Regional Hospital,34.1364371,-114.2853397,Parker,AZ,Hospital,Medical
+LHMCBMA,Lahey Hospital & Med Ctr,42.4842823,-71.2052427,Burlington,MA,Hospital,Medical
+LVYHOPA,Lehigh Valley Hospital - Pocono,40.9927301,-75.1753466,East Stroudsburg,PA,Hospital,Medical
+MHTFHOH,Mercy Health - Tiffin Hospital,41.10410890000001,-83.2162584,Tiffin,OH,Hospital,Medical
+MEMCRCA,Mercy Medical Ctr Redding,40.5719533,-122.3952328,Redding,CA,Hospital,Medical
+METHOTX,Methodist Hospital,29.5083177,-98.5718972,San Antonio,TX,Hospital,Medical
+OSCEOFL,Osceola County Jail,28.295161,-81.3522899,Kissimmee,FL,Unknown,Other/Unknown
+BIINCCO,"BI Incororated, GEO Group Company",39.7608904,-104.849106,Aurora,CO,Unknown,Other/Unknown
+BOPATL,Atlanta U.S. Pen.,33.7123165,-84.3680328,Atlanta,GA,Unknown,Other/Unknown
+NASTRNY,Nassau County ICE Trailer,40.7322705,-73.5534877,East Meadow,NY,Unknown,Other/Unknown
+PBDPDMA,Peabody PD,42.5241101,-70.9405983,Peabody,MA,Unknown,Other/Unknown
+MHRHOPA,Milton S. Hershey Medical Center,40.2637903,-76.6765984,Hershey,PA,Hospital,Medical
+PRESBNY,New York Presbyterian Hospital,40.8494125,-73.9330624,,NY,Hospital,Medical
+PAMSATX,Pam Health Specialty Hospital 1,31.9685988,-99.9018131,,TX,Hospital,Medical
+KPCHOAZ,Promise Hospital,33.4253983,-111.8216294,Mesa,AZ,Hospital,Medical
+QUEMCHI,Queen's Medical Center,21.3084698,-157.853858,Honolulu,HI,Hospital,Medical
+RIHPRRI,Rhode Island Hospital,41.8114484,-71.4109295,Providence,RI,Hospital,Medical
+ROCGHNY,Rochester General Hospital,43.1924602,-77.5863556,Rochester,NY,Hospital,Medical
+STJOSCO,Saint Joseph Hospital,39.746693,-104.9712458,Denver,CO,Hospital,Medical
+STCHOVA,Sentara Careplex Hospital,37.0568421,-76.39017,Hampton,VA,Hospital,Medical
+SSHSWMA,South Shore Hospital,42.1761037,-70.9539453,South Weymouth,MA,Hospital,Medical
+STFRHGA,St Francis Hospital,32.5056341,-84.9606883,Columbus,GA,Hospital,Medical
+STJMCWA,St Joseph Medical Center,47.24549409999999,-122.4479997,Tacoma,WA,Hospital,Medical
+STRMONY,Strong Memorial Hospital,43.122571,-77.6256798,Rochester,NY,Hospital,Medical
+TACGHWA,Tacoma General Hospital,47.2595367,-122.4529018,Tacoma,WA,Hospital,Medical
+UCSDMCA,UC San Diego Medical Center,32.75388,-117.16555,San Diego,CA,Hospital,Medical
+UHOSPIN,Union Hospital,39.4856183,-87.406951,Terre Haute,IN,Hospital,Medical
+UNMHANM,University of New Mexico Hospital,35.0882062,-106.6189678,Albuquerque,NM,Hospital,Medical
+WRMEDWI,Watertown Regional Medical Center,43.200151,-88.6965991,Waterton,WI,Hospital,Medical
+BREVDFL,Brevard County Jail Complex,28.4481004,-80.7817965,Cocoa,FL,Unknown,Other/Unknown
+SUMTEFL,Sumter County Jail,28.66272,-82.1085442,Bushnell,FL,Unknown,Other/Unknown
+FLGLRFL,Flagler County Jail,29.4523381,-81.2561332,Bunnel,FL,Unknown,Other/Unknown
+WPOHOLD,Williamsport Hold Room,41.2239063,-77.0718055,Williamsport,PA,Hold,Hold/Staging
+SMAHOLD,Santa Maria Sub Office ERO,34.9181061,-120.4447913,Santa Maria,CA,Unknown,Other/Unknown
+SYRHOLD,Syracuse Hold Room,43.1116761,-76.123955,N Syracuse,NY,Hold,Hold/Staging
+MOAHOLD,Mobile Holdroom,30.6951112,-88.0415541,Mobile,AL,Hold,Hold/Staging
+BLGHOLD,Bowling Green Hold Room,38.0495789,-77.3466468,Bowling Green,VA,Hold,Hold/Staging
+CCRMHMN,Centracare Rice Memorial Hosp,45.1200985,-95.0462445,Willmar,MN,Hospital,Medical
+LAKCOFL,Lake County Jail,28.8020026,-81.7329234,Tavares,FL,Unknown,Other/Unknown
+SMNOLFL,Seminole County Jail,28.7480403,-81.3001444,Sanford,FL,Unknown,Other/Unknown
+FLCHACI,"Charlotte CI, Punta Gorda",26.805735,-81.9037253,Punta Gorda,FL,Unknown,Other/Unknown
+BANHOAZ,Banner University Medical Phoenix,33.4645644,-112.0573664,Phoenix,AZ,Hospital,Medical
+BOPPHL,FDC Philadelphia,39.9529094,-75.1519248,Philadelphia,PA,BOP,Federal
+BAYCOFL,Bay County,30.2272291,-85.5619688,Panama City,FL,Unknown,Other/Unknown
+MARIOFL,Marion County Jail,29.1943814,-82.1748855,Oscala,FL,USMS IGA,Federal
+SROSAFL,Santa Rosa County Jail,30.6435242,-86.9743202,Milton,FL,Unknown,Other/Unknown
+CVANXCA,Central Valley Annex,35.6680961,-119.228991,McFarland,CA,Unknown,Other/Unknown
+CENTRVA,Centra Health,37.413683,-79.1687039,Lynchburg,VA,Hospital,Medical
+CSLLFTX,Chi St Luke's H M Lufkin,31.33624799999999,-94.7408633,Lufkin,TX,Hospital,Medical
+BOPLVN,Leavenworth USP,39.3303848,-94.9363856,Leavenworth,KS,Unknown,Other/Unknown
+ECRMCCA,El Centro Regional Med Ctr,32.7802542,-115.5685909,El Centro,CA,Hospital,Medical
+PHOSMGA,Phoebe Sumter Med Ctr,32.0669787,-84.2557711,Americus,GA,Hospital,Medical
+SPOTSVA,Spotsylvania Reg Med Ctr,38.2176157,-77.4957227,Fredericksburg,VA,Hospital,Medical
+UMEMCNY,United Memorial Med Ctr,42.9981156,-78.1875167,Batavia,NY,Hospital,Medical
+YRMDCAZ,Yuma Regional Med Ctr,32.6829492,-114.6358792,Yuma,AZ,Hospital,Medical
+ADVHDCA,Adventist Health Delano,35.7688425,-119.2470536,Delano,CA,Hospital,Medical
+HGHBECO,Highlands Behavioral Health,39.56276,-104.9076504,Littleton,CO,Hospital,Medical
+INTPOOK,Integris Health Ponca City Hospita,36.7247236,-97.0684996,Ponca City,OK,Hospital,Medical
+MHFSHMN,M Health Fairview Southdale Hosp,44.8866338,-93.3266215,Edina,MN,Hospital,Medical
+MCHALMN,Mayo Clinic Health Sys Albert Lea,43.6523265,-93.3731796,Albert Lea,MN,Hospital,Medical
+SLHTWTX,St Luke's Health - The Woodlands,30.2059835,-95.4586776,The Woodlands,TX,Hospital,Medical
+BBCHPMI,Bronson Battle Creek Hosp,42.3311155,-85.1778473,Battle Creek,MI,Hospital,Medical
+MEHOSCA,Mercy Hosp Downtown Bakersfield,35.3731412,-119.0271451,Bakersfield,CA,Hospital,Medical
+PHPMHGA,Phoebe Putney Memorial Hosp,31.5900229,-84.1582079,Albany,GA,Hospital,Medical
+PCRMMGA,Piedmount Columbus Reg Midtown MC,32.4809483,-84.9827925,Columbus,GA,Hospital,Medical
+THHMHTX,TX Hlth Harris Meth Hosp,32.7358137,-97.3389148,Fort Woth,TX,Hospital,Medical
+UPSLHIA,Unity Point Hlth St Lukes Hosp,41.9853036,-91.6604322,Cedar Rapids,IA,Hospital,Medical
+JACKSTN,Jackson County Sheriff,36.3487051,-85.6561295,Gainesboro,TN,Unknown,Other/Unknown
+MANATFL,Manatee County Detention-Annex,27.6375916,-82.5399547,PALMETTO,FL,IGSA,Non-Dedicated
+ADVHBCA,Adventist Health Bakersfield,35.3833744,-119.0206543,Bakersfield,CA,Hospital,Medical
+CSSCHVA,Centra Southside Comm Hosp,37.3025986,-78.4040408,Farmville,VA,Hospital,Medical
+CWHCCMP,Commonwealth Healthcare Corp,15.2104085,145.7246921,"Fananganan, Saipan",MP,Hospital,Medical
+HHBTHTX,Harris Health Ben Taub Hospital,29.7106568,-95.3938298,Houston,TX,Hospital,Medical
+MLPHHMI,McLaren Port Huron Hosp,42.9869446,-82.4297392,Port Huron,MI,Hospital,Medical
+MTNITPA,Mount Nittany Medical Center,40.8187711,-77.8426243,State College,PA,Hospital,Medical
+NMCOMNE,Nebraska Med Ctr Omaha,41.2570971,-95.9753763,Omaha,NE,Hospital,Medical
+SARASFL,Sarasota County Jail,27.3362409,-82.5297893,SARASOTA,FL,IGSA,Non-Dedicated
+EPSSFTX,El Paso Soft Sided Facility,31.8836416,-106.4409459,El Paso,TX,Staging,Hold/Staging
+OKCIMMC,Cimarron Correctional Facility,35.9850639,-96.76697,Cushing,OK,USMS IGA,Federal
+BOPBER,FCI Berlin,44.5209255,-71.1377688,Berlin,NH,BOP,Federal
+WLTSOFL,Walton County Jail,30.7829996,-86.1044448,DeFuniak Springs,FL,USMS IGA,Federal
+STGENMO,Ste. Genevieve County Sheriff/Jail,37.9659484,-90.055775,Ste. Genevieve,MO,USMS IGA,Federal
+PUTNMTN,Putnam County Sheriff,36.1614631,-85.4978924,Cookeville,TN,USMS IGA,Federal
+OZARKMO,Ozark County Sheriff'S Office,36.5999313,-92.4490691,Gainesville,MO,IGSA,Non-Dedicated
+PHELPMO,Phelps County Jail,37.9457141,-91.7750534,Rolla,MO,USMS IGA,Federal
+OHNORWE,Corrections Center of NW Ohio,41.4587547,-84.3572114,Stryker,OH,USMS IGA,Federal
+LARELKY,Laurel County Corrections,37.0567034,-84.0712072,London,KY,USMS IGA,Federal
+HPKNSKY,Hopkins County Jail,37.3377473,-87.5399132,Madisonville,KY,USMS IGA,Federal
+CPBDCKY,Campbell Co Det Ctr,39.0890842,-84.4963222,Newport,KY,USMS IGA,Federal
+CLARKIN,Clark County Jail,38.277738,-85.7377543,Jeffersonville,IN,USMS IGA,Federal
+KENTOKY,Kenton Co Detention Ctr,39.0024497,-84.5310618,Covington,KY,IGSA,Non-Dedicated
+CLINTIN,Clinton County Jail,40.2792086,-86.508778,Frankfort,IN,USMS IGA,Federal
+TGKJLFL,Turner Guiford Knight (TGK) Jail,25.8100875,-80.3116794,Miami,FL,Unknown,Other/Unknown
+BOURBKY,Bourbon Co Det Center,38.2239987,-84.2460821,Paris,KY,Unknown,Other/Unknown
+NLSCOLA,Nelson Coleman Corrections Center,29.9925717,-90.5023208,Killona,LA,Unknown,Other/Unknown
+TBRJLME,Two Bridges Regional Jail,43.9785024,-69.698928,Wiscasset,ME,USMS IGA,Federal
+SAUKCWI,Sauk County Sheriff,43.4614259,-89.7666978,Baraboo,WI,Unknown,Other/Unknown
+ABIRJVA,B.R.R.J. Abingdon,37.4131622,-79.145069,Lynchburg,VA,Unknown,Other/Unknown
+GUAMHGU,Guam Memorial Hospital,13.5048539,144.7745069,Tamuning,GU,Medical,Medical
+UNMEDMD,Univ of Maryland Medical Center,39.2880132,-76.6248449,Baltimore,MD,Medical,Medical
+COXMEMO,Coxhealth Medical Center South,37.144768,-93.2803579,Springfield,MO,Medical,Medical
+FRANKPA,Franklin County Jail,40.0015488,-77.6444102,Chambersburg,PA,Unknown,Other/Unknown
+NUMCENY,Nassau Univ Med Ctr,40.7272159,-73.5540616,East Meadow,NY,Medical,Medical
+PKMEDIN,Parkview Regional Medical Center,41.1869317,-85.101465,Fort Wayne,IN,Medical,Medical
+POTTRTX,Potter County Jail,35.2405523,-101.6672999,Amarillo,TX,Unknown,Other/Unknown
+SPRHONY,Spring Valley Hospital,,,,,Medical,Medical
+SSHNHNY,Southside Hosp Northwell Hlth,40.7256114,-73.2405238,Bay Shore,NY,Medical,Medical
+WALTNFL,Walton County D.O.C.,30.7791787,-86.1041101,DeFuniak Springs,FL,Unknown,Other/Unknown
+ADVHCHI,Adventist Health Castle,21.3808543,-157.7577795,Kailua,HI,Medical,Medical
+AHGRFND,Altru Hospital Grand Forks,47.9113441,-97.0691445,Grand Forks,ND,Medical,Medical
+BFLHPNY,Buffalo General Hospital,42.9004761,-78.8651035,Buffalo,NY,Medical,Medical
+CCRMCCA,Contra Costa Reg Med Ctr,38.0066858,-122.1328513,Martinez,CA,Medical,Medical
+CNTRHWA,Central Washington Hospital,47.4072059,-120.3215494,Wenatchee,WA,Medical,Medical
+KENMHNY,Kenmore Mercy Hospital,42.9776705,-78.8799486,Kenmore,NY,Medical,Medical
+MRYHOMO,Mercy Hospital South,38.5105271,-90.3813786,Saint Louis,MO,Medical,Medical
+PHELSMO,Phelps Health Hospital,37.9530624,-91.785217,Rolla,MO,Medical,Medical
+SNTRHNY,Sunrise Hospital,,,,,Medical,Medical
+UMASSMA,UMass Memorial Medical Center,42.2775032,-71.7616171,Worcester,MA,Medical,Medical
+UPSLSIA,Unitypoint Hlth St Lukes Hosp SXC,42.5194638,-96.4059744,Sioux City,IA,Medical,Medical
+VCUHOVA,VCU Health Tappahannock Hospital,37.9008751,-76.8791228,Tappahannock,VA,Medical,Medical
