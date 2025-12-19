@@ -1,7 +1,7 @@
 ![](https://www.vera.org/dist/img/logo_full.svg)
 
 # ICE Detention Trends Data
-Vera’s [ICE Detention Trends](http://vera.org/ice-detention-trends) dashboard reveals an unprecedented level of detail about ICE detention populations—nationally and across the 1,397 facilities in which ICE detained people—on each day of the 16-year period from fiscal year 2009 through mid-fiscal year 2025 (October 1, 2008, through June 10, 2025). This repository includes the aggregated data visualized in the dashboard, including information on:
+Vera’s [ICE Detention Trends](http://vera.org/ice-detention-trends) dashboard reveals an unprecedented level of detail about ICE detention populations—nationally and across the 1,464 facilities in which ICE detained people—on each day of the 16-year period from fiscal year 2009 through the beginning of fiscal year 2026 (October 1, 2008, through October 15, 2025). This repository includes the aggregated data visualized in the dashboard, including information on:
 
 - Midnight population: the daily number of people detained at midnight
 (nationally and by facility).
@@ -15,20 +15,21 @@ its reporting, Vera includes both types of daily populations—midnight and
 - Facility names, locations, and types (as coded by ICE in other datasets, where available).
 
 ## About the Data
-This dashboard primarily draws from ICE detention datasets obtained through Freedom of Information Act (FOIA) requests, shared with Vera by David Hausman, assistant professor of law, University of California, Berkeley, and the American Civil Liberties Union (ACLU). The initial version of this dashboard, launched in August 2023, used data from October 1, 2008, through March 30, 2020 (“Dataset I”). Vera updated this tool in July 2025 to add more recent data. The current iteration of the tool uses data from October 1, 2008, through June 10, 2025 (fiscal year 2009 through mid-fiscal year 2025). The data includes detention history information for every person in ICE custody during this time. 
+This dashboard primarily draws from ICE detention datasets obtained through Freedom of Information Act (FOIA) requests by David Hausman, assistant professor of law, University of California, Berkeley, the American Civil Liberties Union (ACLU), and the [Deportation Data Project](https://deportationdata.org/). The initial version of this dashboard, launched in August 2023, used data from October 1, 2008, through March 30, 2020 (“Dataset I”). Vera updated this tool in July 2025 to add more recent data through June 10, 2025. The current iteration of the tool, updated in December 2025, uses data from October 1, 2008, through October 15, 2025 (fiscal years 2009 through 2025). The data includes detention history information for every person in ICE custody during this time. 
 
 The structure of Dataset I, used for the original dashboard release in August 2023, posed several challenges for researchers seeking to analyze ICE operations. Most notably, the dataset does not link together separate detention stints for people whom ICE transferred to one or more facility after their initial book-in. To overcome this limitation, Vera developed a novel algorithm to construct individual detention histories from a person’s initial book-in to their final-book out, inclusive of any transfers. Doing so allowed Vera to combine records across spreadsheets, account for duplicated data, and compute detention populations.   
 
-Vera later received updated datasets (“Dataset II” and “Dataset III”) that included anonymized identifiers that linked records across a person’s detention history. These newer datasets are nearly identical in form to the original dataset, with some exceptions requiring a revised method of calculating detention population statistics, as described in Vera’s technical appendix. Vera used these different datasets to calculate statistics for different time periods, with some exceptions explained in the technical appendix:
+Vera later received updated datasets (“Dataset II”, “Dataset III”, and "Dataset IV") that included anonymized identifiers that linked records across a person’s detention history. These newer datasets are nearly identical in form to the original dataset, with some exceptions requiring a revised method of calculating detention population statistics, as described in Vera’s technical appendix. Vera used these different datasets to calculate statistics for different time periods, with some exceptions explained in the technical appendix:
 - Dataset I: October 1, 2008, through September 30, 2013;
-- Dataset II: October 1, 2013, through September 30, 2023; and
-- Dataset III: October 1, 2023, through June 10, 2025.
+- Dataset II: October 1, 2013, through September 30, 2023; 
+- Dataset III: October 1, 2023, through May 30, 2025; and
+- Dataset IV: June 1, 2025, through October 15, 2025.
 
-Differences in facility populations before and after the respective date boundaries (i.e., from September 30 to October 1, 2013, and from September 30 to October 1, 2023) may at least partially reflect differences in how ICE compiled the different datasets, rather than a population change alone.
+Differences in facility populations before and after the respective date boundaries (i.e., from September 30 to October 1, 2013; from September 30 to October 1, 2023; and from May 31 to June 1, 2025) may at least partially reflect differences in how ICE compiled the different datasets, rather than a population change alone.
 
 Vera counts each unique facility code in the ICE detention data as a distinct facility. Some facility codes appear to reflect different units or buildings in the same or adjacent physical property as another code. Other facility codes reflect facility “types” other than a detention center, such as hospitals or hotels. Vera did not combine or group facility codes for two reasons. First, there is no available ICE source to combine such codes for the entire ICE network. Second, the fact that ICE uses distinct codes in these instances indicates that they carry some significance in data entry.
 
-The original datasets included facility names and codes, but no information on location or facility type. Vera drew from additional datasets and public sources to geocode facility locations and assign facility types. Given the lack of a comprehensive, up-to-date ICE source to assign facility types to all 1,397 facility codes in the dataset, Vera’s categorizations should be interpreted as best-known facility type. To simplify map filtering options, Vera grouped facility types assigned by ICE, as well as ones manually entered by Vera, into the following categories:
+The original datasets included facility names and codes, but no information on location or facility type. Vera drew from additional datasets and public sources to geocode facility locations and assign facility types. Given the lack of a comprehensive, up-to-date ICE source to assign facility types to all 1,464 facility codes in the dataset, Vera’s categorizations should be interpreted as best-known facility type. To simplify map filtering options, Vera grouped facility types assigned by ICE, as well as ones manually entered by Vera, into the following categories:
 - Non-Dedicated: IGSA (Inter-governmental Service Agreement).
 - Dedicated: DIGSA (Dedicated IGSA), SPC (Service Processing Center), CDF (Contract Detention Facility).
 - Federal: USMS IGA (U.S. Marshals Service Inter-governmental Agreement), BOP (Bureau of Prisons), USMS CDF (U.S. Marshals Service Contract Detention Facility), DOD (Department of Defense), MOC (Migrant Operations Center). Because ICE can be added to other federal agencies’ facility contracts or agreements through a “rider,” Vera reports federal facilities as a separate category, rather than grouped with other categories such as non-dedicated facilities.
@@ -54,23 +55,14 @@ ice-detention-trends/
     |-- License.md
     |-- national.csv
     |-- facility/
-    |   |-- FY2009.csv
-    |   |-- FY2010.csv
-    |   |-- FY2011.csv
-    |   |-- FY2012.csv
-    |   |-- FY2013.csv
-    |   |-- FY2014.csv
-    |   |-- FY2015.csv
-    |   |-- FY2016.csv
-    |   |-- FY2017.csv
-    |   |-- FY2018.csv
-    |   |-- FY2019.csv
-    |   |-- FY2020.csv
-    |   |-- FY2021.csv
-    |   |-- FY2022.csv
-    |   |-- FY2023.csv
-    |   |-- FY2024.csv
-    |   `-- FY2025.csv
+    |   |-- by_fiscal_year/
+    |   |   |-- FY2009.csv
+    |   |   |-- ...
+    |   |   `-- FY2026.csv
+    |   |-- by_state/
+    |   |   |-- alabama.csv
+    |   |   |-- ...
+    |   |   `-- wyoming.csv
     `-- metadata/
         `-- facilities.csv
 ```
@@ -89,18 +81,20 @@ National population statistics for each day between October 1, 2008, and June 10
 
 ## `facility/`
 ### `FY20XX.csv`
-Facility-level population statistics for each day between October 1, 2008, and June 10, 2025, including midnight population and 24-hour population.  To make file sizes more manageable, Vera split the data into separate .csv files by fiscal year (October 1 of the previous year through September 30 of a given year). Note: fiscal year 2025 is a partial fiscal year covering October 1, 2024, to June 10, 2025.
+Facility-level population statistics for each day between October 1, 2008, and October 15, 2025, including midnight population and 24-hour population.  To make file sizes more manageable, Vera split the data into separate .csv files by state and by fiscal year (October 1 of the previous year through September 30 of a given year). Fiscal year 2026 is a partial fiscal year covering October 1, 2025, to October 15, 2025. The state subfolder includes files for each state as well as for Naval Station at Guantánamo Bay (Cuba), Puerto Rico, Guam, the Northern Mariana Islands, and the U.S. Virgin Islands. Due to the large number of facilities in Texas, the data is split into two files (texas_pt1.csv and texas_pt2.csv) to avoid truncation of rows in certain programs.
 
 | Variable                | Type      | Description                                                                                                                   |
 | ----------------------- | --------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | detention_facility_code | `string`  | The unique identifier used in the ICE detention data for each facility                                                        |
+| detention_facility_name | `string`  | The facility name associated with the detention_facility_code in the ICE detention data                                                        |
+| state                    | `string`    | The state abbreviation code. This also includes codes for U.S. territories (e.g. "PR" for "Puerto Rico") and Cuba ("CU") for facilities at Naval Station Guantanamo Bay.                                                                      |
 | date                    | `date`    | The day each count is reported for (`yyyy-mm-dd` format)                                                                      |
 | daily_pop               | `numeric` | 24-hour population:  the number of people detained for any part of a given day, including those whom ICE transferred or booked-out of custody before midnight |
 | midnight_pop            | `numeric` | Midnight population: the daily number of people detained at midnight                                                  |
 
 ## `metadata/`
 ### `facilities.csv`
-A lookup table mapping each detention_facility_code to information about the facility, drawing from supplemental ICE data and other sources. (See technical appendix for more detail.)
+A lookup table mapping each detention_facility_code to information about the facility.The ICE detention datasets include facility names and codes, but no information on location or facility type. Vera drew from additional datasets and public sources to geocode facility locations and assign facility types. Given the lack of a comprehensive, up-to-date ICE source to assign facility types to all facility codes in the dataset, Vera’s categorizations  should be interpreted as best-known facility type. See technical appendix for more detail.
 
 | Variable                | Type      | Description                                                                                        |
 | ----------------------- | --------- | -------------------------------------------------------------------------------------------------- |
@@ -108,8 +102,12 @@ A lookup table mapping each detention_facility_code to information about the fac
 | detention_facility_name | `string`  | The facility name associated with the detention_facility_code in the ICE detention data            |
 | latitude                | `numeric` | The latitude coordinate of the facility location                                                   |
 | longitude               | `numeric` | The longitude coordinate of the facility location                                                  |
+| address                    | `string`  | The best known facility address                                                          |
 | city                    | `string`  | The city in which the facility is located                                                          |
+| county                    | `string`  | The county in which the facility is located                                                          |
 | state                   | `string`  | The state abbreviation code. This also includes codes for U.S. territories (e.g. "PR" for "Puerto Rico") and Cuba ("CU") for facilities at Naval Station Guantanamo Bay. |
+| aor                   | `aor`  | The ICE Area of Responsibility (AOR), originally mapped by Will Craft of the Guardian US. This reflects county boundaries extracted from ICE's [field office map](https://www.ice.gov/doclib/about/offices/ero/pdf/eroFieldOffices.pdf), last updated by ICE in February 2024.  |
+
 | type_detailed           | `string`  | The facility type as coded by ICE in supplemental data sources where available                     |
 | type_grouped            | `string`  | Vera's categorization of facility types to simplify map filtering options for the dashboard.       |
 
@@ -125,10 +123,11 @@ Data engineering: Zachary Lawrence and Neil Agarwal
 Design and development: Neil Agarwal
 
 Writing: Noelle Smart
+
 Editing: Léon Digard
 
 # Acknowledgements
-Vera thanks [David Hausman](https://www.david-hausman.com/), and the American Civil Liberties Union (ACLU) for providing the detention-stint-level ICE detention [datasets](https://deportationdata.org/) acquired through FOIA requests which are visualized in this dashboard. Vera also thanks the following organizations for making available the supplemental ICE datasets Vera used to process the data and geocode facilities: Human Rights Watch, Transactional Records Access Clearinghouse, National Immigrant Justice Center, Immigrant Legal Resource Center, and the Marshall Project.
+Vera thanks [David Hausman](https://www.david-hausman.com/), the American Civil Liberties Union (ACLU), and the [Deportation Data Project](https://deportationdata.org/) for providing the detention-stint-level ICE detention datasets acquired through FOIA requests which are visualized in this dashboard. Vera also thanks the following organizations for making available the supplemental ICE datasets Vera used to process the data and geocode facilities: Human Rights Watch, Transactional Records Access Clearinghouse, National Immigrant Justice Center, Immigrant Legal Resource Center, the Marshall Project, and Will Craft (The Guardian US).
 
 Vera would like to thank the following current and former colleagues for their support and guidance on this project: Nina Siulc, Jacquelyn Pavilon, Bethany Costello, Kenny Lam, Liz Kenney, Karen Ball, Megan Diamondstein, Chris Henrichson, and Lizzie Allen. The authors wish to acknowledge the work of Dennis Kuo, who contributed to the development of the Detention Stay ID algorithm during his time as senior data scientist at Vera.
 
